@@ -11,6 +11,8 @@ setwd("~/Documents/ICT procurement")
 ict.all <- read.csv("ict_all.csv", stringsAsFactors = FALSE)
 
 json.df = data.frame(matrix(nrow = 0, ncol=10), stringsAsFactors = FALSE)
+
+json.df.names <- c("Abn", "AbnStatus", "AddressDate", "AddressPostcode", "AddressState", "EntityName", "EntityTypeCode", "EntityTypeName", "Gst", "Message")
 colnames(json.df) <- json.df.names
 
 for(i in 1:nrow(ABN.co)) {
