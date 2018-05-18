@@ -6,17 +6,18 @@ library(xml2)
 library(RCurl)
 library(RJSONIO)
 library(jsonlite)
-setwd("~/Documents/ICT procurement")
+library(igraph)
+library(GGally)
+
+setwd("~/ICT_procurement_research/")
 
 ict.all <- read.csv("ict_all.csv", stringsAsFactors = FALSE)
 
 json.df = data.frame(matrix(nrow = 0, ncol=10), stringsAsFactors = FALSE)
-
-json.df.names <- c("Abn", "AbnStatus", "AddressDate", "AddressPostcode", "AddressState", "EntityName", "EntityTypeCode", "EntityTypeName", "Gst", "Message")
 colnames(json.df) <- json.df.names
 
 for(i in 1:nrow(ABN.co)) {
-  url.abn <- paste0("https://abr.business.gov.au/json/AbnDetails.aspx?abn=",ABN.co[i,1], "&callback=callback&guid=b4d042f8-5440-4f80-ae26-ecb487875a22", sep = "")
+  url.abn <- paste0("https://abr.business.gov.au/json/AbnDetails.aspx?abn=",ABN.count[i,1], "&callback=callback&guid=b4d042f8-5440-4f80-ae26-ecb487875a22", sep = "")
   json.data <- getURL(url.abn)
   json.data <- str_replace_all(json.data, "callback\\(", "")
   json.data <- str_replace_all(json.data, "\\)", "")
@@ -69,3 +70,56 @@ cat.df <- data.frame(Category = cat.all, kf25 = kfit25$cluster, kf50 = kfit50$cl
 
 ict.net <- data.frame(ict.comb$Agency, ict.comb$EntityName, ict.comb$Category, ict.comb$Value, stringsAsFactors = FALSE)
 
+filter(ABN == "ABN Exempt")
+
+  abn.exempt$Supplier.Name[11306] <- "Uauline Presta de Internet Ltda"
+  abn.exempt$Supplier.Name[18781] <- "IFREMER Institut Franais de Reche"
+  abn.exempt$Supplier.Name[15321] <- "FACTIVA DOW JONES & REUTERS"
+  abn.exempt$Supplier.Name[15320] <- "FACTIVA DOW JONES & REUTERS"
+  abn.exempt$Supplier.Name[15319] <- "FACTIVA DOW JONES & REUTERS"
+  abn.exempt$Supplier.Name[15199] <- "Funda Anglo Brasileira de Educa e Cultura de Sao Paulo"
+  abn.exempt$Supplier.Name[15158] <- "Funda Anglo Brasileira de Educa e Cultura de Sao Paulo"
+  abn.exempt$Supplier.Name[11306] <- "Uauline Presta de Internet Ltda"
+  abn.exempt$Supplier.Name <- tolower(abn.exempt$Supplier.Name)
+
+ict.comb.ae <- ict.comb
+ict.comb.ae[ict.comb.ae$ABN == "ABN Exempt",] <- abn.exempt
+ict.comb.ae$Supplier.Name <- str_replace_all(ict.comb.ae$Supplier.Name, "\\\b86\\\ff", "")
+ict.comb.ae$Supplier.Name <- tolower(ict.comb.ae$Supplier.Name)
+ict.comb.ae$Supplier.Name <- trimws(ict.comb.ae, which = "right")
+
+ict.net <- data.frame(ict.comb.ae$Agency, ict.comb.ae$Supplier.Name, stringsAsFactors = FALSE)
+colnames(ict.net) <- c("Agency", "Supplier")
+
+ict.igraph <- graph_from_data_frame(ict.igraph)
+ict.simp <- simplify(ict.igraph)
+jpeg("ict_simp.jpg", width = 1440, height = 960, quality = 300)
+plot(ict.simp, vertex.label = NA, vertex.size = 3, edge.color = "grey", edge.alpha = .3)
+dev.off()
+
+cleanse <- function(x) {
+  cat.dtm <- Corpus(VectorSource(x))
+  cat.dtm <- tm_map(cat.dtm, content_transformer(tolower))
+  cat.dtm <- tm_map(cat.dtm, removePunctuation)
+  cat.dtm <- tm_map(cat.dtm, removeNumbers)
+  cat.dtm <- tm_map(cat.dtm, removeWords, stopwords("english"))
+  cat.dtm <- tm_map(cat.dtm, stemDocument)
+  cat.dtm <- tm_map(cat.dtm, stripWhitespace)
+  cat.dtm <- DocumentTermMatrix(cat.dtm)
+}
+
+cat.2.sparse <- removeSparseTerms(cat.2, .99964)
+
+kfit100.sp <- kmeans(dist(as.matrix(cat.2.sparse)), centers = 100, nstart = 100)
+cat.df <- cbind(cat.df, kfit100.sp$cluster)
+
+kfit150.sp <- kmeans(dist(as.matrix(cat.2.sparse)), centers = 150, nstart = 100)
+kfit150 <- kmeans(dist(as.matrix(cat.2)), centers = 150, nstart = 100)
+kfit250.sp <- kmeans(dist(as.matrix(cat.2.sparse)), centers = 250, nstart = 100)
+kfit250 <- kmeans(dist(as.matrix(cat.2)), centers = 250, nstart = 100)
+
+cat.df <- cbind(cat.df, kfit150.sp$cluster,kfit150$cluster, kfit250$cluster, kfit250.sp$cluster)
+write.csv(cat.df, "category_clusters.csv")
+
+cge <- unique(ict.comb.ae$EntityName[ict.comb.ae$EntityTypeCode == "CGE"])
+cge.agency <- unique(ict.comb.ae$Agency)
