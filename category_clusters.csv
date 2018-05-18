@@ -1,0 +1,2836 @@
+"","Category","kf25","kf50","kf100","kfit100.sp$cluster","kfit150.sp$cluster","kfit150$cluster","kfit250$cluster","kfit250.sp$cluster"
+"1","real estate services",1,50,31,98,149,80,119,106
+"2","printed media",14,26,70,3,140,109,183,59
+"3","management and business professionals and administrative services",15,9,40,18,65,18,145,81
+"4","insurance and retirement services",1,50,31,98,149,80,119,106
+"5","human resources services",1,50,31,98,149,80,119,106
+"6","motor vehicles",14,7,62,21,122,84,81,137
+"7","computer services",10,46,54,92,99,46,6,236
+"8","accounting and auditing",14,36,89,21,127,78,188,176
+"9","publication printing",14,26,70,3,140,109,183,59
+"10","structures and building and construction and manufacturing components and supplies",4,48,55,5,94,126,242,90
+"11","passenger motor vehicles",23,12,79,41,43,95,45,55
+"12","passenger transport",14,7,84,56,30,77,178,197
+"13","business administration services",21,50,23,15,84,80,84,14
+"14","travel and food and lodging and entertainment services",15,8,40,18,65,18,120,157
+"15","information technology broadcasting and telecommunications",25,20,35,62,64,32,210,127
+"16","building and construction and maintenance services",8,13,13,94,7,101,89,69
+"17","computer equipment and accessories",19,6,87,8,144,28,64,43
+"18","marketing and distribution",14,36,58,48,127,117,118,144
+"19","legal services",10,46,54,92,99,51,109,1
+"20","telecommunications media services",1,50,36,98,149,80,164,108
+"21","community outreach programs",23,12,53,21,143,20,228,63
+"22","electrical equipment and components and supplies",11,32,34,23,54,102,180,226
+"23","information services",10,46,54,92,99,51,109,1
+"24","furniture and furnishings",14,22,84,76,137,141,99,130
+"25","tools and general machinery",22,45,93,78,35,1,215,124
+"26","storage",7,11,25,59,62,85,131,7
+"27","transport operations",14,7,84,56,30,77,178,197
+"28","vulnerability assessment security equipment",11,32,20,20,33,88,245,241
+"29","chartered aeroplane travel",23,12,53,41,87,20,12,20
+"30","travel facilitation",14,36,89,21,91,16,127,205
+"31","trade policy and services",1,50,36,98,149,80,164,181
+"32","internal audits",14,36,89,21,91,16,71,205
+"33","management advisory services",1,50,4,14,97,63,165,208
+"34","temporary personnel services",1,50,36,98,57,80,164,145
+"35","education and training services",1,50,23,70,15,63,27,229
+"36","hotels and lodging and meeting facilities",25,20,35,62,64,32,8,127
+"37","building construction and support and maintenance and repair services",12,43,72,67,29,106,93,94
+"38","general building construction",23,12,93,41,108,54,144,133
+"39","alternative educational systems",17,27,100,13,92,150,241,220
+"40","advertising",7,2,8,86,137,56,179,150
+"41","management and provision of all catering, cleaning, office and security services at location or platform",9,37,41,32,24,100,217,217
+"42","information technology consultation services",2,13,68,94,63,101,221,189
+"43","cleaning and janitorial services",1,50,31,70,55,80,140,106
+"44","power generation",14,21,37,21,49,138,95,166
+"45","floor coverings",14,36,89,21,91,16,240,218
+"46","floriculture and silviculture products",23,12,46,74,79,119,198,107
+"47","transportation and storage and mail services",2,13,68,94,7,101,249,70
+"48","fuels",7,2,8,86,39,103,102,163
+"49","building and construction machinery and accessories",25,20,92,50,113,137,177,45
+"50","printing and publishing equipment",19,6,87,20,3,17,47,247
+"51","language schooling",14,36,89,21,91,16,71,205
+"52","agricultural research services",1,50,36,98,149,47,53,106
+"53","agriculture and forestry and other natural resources training services",12,43,72,67,29,23,93,94
+"54","agricultural institutions organisation or management services",15,9,40,18,65,18,145,81
+"55","travel agencies",14,36,89,21,91,16,127,205
+"56","computer support parts or accessories",25,20,92,50,113,137,177,72
+"57","distribution",7,2,8,86,137,15,34,150
+"58","editorial and design and graphic and fine art services",12,43,72,67,29,23,93,94
+"59","government auditing services",1,50,31,98,149,80,119,106
+"60","electrical cable and accessories",18,30,48,9,119,110,176,235
+"61","compensation or benefits planning",23,12,53,21,86,97,79,205
+"62","audit services",10,46,54,92,99,51,109,1
+"63","lease and rental of property or building",25,20,35,62,64,32,210,127
+"64","printing",7,2,25,86,137,68,190,150
+"65","travel agents",14,36,89,21,91,16,127,205
+"66","workshops",7,2,8,86,137,15,34,150
+"67","agro ecological zones assessment or planning",16,16,42,41,87,57,224,118
+"68","budget preparation or review services",2,13,68,94,63,101,221,189
+"69","adoption services",10,46,54,72,58,51,109,60
+"70","license management software",23,14,56,99,105,22,162,179
+"71","printed publications",14,26,70,3,140,109,183,59
+"72","editing services",10,46,54,92,99,51,109,1
+"73","components for information technology or broadcasting or telecommunications",3,16,45,47,85,9,155,89
+"74","mail and cargo transport",23,12,33,12,5,149,51,200
+"75","fleet management services",1,50,4,92,61,63,165,121
+"76","entertainment services",10,46,54,92,99,51,109,1
+"77","community and social services",1,50,31,98,149,80,119,106
+"78","workstations and office packages",23,12,53,21,93,20,126,147
+"79","software",7,19,30,73,79,48,229,38
+"80","educational stickers and supplies",23,30,19,65,128,36,248,206
+"81","recruitment services",10,46,54,92,99,51,109,1
+"82","electronic and communication measuring and testing instruments",16,16,42,47,66,57,231,62
+"83","internet services",10,46,54,92,99,51,109,1
+"84","financial and insurance services",1,50,31,98,149,80,119,106
+"85","stamps",7,2,8,86,137,15,34,150
+"86","professional engineering services",1,50,36,98,57,80,119,145
+"87","phone and video conference equipment and hardware and controllers",4,48,32,85,123,75,74,201
+"88","parking structures",14,36,89,21,91,135,148,240
+"89","videoconferencing systems",13,5,16,53,82,86,175,161
+"90","interior design or decorating",23,12,53,41,87,20,12,20
+"91","safety training services",1,50,23,70,15,63,27,229
+"92","human resource development",23,12,53,64,87,29,29,44
+"93","banking and investment",14,36,89,21,91,16,71,205
+"94","media control systems",17,27,100,13,92,150,117,220
+"95","market research",14,36,58,48,127,117,118,144
+"96","general building and office cleaning and maintenance services",12,43,72,67,29,106,93,94
+"97","business and corporate management consultation services",15,9,40,18,65,18,145,81
+"98","television services",10,46,54,92,99,51,109,1
+"99","uninterruptible power supplies",23,30,19,65,128,36,248,206
+"100","mailing services",10,46,54,92,121,51,109,13
+"101","software maintenance and support",23,14,51,71,105,82,205,36
+"102","multifunction machines",14,36,88,95,102,113,21,250
+"103","transportation engineering",14,42,84,56,30,77,178,197
+"104","world wide web www site design services",5,18,83,29,51,40,56,80
+"105","office machines and their supplies and accessories",25,20,92,50,78,137,238,230
+"106","vocational training",14,36,89,21,91,16,116,193
+"107","accommodation furniture",14,22,84,21,91,141,99,147
+"108","commercial and industrial furniture",23,38,52,41,142,27,236,178
+"109","communications devices and accessories",18,30,48,9,119,11,176,235
+"110","audio and visual presentation and composing equipment",16,16,76,6,1,19,78,25
+"111","paper products",14,21,77,38,21,43,247,171
+"112","electronic reference material",23,35,94,90,81,144,44,185
+"113","manufacture of electrical goods and precision instruments",16,16,42,62,64,57,231,26
+"114","fisheries and aquaculture",14,36,89,21,91,16,71,187
+"115","personnel recruitment",14,36,89,21,91,16,71,205
+"116","computer hardware maintenance or support",25,20,35,1,44,129,187,222
+"117","office furniture",14,22,84,21,93,141,163,147
+"118","computer servers",14,36,10,30,98,35,20,132
+"119","circuit switchboard equipment",19,6,87,20,3,17,47,247
+"120","finance accounting and enterprise resource planning erp software",5,18,80,57,14,71,54,51
+"121","materials requirements planning logistics and supply chain software",5,18,80,57,14,71,150,51
+"122","enterprise resource planning erp software",3,16,45,47,85,9,110,62
+"123","satellite access equipment",19,6,87,20,3,17,47,247
+"124","news and publicity services",1,50,31,98,149,80,119,106
+"125","printer and facsimile and photocopier supplies",25,20,96,23,50,147,25,215
+"126","computer based training software",25,3,91,39,77,49,86,194
+"127","proprietary or licensed systems maintenance or support",20,16,71,4,11,39,212,101
+"128","backup or archival software",23,14,51,71,105,82,205,179
+"129","application implementation services",1,50,31,98,149,80,119,106
+"130","guard services",10,46,54,92,99,51,109,1
+"131","motion pictures on digital video disk dvd",4,48,55,5,94,126,17,90
+"132","photocopiers",7,2,25,86,137,127,87,102
+"133","furniture",7,2,8,76,137,103,68,130
+"134","property management services",1,50,4,14,97,63,165,208
+"135","file archive storage",23,12,57,40,87,55,103,153
+"136","tape drives",14,36,89,21,91,108,121,205
+"137","fixed phones",14,36,14,21,91,16,148,205
+"138","window film",14,36,89,21,91,16,71,205
+"139","data voice or multimedia network equipment or platforms and accessories",5,18,50,57,14,44,54,51
+"140","sampling surveys",14,36,89,21,91,16,71,205
+"141","economic cooperation services",1,50,31,98,149,80,119,106
+"142","personnel relocation",14,36,89,21,91,16,71,205
+"143","conference centres",14,36,89,21,91,16,71,205
+"144","private investigation services",1,50,31,92,99,80,119,1
+"145","network analysers",14,36,89,21,91,135,107,67
+"146","internet based market research",25,20,35,62,64,143,2,127
+"147","automobile suspension systems",17,27,100,13,92,150,241,220
+"148","vehicle inspection services",1,50,28,98,149,80,119,160
+"149","inks",7,2,8,35,110,15,34,165
+"150","security and control equipment",19,6,87,20,33,17,213,11
+"151","freight loading or unloading",23,12,53,21,91,20,12,205
+"152","non flowering plants",23,12,53,41,87,20,80,86
+"153","promotional merchandise",14,36,89,21,91,16,71,205
+"154","productivity or efficiency studies or implementation",25,20,35,36,150,98,173,42
+"155","relocation services",10,46,54,92,99,51,109,1
+"156","storage sheds",14,22,61,59,62,93,168,7
+"157","healthcare services",10,46,54,92,99,51,109,1
+"158","government accounting services",1,50,31,98,149,80,119,106
+"159","maintenance or support fees",23,12,6,96,87,21,125,36
+"160","development",7,2,8,46,137,120,43,173
+"161","high end computer servers",25,20,35,1,44,129,50,222
+"162","library or documentation services",1,50,31,98,149,80,119,106
+"163","surveillance and detection equipment",19,6,87,20,3,17,47,247
+"164","air conditioning installation or maintenance or repair services",12,43,72,67,29,106,93,94
+"165","information exchange software",23,14,51,71,105,82,205,179
+"166","comprehensive health services",1,50,31,92,99,80,119,1
+"167","measuring and observing and testing instruments",25,20,35,62,64,32,244,32
+"168","office supplies",14,36,37,65,128,6,246,206
+"169","clothing",7,2,8,68,137,15,235,242
+"170","electrical wire and cable and harness",25,20,35,62,64,14,128,26
+"171","rubber and elastomers",14,36,89,86,137,16,71,102
+"172","security surveillance and detection",23,12,53,96,87,20,12,175
+"173","marine transport",14,7,84,56,30,77,178,197
+"174","commercial and military and private vehicles and their accessories and components",4,48,55,5,94,126,242,191
+"175","metal and mineral industries",23,38,52,41,142,27,38,178
+"176","jewellery",7,2,8,86,137,15,34,150
+"177","industrial manufacturing and processing machinery and accessories",16,16,81,47,69,45,70,142
+"178","enhanced telecommunications services",1,50,36,98,149,80,164,108
+"179","strategic planning consultation services",2,13,5,98,149,2,9,54
+"180","defence and law enforcement and security and safety equipment and supplies",5,18,50,57,14,44,54,51
+"181","specialised educational services",1,50,23,70,15,63,27,106
+"182","adult education",14,36,67,21,148,135,83,196
+"183","project management",14,36,44,31,135,24,237,192
+"184","temporary information technology systems or database administrators",4,48,55,5,94,126,242,90
+"185","building construction management",23,12,93,64,108,54,144,133
+"186","livestock services",10,46,54,92,99,51,109,1
+"187","market research on location surveys",25,20,35,62,64,143,2,127
+"188","marine craft systems and subassemblies",25,47,7,13,92,12,181,220
+"189","fibres and threads and yarns",23,12,53,21,91,20,12,205
+"190","medical doctors specialist services",2,13,68,98,149,101,189,106
+"191","paper materials",14,28,77,21,129,90,82,91
+"192","material handling machinery and equipment",6,32,29,75,36,88,250,203
+"193","administrative fees or tax collection services",15,8,40,18,65,18,120,157
+"194","industrial printing services",1,50,31,70,55,80,140,16
+"195","bags",7,2,8,54,137,15,113,27
+"196","stationery",7,2,8,86,137,15,34,150
+"197","internet related services",1,50,75,98,125,80,88,103
+"198","printing and writing paper",23,12,78,41,87,136,24,98
+"199","accommodation structures",14,36,89,21,91,135,148,240
+"200","packaging materials",14,28,77,21,129,90,82,91
+"201","manual writing services",1,50,31,98,149,80,140,106
+"202","business function specific software",25,3,91,39,77,49,86,8
+"203","toner",7,2,8,35,110,15,34,165
+"204","temporary financial staffing needs",25,20,35,62,72,32,22,127
+"205","notebook computers",14,36,10,30,98,35,20,132
+"206","compact disk cd duplication and printing services",15,8,40,18,65,18,120,157
+"207","video production services",1,50,31,98,149,80,119,12
+"208","document scanning service",1,50,31,98,149,80,119,106
+"209","written translation services",1,50,31,92,99,80,119,1
+"210","mapping",7,2,8,86,137,15,34,150
+"211","international vessel transport services",2,13,68,94,7,101,249,70
+"212","package design services",1,50,31,98,149,80,119,12
+"213","phone headsets",14,36,14,21,91,16,148,205
+"214","domestic vessel transport services",2,13,68,94,7,101,249,70
+"215","meeting facilities",14,36,89,21,91,16,204,205
+"216","packaging boxes",14,36,89,21,91,78,57,205
+"217","franking or postage machines",23,12,74,95,102,66,129,250
+"218","billboard advertising",14,41,89,21,136,121,206,202
+"219","posters",7,2,8,86,137,15,34,150
+"220","national postal delivery services",2,13,68,94,63,101,221,189
+"221","specialty envelopes",14,36,89,21,91,16,71,205
+"222","telecom equipment maintenance or support",11,32,20,20,3,88,195,48
+"223","shelving and storage",14,22,61,22,89,93,168,115
+"224","mailing or mail pick up or delivery services",5,18,83,67,29,40,56,94
+"225","mailing list compilation services",2,13,68,92,121,101,221,13
+"226","newspaper advertising",14,41,89,21,136,121,206,202
+"227","occupational health or safety services",2,13,68,94,63,101,221,189
+"228","material handling services",1,50,31,98,149,80,119,12
+"229","office equipment and accessories and supplies",11,32,34,23,54,102,75,128
+"230","postal and small parcel and courier services",15,8,40,94,63,18,120,189
+"231","window envelopes",14,36,89,21,91,16,71,205
+"232","standard envelopes",14,36,89,21,91,16,71,205
+"233","local area trucking services",2,13,68,94,63,101,221,189
+"234","technical support or help desk services",15,8,40,94,63,18,120,189
+"235","business forms or questionnaires",23,12,53,21,100,20,199,205
+"236","specialty industrial use papers",25,20,35,62,64,32,143,182
+"237","local and long distance telephone communications",16,16,42,47,66,57,224,62
+"238","data services",10,46,54,92,130,112,7,138
+"239","digital industrial printing services",2,13,47,94,63,101,134,68
+"240","employer administered pension funds",25,20,35,41,87,32,210,20
+"241","mechanical letter opener",23,12,53,21,91,20,12,205
+"242","digital versatile disks dvds",25,20,35,41,87,32,210,20
+"243","public relations programs or services",2,13,5,94,63,2,9,68
+"244","temporary construction services",1,50,36,98,57,80,164,145
+"245","public relation services",1,50,75,98,125,80,88,103
+"246","communication aids for the physically challenged",25,20,35,62,88,52,210,2
+"247","rehabilitation services",10,46,54,92,99,51,109,1
+"248","laser printers",14,36,89,21,91,16,71,33
+"249","professional procurement services",1,50,31,98,149,80,119,106
+"250","risk or hazard assessment",23,12,53,41,87,20,12,20
+"251","security guard services",1,50,31,98,149,80,119,106
+"252","employment",7,2,8,86,137,15,34,150
+"253","fixed network equipment and components",11,32,20,75,36,88,245,58
+"254","power generators",14,21,37,21,49,138,95,166
+"255","meeting or banquet rooms",23,12,53,41,87,20,12,20
+"256","temporary information technology networking specialists",3,16,45,47,85,9,155,89
+"257","computer generated design services",2,13,68,94,63,101,221,189
+"258","phone handsets",14,36,14,86,137,16,148,102
+"259","building cleaning services",1,50,31,70,55,80,158,168
+"260","carpeting",7,2,8,86,137,15,34,99
+"261","cardboard",7,2,8,35,110,15,34,165
+"262","road cargo transport",23,12,33,12,5,149,51,200
+"263","graphic design",14,36,89,21,91,16,194,205
+"264","electronic mail software",23,14,51,71,105,82,205,179
+"265","owner or user manuals",23,12,53,21,91,20,12,205
+"266","print advertising",14,26,70,3,140,109,183,59
+"267","employee assistance programs",23,12,53,79,109,20,228,20
+"268","production statistics collection or analysis services",15,8,40,18,65,125,52,157
+"269","population sample surveys services",2,13,68,94,63,101,221,189
+"270","catering services",10,46,54,92,99,51,109,1
+"271","promotional material or annual reports",25,20,2,90,81,65,67,185
+"272","fibre optic cable",23,12,53,41,87,131,199,245
+"273","computer aided design cad software",3,16,45,39,77,9,110,194
+"274","computers",7,49,98,55,132,58,139,104
+"275","electronic hardware and component parts and accessories",16,16,81,47,20,45,70,142
+"276","engineering and research and technology based services",15,8,40,18,65,18,120,40
+"277","medical equipment and accessories and supplies",11,32,34,23,54,102,75,128
+"278","raw materials processing machinery",25,20,2,62,34,65,67,139
+"279","boat trailer",14,36,89,21,91,16,71,205
+"280","domestic appliances",14,36,89,21,91,16,71,41
+"281","mass transfer equipment",19,6,87,20,3,17,47,247
+"282","understanding or dealing with cultural diversity instructional materials",4,48,55,62,34,126,17,139
+"283","restaurants and catering",14,36,89,21,91,16,71,205
+"284","public administration and finance services",2,13,68,94,63,2,221,189
+"285","research programs",14,36,58,48,143,117,146,63
+"286","mobile phones",14,36,14,21,91,16,148,205
+"287","diesel generators",14,36,89,21,91,138,95,205
+"288","audio and visual equipment",19,6,87,20,3,17,47,247
+"289","hotels and motels and inns",23,12,53,86,137,20,12,150
+"290","residential rental",14,36,89,21,91,16,71,205
+"291","laboratory and scientific equipment",19,6,87,20,3,17,47,247
+"292","law enforcement",14,36,89,21,91,16,71,205
+"293","call management systems or accessories",25,47,7,4,11,12,233,101
+"294","laboratory and measuring and observing and testing equipment",16,16,76,6,1,19,78,25
+"295","branding of product naming services",2,13,68,94,114,101,221,154
+"296","medical science and research",23,12,53,89,116,123,94,237
+"297","landscaping services",10,46,54,92,99,51,109,1
+"298","computer printers",14,36,10,30,98,35,20,132
+"299","management support services",1,50,4,14,97,63,165,208
+"300","statistics",7,2,8,86,137,15,34,150
+"301","banquet and catering services",1,50,31,98,149,80,119,106
+"302","educational and research structures",23,12,53,89,116,134,149,116
+"303","consumer based research or clinics or focus groups",4,48,55,62,64,126,17,127
+"304","security and protection software",23,14,51,71,105,82,205,179
+"305","business law services",1,50,31,98,149,80,119,106
+"306","printing and photographic and audio and visual equipment and supplies",4,48,32,85,123,75,74,201
+"307","writing and translations",14,36,89,21,91,16,5,205
+"308","publishing",7,2,8,86,137,15,34,150
+"309","addressing or mailing labels",23,12,53,41,87,20,115,20
+"310","events management",14,36,44,31,135,24,237,192
+"311","academic or scientific article writing",25,20,35,41,87,32,210,20
+"312","general formation evaluation",23,12,53,21,91,20,12,205
+"313","structural building products",23,12,46,36,150,119,198,42
+"314","data processing or preparation services",2,13,68,94,63,101,221,189
+"315","layout or graphics editing services",2,13,68,94,63,101,221,189
+"316","public order and safety",23,12,18,96,23,70,41,167
+"317","marine navigational or communication services",2,13,68,94,63,101,221,189
+"318","network applications software",23,14,51,71,105,82,136,179
+"319","fibre telecommunications services",1,50,36,98,149,80,164,108
+"320","locks and security hardware and accessories",25,20,92,9,119,137,177,235
+"321","editorial and support services",1,50,31,14,149,80,158,168
+"322","organisations and clubs",14,36,89,21,91,16,71,205
+"323","paper materials and products",23,35,46,36,22,130,198,96
+"324","electrical systems and lighting and components and accessories and supplies",4,48,55,5,94,126,242,191
+"325","electronic components and supplies",23,30,19,63,145,36,248,162
+"326","business intelligence consulting services",2,13,68,94,63,101,221,189
+"327","advertising agency services",1,50,31,98,149,80,219,106
+"328","voice mail systems",17,27,100,13,92,150,241,220
+"329","facilities management",14,36,44,31,135,24,237,192
+"330","material handling and conditioning and storage machinery and their accessories and supplies",5,18,80,57,14,44,150,51
+"331","helpdesk or call centre software",25,3,91,71,105,49,86,179
+"332","software or hardware engineering",23,14,51,71,105,82,205,179
+"333","desktop computers",14,36,10,30,98,35,20,132
+"334","passenger air transportation",23,12,33,12,5,149,51,200
+"335","published products",14,21,77,38,21,43,247,171
+"336","utilities",7,2,8,86,137,15,184,150
+"337","supply of single phase electricity",25,20,96,23,50,7,25,215
+"338","network security equipment",19,6,87,20,33,17,3,241
+"339","library",7,17,64,86,137,94,4,102
+"340","cleaning and janitorial supplies",23,30,19,63,145,36,248,162
+"341","hotels",7,2,8,86,137,15,34,150
+"342","computer accessories",13,5,24,61,146,69,222,92
+"343","meteorology",7,2,8,86,137,15,34,150
+"344","electrical services",10,46,54,92,99,79,109,1
+"345","property management",14,36,44,31,135,24,237,192
+"346","pump integrity monitors",23,12,53,41,87,20,12,20
+"347","supply of two phase electricity",25,20,96,23,50,7,25,215
+"348","transportation services equipment",1,33,27,77,17,53,170,35
+"349","environmental services",10,46,54,92,99,51,109,1
+"350","grounds maintenance services",1,50,31,14,149,80,119,129
+"351","desktop communications software",23,14,51,71,105,82,205,179
+"352","tags",7,2,8,86,137,15,34,150
+"353","amplifiers",7,2,8,35,110,15,34,165
+"354","electrometers",7,2,8,35,110,15,34,165
+"355","water or gas control evaluation services",15,8,40,18,65,125,120,224
+"356","web platform development software",25,3,91,39,77,49,86,8
+"357","periodicals",7,2,8,35,110,15,34,165
+"358","mailing bags",14,36,89,21,91,78,36,205
+"359","transcribing services",10,46,54,72,58,51,109,60
+"360","mainframe administration services",21,50,23,15,84,80,84,14
+"361","intelligence services",10,46,54,92,99,51,109,1
+"362","reproduction services",10,46,54,72,58,51,109,60
+"363","directories",7,2,8,86,137,15,34,150
+"364","reference or background check services",2,13,68,98,149,101,221,106
+"365","corporate objectives or policy development",25,20,35,62,64,32,210,127
+"366","computer programmers",14,36,10,55,132,35,20,104
+"367","mail opening machines",23,12,74,41,87,66,129,219
+"368","legal research services",1,50,36,98,149,47,53,106
+"369","mailers",7,2,8,35,110,15,34,165
+"370","organisational structure consultation",23,12,53,41,87,33,80,20
+"371","financial assistance",14,36,89,21,91,16,71,205
+"372","quality assurance services",1,50,31,92,99,80,119,1
+"373","dispute mediation or conciliation or negotiation or settlement",16,16,42,86,137,57,224,150
+"374","scribers",7,2,8,35,110,15,34,165
+"375","public utilities and public sector related services",5,18,83,32,68,100,137,244
+"376","compact disc cd server software",25,3,91,39,77,49,86,8
+"377","management development",14,36,44,31,135,24,237,192
+"378","specialised warehousing and storage",23,12,57,40,87,55,103,153
+"379","software patches or upgrades",23,14,51,71,105,82,205,179
+"380","educational institutions",14,36,67,21,148,135,83,196
+"381","temporary information technology software developers",3,16,45,47,85,9,155,89
+"382","domestic appliances and supplies and consumer electronic products",4,48,55,5,94,126,17,243
+"383","in service training and manpower development",2,13,11,87,63,50,160,148
+"384","on line database information retrieval",25,20,35,62,64,32,210,127
+"385","instruction writing services",1,50,31,98,149,80,140,106
+"386","tax advisory services",1,50,31,98,149,80,119,5
+"387","communications server software",23,14,51,71,105,82,205,179
+"388","non technical writing",23,12,53,41,87,20,80,86
+"389","credit agencies",14,36,89,21,91,16,71,205
+"390","politics and civic affairs services",2,13,68,98,149,101,221,106
+"391","technical writing",14,36,89,21,91,16,5,205
+"392","taxation law",14,36,89,21,91,16,71,205
+"393","refurbishing services",10,46,54,92,99,51,109,1
+"394","audio visual services",1,50,31,98,149,80,119,12
+"395","power generation and distribution machinery and accessories",16,16,81,47,69,45,70,142
+"396","business cases",14,36,1,21,100,78,239,205
+"397","material packing and handling",23,35,94,90,81,144,44,185
+"398","meteorological services",10,46,54,92,99,51,109,1
+"399","architectural services",10,46,54,92,99,51,109,1
+"400","interior finishing",14,36,89,21,91,16,71,205
+"401","environmental auditing",14,36,89,21,115,78,46,176
+"402","psychologists services",10,46,54,72,58,51,109,60
+"403","vocational rehabilitation services",1,50,31,98,149,80,119,106
+"404","telemarketing",7,2,8,35,110,15,34,165
+"405","physiology research services",1,50,36,92,99,47,53,1
+"406","systems architecture",13,5,16,53,82,86,175,161
+"407","physical therapy services",1,50,31,98,149,80,119,106
+"408","individual health screening and assessment services",15,8,40,18,65,18,120,157
+"409","interpreters",7,2,8,35,110,15,34,165
+"410","vehicle leasing",14,7,62,21,122,84,81,137
+"411","internet or intranet server application development services",12,43,72,67,29,99,93,94
+"412","renovation of buildings or landmarks or monuments",25,20,35,41,108,32,210,133
+"413","construction and maintenance support equipment",11,32,20,75,36,88,195,58
+"414","interior finishing materials",23,35,94,90,81,144,44,185
+"415","demolition services",10,46,54,72,58,51,109,60
+"416","hydraulic systems and components",17,27,100,13,133,150,1,220
+"417","elevators",7,2,8,86,137,15,34,150
+"418","refuse disposal and treatment",23,12,53,41,87,37,12,20
+"419","manufacturing support services",1,50,31,14,149,80,158,168
+"420","letter writing services",1,50,31,98,149,80,140,106
+"421","laboratory water purification equipment and supplies",16,16,76,6,2,26,101,28
+"422","food and beverage products",23,12,46,36,150,119,198,42
+"423","video and combination video and audio presentation equipment and hardware and controllers",9,37,69,69,12,122,30,183
+"424","security and personal safety",23,12,18,96,23,70,41,167
+"425","live plant and animal material and accessories and supplies",4,48,55,11,40,126,242,191
+"426","national defence and public order and security and safety services",5,18,83,29,51,40,56,80
+"427","work related organisations",23,12,53,41,87,33,80,20
+"428","educational facilities",14,36,67,21,148,135,83,196
+"429","transportation components and systems",17,27,100,13,133,150,1,220
+"430","containers and storage",14,22,61,22,89,93,168,115
+"431","office and desk accessories",18,30,48,9,103,11,176,210
+"432","transportation repair or maintenance services",8,13,13,94,7,101,89,69
+"433","air conditioners",14,36,89,86,137,133,71,57
+"434","administrative agencies services",21,50,23,15,84,80,84,14
+"435","career development services",1,50,31,98,149,80,119,106
+"436","government information services",1,50,31,98,149,80,119,106
+"437","signage and accessories",13,5,24,58,146,69,222,248
+"438","vehicle bodies and trailers",23,12,79,41,43,95,45,55
+"439","mineral and textile and inedible plant and animal materials",4,48,55,47,107,126,17,49
+"440","post",7,2,8,86,137,15,34,150
+"441","industrial refrigeration",14,36,89,21,83,133,124,249
+"442","public safety and control",23,12,18,96,23,70,41,167
+"443","personal computers",14,36,10,30,98,35,20,132
+"444","document destruction services",1,50,31,98,149,80,119,106
+"445","distribution and conditioning systems and equipment and components",20,16,76,6,26,19,78,97
+"446","personal and domestic services",1,50,31,98,37,80,119,146
+"447","personal safety and protection",23,12,18,96,23,70,41,167
+"448","cleaning equipment and supplies",19,6,87,82,3,17,16,56
+"449","manufacturing components and supplies",23,30,19,63,145,36,248,162
+"450","erp or database applications programming services",15,8,40,18,65,18,120,157
+"451","real estate brokers or agents",25,20,35,41,87,32,210,20
+"452","application programming services",1,50,31,98,149,80,119,106
+"453","temporary clerical or administrative assistance",25,20,35,62,64,32,210,127
+"454","alcoholism prevention or control services",2,40,68,94,63,101,221,189
+"455","temporary technician staffing needs",25,20,35,79,87,32,22,238
+"456","management and operation of all facilities, engineering, modification and maintenance services for site or platform",9,37,41,32,24,100,217,217
+"457","accounting services",10,46,54,92,99,51,109,221
+"458","offset industrial printing services",2,13,47,94,63,101,134,68
+"459","safety or risk analysis",23,12,18,96,23,70,41,167
+"460","liability insurance",14,36,89,21,91,16,71,205
+"461","legislators services",10,46,54,92,99,51,109,1
+"462","files",7,2,8,86,137,15,34,150
+"463","aircraft",7,31,39,27,71,139,234,156
+"464","videoconferencing facilities",14,36,89,21,91,16,204,205
+"465","government finance services",1,50,31,98,149,80,119,106
+"466","business cards",14,36,1,21,100,78,239,205
+"467","site offices",14,36,89,21,93,16,163,147
+"468","policing services",10,46,54,92,99,51,109,1
+"469","territorial claims or negotiations third party services",12,43,72,94,63,23,93,189
+"470","management and provision of all facilities engineering modification and maintenance services for a site or platform",9,37,41,32,24,100,217,217
+"471","communication equipment installation",19,6,87,20,3,17,47,247
+"472","document management software",23,14,56,99,105,22,162,179
+"473","author funded publishing services",2,13,68,94,63,101,221,189
+"474","educational certificates or diplomas",23,12,53,21,148,134,12,196
+"475","aircraft flight simulators or trainers",25,20,35,33,4,32,186,158
+"476","architectural engineering",14,42,84,21,95,64,141,31
+"477","work ethics or attitude training instructional materials",4,48,55,62,34,126,17,139
+"478","developing self concept and self esteem instructional materials",9,37,41,32,68,42,122,244
+"479","commercial aeroplane travel",23,38,53,41,87,54,63,20
+"480","health education and nutrition and food preparation instructional materials",5,18,80,57,14,71,150,51
+"481","hardware",7,2,8,86,137,15,133,150
+"482","personal paper products",23,12,46,36,150,119,198,207
+"483","human resources software",23,14,51,71,105,82,205,179
+"484","stationary separation equipment or parts or screens",16,16,76,75,36,19,78,58
+"485","emergency medical services first aid kits",12,43,72,67,29,23,93,94
+"486","web page creation and editing software",3,16,45,47,85,9,110,62
+"487","printing accessories",13,5,24,58,146,69,222,248
+"488","temporary research and development services",2,13,68,94,63,2,221,189
+"489","permanent information technology software developers",3,16,45,47,85,9,155,89
+"490","cooling",7,2,8,35,110,15,34,165
+"491","commercial or industrial facility rental",25,20,35,62,64,32,143,182
+"492","long distance telephone services",2,13,68,94,63,101,221,189
+"493","letter or small parcel local delivery services",12,43,72,67,29,23,93,94
+"494","local area network lan maintenance or support",4,48,55,5,94,126,28,90
+"495","building or building contents insurance",4,48,55,5,94,126,17,90
+"496","payroll accounting services",1,50,31,92,99,80,119,221
+"497","staff recruiting services",1,50,31,98,149,80,119,106
+"498","digital telephones",14,36,89,21,91,16,62,67
+"499","media storage devices",23,12,57,40,87,55,103,153
+"500","military fixed wing aircraft",25,20,35,62,46,32,186,190
+"501","conventional war weapons",23,12,53,41,87,20,12,20
+"502","fighter aircraft",14,23,60,27,71,91,223,156
+"503","vehicle headlight",14,7,62,86,137,84,81,102
+"504","camping and outdoor equipment and accessories",11,32,34,75,36,102,182,128
+"505","clothing accessories",13,5,24,58,146,69,222,248
+"506","motor vehicles parts or accessories manufacture services",12,43,72,67,29,99,93,94
+"507","pianos",7,2,8,35,110,15,34,165
+"508","mattresses or sleep sets",23,12,53,41,87,20,12,20
+"509","military transport aircraft",23,25,3,33,4,149,230,232
+"510","armoured fighting vehicles",23,12,79,41,43,95,45,55
+"511","adhesives and sealants",14,36,89,86,137,16,71,150
+"512","webbing fabrics",14,36,89,60,91,16,60,205
+"513","safety harnesses or belts",23,12,18,96,23,70,41,167
+"514","lubricants and oils and greases and anti corrosives",16,16,42,62,64,57,224,127
+"515","gaseous fuels and additives",23,12,53,21,56,20,12,41
+"516","safety helmets",14,36,21,21,91,72,96,135
+"517","minerals and ores and metals",23,12,53,26,41,20,38,205
+"518","luggage and handbags and packs and cases",25,20,35,62,64,32,210,127
+"519","connectors",7,2,8,86,137,15,34,150
+"520","ski boots",14,36,89,86,137,16,71,99
+"521","military transport helicopters",23,12,33,12,5,149,51,232
+"522","lithium batteries",14,36,89,54,137,16,71,85
+"523","slings",7,2,8,86,137,15,34,150
+"524","military rotary wing aircraft",25,20,35,62,46,32,186,190
+"525","workshop machinery and equipment and supplies",6,32,29,23,54,102,180,226
+"526","filters",7,2,8,86,137,15,18,150
+"527","helmet parts or accessories",18,30,48,9,96,11,176,235
+"528","goggle protective covers",23,12,53,41,23,20,65,175
+"529","axle spindles",14,36,89,86,137,16,71,150
+"530","radio antennas",14,36,89,21,91,16,71,205
+"531","filter cartridge adapter",23,12,53,41,87,20,12,20
+"532","professional associations",14,36,1,21,91,16,239,205
+"533","military watercraft",14,36,89,21,106,74,130,4
+"534","military uniforms",14,36,89,21,106,74,130,4
+"535","drugs and pharmaceutical products",23,12,46,36,150,119,198,42
+"536","chemicals including bio chemicals and gas materials",5,18,41,32,68,42,23,244
+"537","photographic services",10,46,54,92,99,51,109,1
+"538","paints and primers and finishes",23,12,53,41,87,20,161,20
+"539","microphones",7,2,8,35,110,15,34,165
+"540","pocket knives",14,36,89,86,137,16,71,150
+"541","batteries and cells and accessories",18,30,48,9,119,110,176,235
+"542","explosive initiators",14,36,89,86,137,16,71,150
+"543","parachute equipment",14,10,86,81,75,148,200,195
+"544","protective coveralls",14,36,65,19,118,16,243,6
+"545","gas regulators",14,36,89,21,112,16,66,188
+"546","aerospace systems and components and equipment",11,32,90,75,36,88,10,125
+"547","exterior vehicle lighting",23,12,79,41,43,95,69,55
+"548","all terrain vehicles tracked or wheeled",25,20,35,41,43,32,210,55
+"549","navigational equipment and instruments",19,6,87,20,3,17,47,247
+"550","motor or generator components",23,12,53,41,87,87,167,239
+"551","inspecting jig",14,36,89,21,91,16,71,205
+"552","radar and sonar systems and components",25,47,7,13,133,12,181,220
+"553","badges",7,2,8,86,137,15,34,150
+"554","receiving or inventorying services",1,50,31,98,149,80,119,106
+"555","medical apparel and textiles",23,12,53,89,87,123,94,237
+"556","diagnostic agents and radiopharmaceuticals",23,12,53,41,87,20,12,20
+"557","medical units",14,36,58,21,83,16,216,111
+"558","spill containment supports",23,12,6,41,87,21,125,20
+"559","aircraft flaps or flap drives",4,48,55,97,6,126,17,114
+"560","tool kits",14,36,60,44,18,89,73,117
+"561","alternators",7,2,8,86,137,15,34,150
+"562","power distribution units pdus",25,20,35,41,147,14,128,169
+"563","badges or badge holders",16,16,42,47,66,57,224,62
+"564","aircraft ailerons",14,23,60,27,71,91,223,156
+"565","electrical components",14,36,37,2,32,16,106,186
+"566","lighting and fixtures and accessories",18,30,48,9,119,11,176,235
+"567","flashlights",7,2,8,35,110,15,34,165
+"568","fluorescent dyes",14,36,89,21,91,16,71,205
+"569","fans",7,2,8,86,137,103,171,150
+"570","laboratory washing and cleaning equipment",11,32,20,75,36,88,33,58
+"571","radio frequency transmitters or receivers",25,20,35,41,87,32,210,20
+"572","sealing tools",14,36,60,21,134,89,108,82
+"573","winches",7,2,8,35,110,15,34,165
+"574","radarbased surveillance systems",17,27,100,53,82,150,241,161
+"575","light weapons and ammunition",23,12,53,41,87,76,40,20
+"576","parts of guns or pistols",23,12,53,21,91,20,12,205
+"577","sealing waxes",14,36,89,21,91,16,71,205
+"578","automotive or aircraft cable",23,25,3,33,4,131,97,158
+"579","medical health associations",23,12,53,89,87,123,94,237
+"580","tyres and tyre tubes",16,16,42,47,66,57,224,62
+"581","war vehicles",14,7,62,21,122,84,81,137
+"582","packing absorbents",14,36,89,21,91,16,71,205
+"583","heavy truck tyres",23,12,53,41,87,20,12,136
+"584","camouflage cloth",14,36,89,68,137,16,71,242
+"585","lifeboats or liferafts",14,36,89,35,110,16,71,165
+"586","leather accessories",13,5,24,58,146,69,222,248
+"587","boots",7,2,8,86,137,15,34,99
+"588","completion test equipment",19,6,87,20,3,17,47,247
+"589","protective socks or hosiery",23,12,53,19,118,20,65,6
+"590","sewing kits",14,36,60,44,18,64,73,17
+"591","clipboards",7,2,8,35,110,15,34,165
+"592","gear units",14,36,89,21,83,16,216,41
+"593","canteen",7,2,8,35,110,15,34,165
+"594","laboratory washing detergents",23,12,53,21,91,20,12,205
+"595","shoe insoles",14,36,89,86,137,16,71,150
+"596","intravenous or arterial infusion single port bags or containers",5,18,80,57,14,71,54,51
+"597","intravenous or arterial infusion transfer bags or containers",4,48,55,5,94,126,17,90
+"598","patient masks for surgical use",25,20,35,62,64,32,210,127
+"599","suture and surgical tissue closure instruments and related products",5,18,80,5,94,71,54,243
+"600","surgical drapes",14,36,89,86,137,16,71,150
+"601","wound care products",23,12,46,38,21,119,198,171
+"602","medical staff isolation or surgical masks",16,16,42,47,66,57,224,62
+"603","battery chargers",14,36,89,54,137,16,71,85
+"604","industrial food and beverage equipment",11,32,20,75,36,88,159,58
+"605","airway management products",23,12,46,36,150,119,198,42
+"606","pharmaceutical preparation services",1,50,31,98,149,80,119,106
+"607","medical staff clothing and related articles",16,16,42,47,66,57,224,62
+"608","sunglasses",7,2,8,35,110,15,34,165
+"609","goggles",7,2,8,86,137,15,34,150
+"610","vaccines and antigens and toxoids",23,12,53,21,124,105,12,131
+"611","public address systems",17,27,100,13,92,150,241,220
+"612","water bags",14,36,89,45,122,132,104,78
+"613","pharyngeal airways",14,36,89,86,137,16,71,150
+"614","lifting equipment and accessories",19,6,87,8,144,28,64,43
+"615","lifting hooks",14,36,89,86,137,16,71,102
+"616","target or reconnaissance drones",23,12,53,21,91,20,12,205
+"617","steering system",13,5,16,53,82,86,175,161
+"618","deodorants",7,2,8,35,110,15,34,165
+"619","medical staff scrubs",23,12,53,21,83,123,94,111
+"620","intraoral dental radiographic film",25,20,35,41,87,32,210,20
+"621","body armour",14,36,89,21,91,16,71,205
+"622","emergency medical services airway management equipment",12,43,72,67,29,99,93,223
+"623","couplers",7,2,8,35,110,15,34,165
+"624","safety boots",14,36,21,21,91,72,96,135
+"625","dental equipment and supplies",19,6,87,82,3,17,16,56
+"626","motorcycle helmets",14,36,89,21,91,16,71,205
+"627","gloves or mittens",14,36,89,86,137,16,71,150
+"628","protective gloves",14,36,65,19,118,16,243,6
+"629","brake oil",14,36,89,21,112,64,66,50
+"630","sleeping bags",14,36,89,21,91,78,36,205
+"631","mechanised ground support system spare parts or accessories",5,18,80,5,94,44,54,191
+"632","anti corrosion lubricant",23,12,53,41,87,20,12,20
+"633","mens sandals",14,36,89,46,137,83,71,119
+"634","mens shoes",14,36,89,88,73,83,71,177
+"635","rope climbing equipment",19,6,87,81,75,17,47,195
+"636","manual transmissions",14,36,89,21,91,16,71,205
+"637","plastic grinding machinery",23,45,93,78,35,1,215,124
+"638","restraint straps or buckles or accessories or supplies",16,16,81,51,20,45,70,142
+"639","uniforms",7,2,8,86,137,15,34,150
+"640","safety apparel",14,36,21,21,91,72,96,135
+"641","capillaries or cartridges",14,36,89,86,137,16,71,150
+"642","control line protectors",23,12,53,41,87,67,211,175
+"643","protective netting",14,36,65,19,118,16,243,6
+"644","aircraft spars",14,23,60,27,71,91,223,156
+"645","socks",7,2,8,86,137,15,34,150
+"646","shoelaces",7,2,8,35,110,15,34,165
+"647","chemical evaluation instruments and supplies",25,20,96,23,50,147,25,215
+"648","domestic pet products",23,12,46,36,150,119,198,42
+"649","specialty fabrics or cloth",23,12,12,28,28,107,14,3
+"650","surgical retractors for general use",25,20,35,41,87,32,210,20
+"651","anaesthetic drugs and related adjuncts and analeptics",16,16,42,21,91,57,224,205
+"652","sun protection products",23,12,46,38,21,119,198,171
+"653","ear plugs",14,36,89,86,137,16,71,150
+"654","bandages and dressings and related products",25,20,35,62,64,98,173,184
+"655","bandages or dressings for general use",25,20,35,62,64,32,210,127
+"656","rope bags and rope packs",4,48,55,5,94,126,17,90
+"657","shoes",7,2,8,86,137,15,34,150
+"658","fuels and fuel additives and lubricants and anti corrosive materials",9,37,41,32,24,42,122,217
+"659","fire extinguishers",14,36,89,21,91,16,71,205
+"660","deepwell pumps",14,36,89,46,137,16,71,123
+"661","lanyards",7,2,8,35,110,15,34,165
+"662","aircraft fuel tanks and systems",25,47,7,66,11,34,181,37
+"663","engine or component test stands",25,20,35,62,64,32,244,32
+"664","specialty aircraft",14,23,60,97,6,91,223,114
+"665","flags or accessories",13,5,24,80,131,69,222,73
+"666","plastic sheet",14,36,89,21,91,16,71,204
+"667","diesel fuel",14,36,82,21,56,132,49,41
+"668","compasses",7,2,8,86,137,15,34,150
+"669","photo tubes",14,36,89,86,137,16,71,150
+"670","fruits and vegetables and nuts and seeds",25,20,35,62,64,32,210,127
+"671","alkaline batteries",14,36,89,54,137,16,71,85
+"672","fabrics and leather materials",23,35,94,90,81,144,44,185
+"673","insulated clothing for cold environments",25,20,35,62,64,32,210,127
+"674","whistle",7,2,8,35,110,15,34,165
+"675","solvents",7,2,8,35,110,15,34,165
+"676","product specific battery packs",25,20,35,62,64,98,173,184
+"677","mud cleaning equipment",19,6,87,81,75,17,47,195
+"678","conventional weapons usage",23,12,53,21,91,20,12,205
+"679","compounds and mixtures",14,36,89,21,91,16,71,205
+"680","buckles",7,2,8,86,137,15,34,150
+"681","overalls and coveralls",14,36,89,21,91,16,71,205
+"682","die cut corrugated shipping cartons with separate lids",5,18,80,47,66,71,54,62
+"683","luggage",7,2,8,86,137,15,34,150
+"684","power cable",14,21,37,21,49,146,193,216
+"685","musical instruments and parts and accessories",25,20,92,50,113,137,177,45
+"686","battery testers",14,36,89,21,16,16,71,205
+"687","insecticides",7,2,8,35,110,15,34,165
+"688","musical instruments and games and toys and arts and crafts and educational equipment and materials and accessories and supplies",9,37,69,69,12,122,192,183
+"689","infrared imagers",14,36,89,21,91,16,71,205
+"690","synthetic ribbons",14,36,89,21,91,16,71,33
+"691","life vests or preservers",23,12,53,41,87,20,12,20
+"692","power saws",14,21,37,21,49,138,95,166
+"693","kinetic power transmission",23,12,53,41,147,20,12,169
+"694","fall protection and rescue equipment",11,32,20,20,3,88,33,247
+"695","foaming agents",14,36,89,21,91,16,71,205
+"696","breathing apparatus accessories or supplies",25,20,92,50,78,137,238,230
+"697","quick disconnects",14,36,89,35,110,16,71,165
+"698","shaft or woodruff keys",23,12,53,21,91,20,12,205
+"699","casing patches",14,36,89,21,91,16,71,205
+"700","anchor nuts",14,36,89,21,91,16,71,205
+"701","miscellaneous hardware",14,36,89,21,91,16,71,205
+"702","brake drum",14,36,89,21,91,16,71,205
+"703","medical or rescue helicopters",23,12,53,89,87,123,94,237
+"704","workover boats",14,36,89,21,91,16,71,205
+"705","medical training and education supplies",25,20,96,23,50,147,25,215
+"706","general purpose refrigerators or refrigerator freezers",5,18,80,57,14,71,54,51
+"707","aircraft engine compressors",23,25,3,33,4,59,97,158
+"708","chemical adhesives",14,36,89,21,91,16,71,205
+"709","arms and ammunition accessories",18,30,48,9,119,11,176,235
+"710","patch panel",14,36,89,83,45,16,71,205
+"711","inductors",7,2,8,35,110,15,34,165
+"712","insect equipment",14,10,86,84,70,148,200,213
+"713","flotation aids",14,36,89,86,137,16,71,150
+"714","fuel pumps",14,36,82,21,56,132,49,41
+"715","reciprocating compressors",14,36,89,86,137,16,71,150
+"716","installation cables",14,21,37,21,91,146,193,216
+"717","flow sensors",14,36,89,86,137,16,71,150
+"718","phone headset ear or speaker cushions",16,16,42,62,64,57,224,127
+"719","respirators",7,2,8,86,137,15,34,150
+"720","protractors",7,2,8,35,110,15,34,165
+"721","weapon system teaching aids or materials",20,4,71,47,107,114,11,49
+"722","direction finding compasses",23,12,53,21,91,20,12,205
+"723","power sources",14,21,37,21,49,138,95,166
+"724","prefabricated structures",14,36,89,21,91,135,148,240
+"725","decontamination services",10,46,54,92,99,51,109,1
+"726","auxiliary power unit systems apus",20,16,71,13,92,39,212,220
+"727","temperature humidity testers",23,12,53,41,87,20,12,20
+"728","batteries and generators and kinetic power transmission",16,16,42,47,19,145,224,62
+"729","liquid containers",14,36,89,21,91,16,71,205
+"730","safety signs",14,36,21,21,91,72,96,135
+"731","scouring pads",14,36,89,86,137,16,71,150
+"732","container trailers",14,36,89,21,91,16,71,205
+"733","axle hubs",14,36,89,21,91,16,71,205
+"734","service industry machinery and equipment and supplies",15,8,40,42,76,92,220,180
+"735","socio cultural services",1,50,31,98,149,80,119,106
+"736","machinery and transport equipment manufacture",6,32,29,75,36,88,250,203
+"737","sports and recreational equipment and supplies and accessories",16,16,76,6,2,26,101,52
+"738","dairy products and eggs",23,12,46,38,21,119,198,171
+"739","bread and bakery products",23,12,46,38,21,119,198,171
+"740","domestic and personal assistance",23,12,53,96,109,20,58,93
+"741","other sports",7,2,8,86,137,15,184,150
+"742","cereal and pulse products",23,12,46,36,150,119,198,42
+"743","meat and poultry products",23,12,46,36,150,119,198,42
+"744","agricultural and forestry and landscape machinery and equipment",16,16,76,6,1,19,78,25
+"745","live animals",14,36,89,21,91,16,71,205
+"746","environmental management",14,36,44,31,135,24,237,192
+"747","beverages",7,2,8,86,137,15,34,150
+"748","satellites",7,2,8,86,137,15,34,150
+"749","mining and quarrying machinery and equipment",6,32,29,20,3,88,250,75
+"750","seafood",7,2,8,35,110,15,34,165
+"751","earth and stone",14,36,89,21,91,16,71,205
+"752","bearings and bushings and wheels and gears",25,20,35,41,87,32,210,20
+"753","plastic and chemical industries",23,38,52,41,142,27,236,178
+"754","footwear",7,2,8,86,137,15,34,150
+"755","textile and fabric machinery and accessories",25,20,92,50,113,137,177,45
+"756","structural materials and basic shapes",25,20,2,90,81,65,67,185
+"757","non edible plant and forestry products",16,16,42,51,104,57,31,65
+"758","vehicle rental",14,7,62,21,122,84,81,137
+"759","defence contracts",14,36,89,21,91,16,71,205
+"760","edible oils and fats",23,12,26,21,112,25,208,50
+"761","diving instruments or accessories",18,30,48,58,146,10,176,248
+"762","professional artists and performers",23,12,53,21,91,20,12,205
+"763","paint booth repair",23,12,53,41,87,20,161,20
+"764","air or gas tanks or cylinders",25,20,35,62,64,32,210,198
+"765","tailgates or liftgates",14,36,89,35,110,16,71,165
+"766","vehicle seating systems",17,27,100,34,92,150,241,164
+"767","swim goggles or swim fins",4,48,55,47,66,126,17,62
+"768","tanks and cylinders and their accessories",18,30,48,9,119,11,176,235
+"769","motorcycle frames",14,36,89,21,91,16,71,205
+"770","aircraft oxygen equipment",19,6,87,20,3,17,47,247
+"771","rescue ships or boats",23,12,53,41,87,4,12,20
+"772","fertilisers and plant nutrients and herbicides",25,20,35,41,87,32,210,20
+"773","equipment inspection service",1,33,27,77,17,53,170,35
+"774","wrist watches",14,36,89,86,137,16,71,150
+"775","commercial marine craft",23,38,53,41,87,54,63,20
+"776","motorised cycles",14,36,89,21,91,16,71,205
+"777","respiration air supplying self contained breathing apparatus or accessories",5,18,41,32,68,42,23,244
+"778","mens swimwear",14,36,89,46,137,83,71,119
+"779","backpacks",7,2,8,35,110,15,34,165
+"780","form tools or toolbits",22,12,53,21,134,20,218,82
+"781","paints and primers",14,36,89,21,91,16,71,205
+"782","mens pyjamas or nightshirts or robes",25,20,35,88,73,32,210,177
+"783","enamel paints",14,36,89,86,137,16,71,27
+"784","brushes",7,2,8,35,110,15,34,165
+"785","fibre optic cable assembly",25,20,35,62,64,32,169,170
+"786","amphibious assault ships",23,12,53,86,137,20,12,150
+"787","motorcycles",7,2,8,86,137,15,34,150
+"788","welding wire",14,36,89,21,91,16,71,205
+"789","plywood",7,2,8,35,110,15,34,165
+"790","hazardous materials cabinets",23,35,94,90,81,144,44,185
+"791","pumping units",14,36,89,21,83,16,216,41
+"792","front end loaders",23,12,53,86,137,20,12,150
+"793","carpentry",7,2,8,86,137,15,34,150
+"794","storage chests and cabinets and trunks",25,20,35,40,87,13,232,153
+"795","shackles",7,2,8,35,110,15,34,165
+"796","international relations",14,36,89,21,91,16,71,205
+"797","medical practice",14,36,58,21,83,16,216,111
+"798","aircraft equipment",14,24,86,81,75,148,77,195
+"799","air transportation support systems and equipment",20,16,76,6,26,19,78,97
+"800","patient care and treatment products and supplies",16,16,9,51,104,57,112,65
+"801","food and nutrition services",1,50,31,98,149,80,119,106
+"802","photographic and recording media",23,12,53,41,87,20,207,20
+"803","automotive specialty tools",22,12,53,78,87,20,218,231
+"804","development finance",14,36,89,21,91,16,141,84
+"805","emergency and field medical services products",15,8,40,18,65,125,52,140
+"806","promotional or advertising printing",23,12,53,41,87,136,24,98
+"807","farming and fishing and forestry and wildlife contracting services",12,43,72,18,65,23,93,157
+"808","permanent information technology networking specialists",3,16,45,47,85,9,155,89
+"809","brand marketing or advertising instructional materials",16,4,42,47,107,114,11,49
+"810","project administration or planning",23,12,53,41,87,97,79,118
+"811","economic or financial evaluation of projects",25,20,35,62,64,32,210,127
+"812","banking institutions",14,36,89,21,91,16,71,205
+"813","radio advertising",14,41,89,21,136,121,206,202
+"814","insurance coverage or insurance comparison instructional materials",5,18,41,11,40,42,23,90
+"815","computer or network or internet security",25,20,35,1,44,129,50,222
+"816","public enterprises management or financial services",15,9,40,18,65,18,145,81
+"817","facsimile machines",14,36,88,24,48,113,21,113
+"818","advertising campaign services",1,50,31,98,149,80,219,106
+"819","classroom and instructional and institutional furniture and fixtures",16,16,42,47,66,57,224,62
+"820","toxic and hazardous waste cleanup",25,20,35,7,67,32,210,143
+"821","earth science services",1,50,31,98,149,80,119,106
+"822","mining and oil and gas services",2,13,68,94,63,101,221,88
+"823","laboratory supplies and fixtures",23,30,19,63,145,36,248,162
+"824","economics",7,2,8,86,137,15,34,150
+"825","merchandising furniture and accessories",18,30,48,9,119,11,176,235
+"826","fire alarm maintenance or monitoring",25,20,35,62,64,129,187,127
+"827","audio visual technology",23,12,53,41,87,20,12,20
+"828","cameras",7,2,8,86,137,15,184,102
+"829","cable laying",14,21,37,93,137,146,193,173
+"830","painting services",10,46,54,92,99,51,109,1
+"831","surveillance or alarm maintenance or monitoring",25,20,35,62,64,129,187,127
+"832","textbook or research publishing",23,12,53,89,116,134,149,116
+"833","environmental security control services",2,40,68,94,63,101,221,189
+"834","industrial vocational training services",2,13,11,87,63,50,160,148
+"835","radio or television manufacture services",2,13,68,94,63,101,221,189
+"836","national security",14,36,89,21,91,118,26,6
+"837","electronic catalogues",14,36,66,86,137,16,55,150
+"838","physical and occupational therapy and rehabilitation products",16,16,42,51,104,57,31,65
+"839","sculptures",7,2,8,86,137,15,34,150
+"840","telecommunications vocational training services",2,13,11,87,63,50,160,148
+"841","lawnmowers",7,2,8,35,110,15,34,165
+"842","media storage",14,22,61,22,89,93,168,115
+"843","outdoor furniture",14,22,84,21,91,141,99,147
+"844","electromechanical services",10,46,54,72,58,51,109,60
+"845","telecommunications planning services",1,50,99,98,149,80,164,108
+"846","temporary manual labour",23,12,53,79,87,20,12,238
+"847","power generation control equipment",11,32,20,75,36,88,33,58
+"848","scissor lift",14,36,89,21,91,16,71,205
+"849","contractors all risks insurance",23,12,53,21,91,20,12,205
+"850","pest control",14,36,89,16,90,8,37,100
+"851","labelling tapes",14,36,89,21,91,108,121,205
+"852","lawn care services",1,50,31,92,99,80,119,1
+"853","water testing and conservation and ecology",25,20,15,1,64,116,196,120
+"854","topsoil",7,2,8,35,110,15,34,165
+"855","miscellaneous drug categories",23,12,53,21,91,20,12,205
+"856","heating and ventilation and air circulation",25,20,35,62,64,32,210,198
+"857","medical diagnostic imaging and nuclear medicine products",4,48,55,5,94,126,17,243
+"858","medical sterilisation products",23,12,46,36,150,119,198,42
+"859","fire protection",14,36,65,19,118,16,243,6
+"860","water resources development and oversight",25,20,15,1,64,116,196,120
+"861","water and wastewater treatment supply and disposal",16,16,9,23,50,57,112,215
+"862","plumbing fixtures",14,36,89,21,91,16,71,205
+"863","trade policy and regulation",23,12,53,41,87,20,12,20
+"864","packing supplies",14,36,37,65,128,6,246,206
+"865","developmental and professional teaching aids and materials and accessories and supplies",5,18,80,11,40,44,150,191
+"866","medical science research and experimentation",25,20,35,62,64,143,2,127
+"867","horticulture",7,2,8,35,110,15,34,165
+"868","permanent structures",14,36,89,21,91,135,148,240
+"869","cemetery upkeep services",1,50,31,72,58,80,119,60
+"870","pollution tracking and monitoring and rehabilitation",25,20,35,62,64,32,210,127
+"871","concrete and cement and plaster",23,12,53,41,87,20,12,20
+"872","geographic information system gis services",15,15,40,37,117,41,132,22
+"873","water quality assessment services",2,40,68,94,47,142,153,88
+"874","crop production and management and protection",25,20,35,36,150,98,173,42
+"875","environmental advisory services",1,50,31,70,149,63,119,5
+"876","environmental impact assessment",23,12,53,21,115,20,12,176
+"877","feasibility studies or screening of project ideas",16,16,42,41,87,57,224,20
+"878","methodology and analysis",14,36,89,86,137,16,118,150
+"879","environmental monitoring",14,36,89,21,115,78,46,176
+"880","environmental safety services",1,50,31,70,149,63,119,5
+"881","environment planning",14,36,89,21,86,16,71,205
+"882","land and soil preparation and management and protection",16,16,42,47,66,57,224,62
+"883","livestock management",14,36,44,31,135,24,237,192
+"884","development environment software",23,14,51,71,105,82,205,179
+"885","environmental standards",14,36,89,21,115,78,46,176
+"886","pesticides pollution assessment",23,12,53,21,91,20,12,205
+"887","fuel oils",14,36,82,21,56,132,49,50
+"888","helicopter services",10,46,54,92,99,51,109,1
+"889","refrigerated storage",14,22,61,22,89,93,168,115
+"890","camera based vision systems for automated data collection",5,18,80,57,14,71,54,51
+"891","communication satellites",14,36,89,21,91,16,71,205
+"892","produced water treating equipment",11,32,20,20,3,88,33,247
+"893","forest conservation strategy planning",25,20,35,62,64,32,210,127
+"894","underwater cameras",14,36,89,86,137,16,71,102
+"895","transportation related equipment and instruments",11,32,20,75,36,88,33,58
+"896","stevedoring services",10,46,54,72,58,51,109,60
+"897","sales and marketing software",23,14,51,71,105,82,205,179
+"898","printer and photocopier and facsimile accessories",25,20,92,50,113,137,177,45
+"899","newspapers",7,2,8,86,137,15,34,150
+"900","freight forwarders services",1,50,31,92,99,80,119,1
+"901","cruise ships",14,36,89,86,137,16,71,150
+"902","commercial passenger jet aircraft",25,20,35,62,46,32,186,190
+"903","official gift services",1,50,31,72,58,80,119,60
+"904","post office",14,36,89,21,93,16,163,147
+"905","building construction machinery and accessories",25,20,92,50,113,137,177,45
+"906","security systems services",1,50,99,37,117,63,90,22
+"907","marquees",7,2,8,35,110,15,34,165
+"908","electronic copyboards or accessories",18,30,48,58,146,11,176,248
+"909","blinds and shades",14,36,89,21,91,16,71,205
+"910","speed stoppers",14,36,89,86,137,16,71,150
+"911","banners",7,2,8,86,137,15,34,150
+"912","planes",7,2,8,35,110,15,34,165
+"913","cultural events organisations",23,12,53,41,87,33,80,20
+"914","permanent technical staffing needs",25,20,35,62,72,32,22,127
+"915","media studies",14,36,89,21,91,16,71,205
+"916","short message service centre",2,13,68,98,149,101,221,106
+"917","recreational sailboats",14,36,89,86,137,16,71,150
+"918","talent or entertainment",14,36,89,86,137,16,71,150
+"919","logistics",7,2,8,86,137,15,34,150
+"920","chartered bus services",1,50,31,98,149,80,119,106
+"921","busses",7,2,8,35,110,15,34,165
+"922","platform lift",14,36,89,21,91,16,71,205
+"923","woven suits or coats or overcoats manufacturing services",12,43,72,94,63,23,93,189
+"924","traffic control",14,36,89,16,90,8,37,100
+"925","yachts",7,2,8,35,110,15,34,165
+"926","radios",7,2,8,86,137,15,34,150
+"927","toilet cleaners",14,36,89,21,91,16,71,205
+"928","pictures",7,2,8,86,137,15,34,150
+"929","manufacture of transport equipment",19,6,87,20,3,17,47,247
+"930","hotel rooms",14,36,89,21,91,16,71,205
+"931","call centre bureau services",2,13,68,98,149,101,221,106
+"932","vouchers",7,2,8,35,110,15,34,165
+"933","freestanding lighting or power or data components",16,16,42,47,19,145,61,212
+"934","signage",7,2,8,86,137,15,34,150
+"935","transcription or translation systems or kits",25,47,7,13,92,12,181,220
+"936","cleaning equipment",14,10,86,81,75,148,200,195
+"937","blank video tapes",23,12,53,41,87,20,12,20
+"938","lighting power supply and control units",16,16,9,51,19,145,112,149
+"939","operating lease finance service",2,13,68,94,63,101,221,189
+"940","dsl digital subscriber line",25,20,35,21,91,32,210,67
+"941","spot chairs",14,36,89,86,137,16,71,150
+"942","storage racks or shelves",23,12,57,40,87,55,103,153
+"943","neon signs",14,36,89,86,137,16,71,150
+"944","temporary human resources services",2,13,68,94,63,101,221,189
+"945","printed inserts or instructions",23,12,53,3,140,136,24,59
+"946","taxicab services",10,46,54,72,58,51,109,60
+"947","business interruption insurance",23,12,53,21,100,20,199,205
+"948","temporary legal staffing needs",25,20,35,62,72,32,22,127
+"949","psychotherapists services",10,46,54,72,58,51,109,60
+"950","court reporting services",1,50,31,98,149,80,119,106
+"951","magazines",7,2,8,86,137,15,34,150
+"952","furniture manufacturing services",1,50,31,98,149,80,119,168
+"953","educational or reference software",23,14,51,71,105,82,205,179
+"954","photographers and cinematographers",14,36,89,86,137,16,71,150
+"955","audioconferencing systems",13,5,16,25,53,86,175,225
+"956","teleconference equipment",14,10,86,84,70,148,200,213
+"957","management information systems mis",25,47,7,13,92,12,233,220
+"958","online database information retrieval systems",20,16,71,4,11,39,212,101
+"959","disaster recovery services",1,50,31,92,99,80,119,1
+"960","electric utilities",14,36,37,2,91,16,141,186
+"961","real estate management services",2,13,68,94,25,30,221,68
+"962","oil and gas utilities",23,12,26,17,111,25,208,227
+"963","passenger road transportation",23,12,33,12,5,149,51,200
+"964","land tax",14,36,89,21,91,16,152,23
+"965","water and sewer utilities",23,12,53,64,9,54,12,39
+"966","trade shows and exhibits",23,12,53,41,87,20,12,20
+"967","development software",14,39,95,91,126,62,39,126
+"968","system administrators",13,5,16,53,82,86,175,161
+"969","removable storage media",23,12,57,40,87,55,103,153
+"970","security or access control systems",25,47,7,66,11,31,181,101
+"971","manufacturing technologies",14,36,89,21,91,16,71,205
+"972","doors and windows and glass",23,12,53,41,87,20,12,20
+"973","fire prevention",14,36,89,21,91,16,71,205
+"974","microfilm equipment and supplies",19,6,87,82,3,17,16,56
+"975","building support services",1,50,31,14,55,80,158,168
+"976","awards",7,2,8,86,137,15,34,150
+"977","mobile communications services",1,50,31,98,149,80,119,106
+"978","promotional services",10,46,54,92,99,51,109,1
+"979","parks management or maintenance services",8,13,13,94,25,30,89,69
+"980","civil engineering",14,42,84,21,95,64,141,31
+"981","parking lot or road sweeping services",15,8,40,94,63,18,120,189
+"982","screens",7,2,8,86,137,15,34,150
+"983","storm water drainage",23,12,53,46,39,54,12,64
+"984","special purpose telephones",23,12,53,41,87,20,167,20
+"985","valve actuators",14,36,89,21,91,16,71,205
+"986","flagpoles or parts or accessories",18,30,48,58,146,11,176,248
+"987","tree surgery services",1,50,31,92,99,80,119,1
+"988","land use planning",23,12,53,41,87,97,79,118
+"989","land surveying",14,36,89,21,91,16,152,23
+"990","visual art services",1,50,31,98,149,80,88,12
+"991","traffic engineering",14,42,84,21,95,64,141,31
+"992","playground equipment",14,10,86,81,75,148,200,195
+"993","irrigation pipes or tubes",23,12,53,41,87,20,12,20
+"994","typesetting",7,2,8,35,110,15,34,165
+"995","restoration of buildings or landmarks or monuments",25,20,35,62,64,32,210,127
+"996","reinsurance services",10,46,54,72,58,51,109,60
+"997","conference or non modular room packages",16,16,42,47,66,57,224,62
+"998","parking fees",14,36,89,21,91,16,71,205
+"999","data archiving services",1,50,31,98,149,80,119,106
+"1000","lifts",7,2,8,86,137,15,34,102
+"1001","exhibitions",7,2,8,86,137,15,34,150
+"1002","land leases",14,36,89,21,91,16,152,23
+"1003","technical diagrams or drawings",23,12,53,86,137,20,12,150
+"1004","metallurgical machinery or equipment manufacture services",15,8,40,10,139,92,220,209
+"1005","finish carpentry or cabinetry",23,12,53,41,87,20,12,20
+"1006","mint coin collections",23,12,53,21,91,20,12,205
+"1007","supply of natural gas",23,30,19,63,145,36,248,162
+"1008","press release services",1,50,31,92,99,80,119,1
+"1009","refining metal services",1,50,31,98,149,80,119,106
+"1010","industrial process machinery and equipment and supplies",16,16,76,6,2,26,101,28
+"1011","flooring",7,2,8,86,137,15,76,18
+"1012","pump lubricating oils",23,12,26,17,111,25,208,227
+"1013","sales or marketing programs",23,12,53,79,109,20,228,20
+"1014","stationery or business form printing",25,20,35,62,64,32,244,127
+"1015","new business start up consultation services",15,8,40,98,149,18,120,54
+"1016","coin banks",14,36,89,21,91,16,71,205
+"1017","laser measuring systems",17,27,100,13,92,150,241,220
+"1018","paper wastes",14,36,77,21,129,96,32,91
+"1019","industrial use gases",23,38,52,41,142,27,236,178
+"1020","fire sprinkler systems",17,27,100,53,82,150,241,161
+"1021","cyanides or isocyanides",14,36,89,35,110,16,71,165
+"1022","base metals",24,29,89,26,41,16,71,205
+"1023","gold",7,2,8,86,137,15,34,150
+"1024","paperboard and packaging papers",23,12,78,21,129,111,126,91
+"1025","silver ag",7,2,8,35,110,15,34,165
+"1026","cold forming presses",23,12,53,41,87,20,12,20
+"1027","packaging boxes and bags and pouches",25,20,35,62,64,32,210,198
+"1028","copper strip",14,36,89,86,137,16,71,150
+"1029","work benches",14,36,89,86,137,16,157,150
+"1030","heating or drying equipment or accessories",11,32,34,75,36,102,182,128
+"1031","conveyors and accessories",13,5,24,58,146,69,222,248
+"1032","electronic counters",14,36,66,21,91,16,55,199
+"1033","document storage services",1,50,31,98,141,80,119,106
+"1034","vehicle transport services",1,50,28,98,149,80,119,160
+"1035","nonhazardous waste disposal",23,12,53,21,91,37,98,205
+"1036","industrial cleaning services",1,50,31,70,55,80,140,16
+"1037","municipal electric power distribution",25,20,35,41,147,14,128,169
+"1038","corporate divestiture consultation services",2,13,68,98,149,101,221,54
+"1039","telecommunication equipment installation or modification kits",16,16,76,6,1,19,78,159
+"1040","data base management system software",3,16,71,47,52,39,42,214
+"1041","animal feed",14,36,89,86,137,16,71,150
+"1042","elements and gases",14,36,89,86,137,16,71,150
+"1043","permanent information technology systems or database administrators",4,48,55,5,94,126,242,90
+"1044","internet service providers isp",2,13,68,98,149,101,221,106
+"1045","meetings events",14,36,89,21,91,16,204,205
+"1046","libraries and related materials",23,35,94,90,81,144,44,185
+"1047","wide area network wan maintenance or support",4,48,55,47,66,126,28,30
+"1048","contract law services",1,50,31,98,149,80,119,106
+"1049","reference books",14,36,89,21,91,16,71,205
+"1050","re training or refreshing training services",12,43,72,18,65,23,93,172
+"1051","local telephone service",1,50,31,98,149,80,119,106
+"1052","systems analysis",13,5,16,53,82,86,175,161
+"1053","reading books and resources",23,12,53,64,87,20,29,44
+"1054","mainframe computers",14,36,10,30,98,35,20,132
+"1055","fluid and gas distribution",23,12,26,17,111,25,208,76
+"1056","tickets or ticket rolls",16,16,42,86,137,57,224,150
+"1057","family law services",1,50,31,98,149,80,119,106
+"1058","social justice or legislation services",2,13,68,98,149,101,221,106
+"1059","temporary production staffing needs",25,20,35,62,72,98,22,184
+"1060","customs conventions",14,36,89,21,91,16,71,205
+"1061","closed circuit television services",2,13,68,98,149,101,221,106
+"1062","computer vocational training services",2,13,11,87,63,50,160,148
+"1063","administration software",14,39,95,91,126,62,197,126
+"1064","tax accounting",14,36,89,21,127,78,188,176
+"1065","electronic computers or data processing equipment manufacture services",12,43,50,29,51,40,56,80
+"1066","computer support organisation",23,12,6,96,74,21,125,122
+"1067","corrugated and other supplies for distribution",23,30,19,63,145,36,248,162
+"1068","social security legislation services",2,13,68,94,63,101,221,189
+"1069","port connection panels",23,12,53,41,87,20,12,20
+"1070","electronics vocational training services",2,13,11,87,63,50,160,148
+"1071","electronic media or data duplicating equipment",16,16,76,6,1,19,78,25
+"1072","sandbags or sandbag sets for rehabilitation or therapy",5,18,80,41,87,71,54,20
+"1073","interactive voice response service",2,13,68,94,63,101,221,189
+"1074","criminal law services",1,50,31,98,149,80,119,106
+"1075","trade projections",14,36,85,21,91,3,127,205
+"1076","fine arts",14,36,89,21,91,16,37,205
+"1077","computer or office equipment cleaning kit",16,16,76,6,1,19,78,159
+"1078","sales marketing agencies including print",16,16,42,47,66,57,224,112
+"1079","digital voice recorders",23,12,53,41,87,20,207,20
+"1080","employment services",10,46,54,92,99,51,109,1
+"1081","archaic or indigenous language services",2,13,68,92,99,101,221,1
+"1082","interactive whiteboards or accessories",18,30,48,58,146,11,176,248
+"1083","sports event promotion and sponsorship",25,20,35,62,64,32,210,127
+"1084","labour training or development",23,12,53,79,38,29,172,20
+"1085","instruction sheets or booklets",23,12,53,79,87,20,12,239
+"1086","housings and cabinets",14,36,89,21,91,16,71,205
+"1087","international labour registration services",2,13,68,94,63,101,221,189
+"1088","barriers",7,2,8,86,137,15,34,150
+"1089","tufted carpeting",14,36,89,86,137,16,71,99
+"1090","integrated maintenance information systems",25,47,7,4,11,12,233,101
+"1091","sponsorship of event or celebrity",23,12,53,21,91,20,12,205
+"1092","sales and business promotion activities",25,20,35,62,64,32,244,127
+"1093","production logging downhole video services",15,8,40,94,114,125,52,154
+"1094","network gateway",14,36,89,21,91,135,107,67
+"1095","database design",14,36,89,21,91,16,194,205
+"1096","military rifles",14,36,89,86,137,74,130,234
+"1097","water storage tanks",23,12,57,40,9,55,103,153
+"1098","configuration management software",23,14,56,91,126,22,162,19
+"1099","blank tapes",14,36,89,21,91,108,121,205
+"1100","general goods storage",23,12,57,40,87,55,103,153
+"1101","data base reporting software",25,3,91,39,77,49,86,10
+"1102","project management software",23,14,56,99,105,22,162,179
+"1103","tablet computers",14,36,10,55,132,35,20,104
+"1104","permanent professional staff",23,12,53,41,87,20,12,20
+"1105","internet or intranet client application development services",12,43,72,67,29,99,93,94
+"1106","communications vocational training services",2,13,11,87,63,50,160,148
+"1107","digital acoustic logging services",2,13,68,98,149,101,221,106
+"1108","operating system software",17,27,100,34,92,150,156,77
+"1109","chemical absorption gas analysers",25,20,35,17,111,32,210,76
+"1110","management staff associations",23,12,56,64,9,54,209,134
+"1111","printer or facsimile or photocopier cleaning supplies",16,16,9,51,66,57,112,149
+"1112","in plant offices",14,36,89,21,93,16,163,147
+"1113","warehouse stores",14,36,89,21,91,16,71,205
+"1114","workmens insurance",14,36,89,86,137,16,71,150
+"1115","criminal case fees or fines",25,20,35,62,64,32,210,127
+"1116","family planning programs or services",2,13,5,94,63,2,9,68
+"1117","clerical training",14,36,89,21,91,16,116,193
+"1118","modem software",14,39,95,91,126,62,197,126
+"1119","teacher training services",1,50,23,70,15,63,27,229
+"1120","emergency medical services supplies",2,13,68,94,63,101,189,189
+"1121","defence or criminal law services",2,13,68,94,63,101,221,189
+"1122","permanent legal staffing needs",25,20,35,62,72,32,22,127
+"1123","safety or security systems installation",25,47,7,4,11,12,181,101
+"1124","mainframe software applications design",25,3,91,39,77,49,86,8
+"1125","mass communication services",1,50,31,98,149,80,119,106
+"1126","common fund for commodities services",2,13,68,98,149,101,221,106
+"1127","pay phone provider services",2,13,68,98,149,101,221,106
+"1128","fair stands creation or construction",25,20,35,62,64,32,210,127
+"1129","technical manual or instruction sheet printing",16,16,42,47,66,57,224,112
+"1130","concept model",14,36,89,21,91,16,71,205
+"1131","automobiles or cars",14,36,89,21,91,16,71,205
+"1132","basic operations models",23,12,53,41,87,20,12,20
+"1133","emergency medical services disaster management products",12,43,72,67,29,23,93,61
+"1134","driving and flying and sailing",23,12,53,86,137,20,12,150
+"1135","filter media",14,36,89,21,91,16,71,205
+"1136","bulk storage",14,22,61,22,89,93,168,115
+"1137","telephone switchboard part kits",25,20,35,62,64,115,203,152
+"1138","photocopying",7,2,25,86,137,127,87,102
+"1139","freestanding furniture",14,22,84,21,91,141,99,147
+"1140","binder or bulldog clips",23,12,53,21,91,20,12,205
+"1141","relationship building or family life skills instructional materials",5,18,80,11,40,71,150,90
+"1142","library software",14,39,95,91,126,62,197,126
+"1143","liquid crystal display lcd panels or monitors",4,48,55,62,64,126,17,127
+"1144","network monitoring software",23,14,51,71,105,82,136,179
+"1145","data storage and backup",23,12,57,40,87,55,103,153
+"1146","computer programmed instruction",23,12,6,79,74,21,92,122
+"1147","urban project or program administration or management services",12,43,72,67,29,23,93,61
+"1148","client or server programming services",2,13,5,94,63,2,9,68
+"1149","on line data processing",23,12,17,41,87,20,35,175
+"1150","personal care products",23,12,46,36,150,119,198,207
+"1151","media placement and fulfilment",23,12,53,86,137,20,207,150
+"1152","directory assistance services",1,50,31,98,37,80,119,106
+"1153","computer based simulation training program services",12,43,72,67,29,23,93,94
+"1154","legal assistance services",1,50,31,98,37,80,119,106
+"1155","development assistance",14,36,89,21,91,16,141,84
+"1156","plumbing and heating and air conditioning",25,20,35,62,64,32,210,198
+"1157","voter registration or counting or analysis or scrutiny services",12,43,72,94,63,23,93,189
+"1158","certificates",7,2,8,86,137,15,34,150
+"1159","administrative procedures or services",21,50,23,92,99,80,84,1
+"1160","ammunition",7,2,8,86,137,15,34,150
+"1161","military police training",23,12,53,79,38,29,172,232
+"1162","safes",7,2,8,35,110,15,34,165
+"1163","chairs",7,2,8,86,137,15,34,150
+"1164","police services",10,46,54,92,99,51,109,1
+"1165","network cable",14,21,37,21,91,146,107,216
+"1166","roofing installation or repair",23,12,53,41,87,20,48,20
+"1167","professional standards review boards",25,20,35,62,64,32,210,127
+"1168","water",7,11,49,46,39,140,201,64
+"1169","data storage",14,22,61,22,89,93,168,115
+"1170","quarterly reviews",14,36,89,86,137,16,71,150
+"1171","oss wireless access network equipment and components",4,48,32,6,26,75,74,97
+"1172","security or financial instruments printing",25,20,35,62,64,32,244,32
+"1173","surveying systems",13,5,16,53,82,86,175,161
+"1174","lan software",14,39,95,91,126,62,197,126
+"1175","alarm systems",13,5,16,53,82,86,175,161
+"1176","keys",7,2,8,86,137,15,34,150
+"1177","procurement or supply chain training",25,20,96,23,50,147,25,215
+"1178","general educational facility fixtures",25,20,35,62,64,32,8,127
+"1179","cabinets",7,2,8,86,137,15,151,150
+"1180","machine made parts",23,12,74,24,48,66,129,113
+"1181","technical cooperation services",1,50,31,98,149,80,119,106
+"1182","international business associations",23,12,53,41,87,20,199,20
+"1183","division activity or resource books",25,20,35,64,87,116,244,44
+"1184","educational or vocational textbooks",23,12,53,41,87,134,12,20
+"1185","personal communications device accessories or parts",16,16,81,47,20,45,70,142
+"1186","terminal services",10,46,54,92,99,51,109,1
+"1187","bulk transporters",14,7,84,56,30,77,178,197
+"1188","wireless internet gateway",23,12,53,41,87,20,12,20
+"1189","military education",14,36,67,21,148,74,83,196
+"1190","telecommunications cable",14,21,37,21,91,146,193,216
+"1191","outside plant telecommunications cable",25,20,35,41,87,32,210,245
+"1192","automotive computer systems",17,27,100,13,92,150,241,220
+"1193","pharmaceutical filters or ultra filters",4,48,55,47,66,126,17,62
+"1194","office machinery or equipment manufacture services",15,8,40,42,76,92,220,180
+"1195","diplomats security services",1,50,31,92,99,80,119,47
+"1196","temporary medical staffing needs",25,20,35,62,72,32,22,127
+"1197","completion tools and equipment",19,6,87,20,3,17,47,247
+"1198","personal computer television pc tv tuners",25,20,35,96,74,129,50,122
+"1199","consumer electronics",14,36,66,21,91,16,55,199
+"1200","telecommunication devices tdd or teletypewriters tty  for the physically challenged",5,18,80,62,88,71,54,2
+"1201","power supply transformers",23,30,19,65,128,36,248,206
+"1202","industrial machinery components and accessories",25,20,92,50,113,137,177,45
+"1203","storage tanks",14,22,61,22,89,93,168,115
+"1204","oil pumps",14,36,89,21,112,64,66,50
+"1205","facsimile units for office machines",25,20,35,62,64,32,210,127
+"1206","forest or wilderness firefighting services",2,13,68,92,99,101,221,1
+"1207","rescue service station",1,50,31,98,149,80,119,106
+"1208","expert system software",17,27,100,53,82,150,156,161
+"1209","emergency medical services long distance response ldr trauma packs",9,37,41,29,51,100,19,80
+"1210","termite control services",1,50,31,92,99,80,119,66
+"1211","network channel or data service units",15,8,40,94,63,18,120,189
+"1212","metal heating services",1,50,31,98,149,80,119,106
+"1213","ground support training systems",25,47,7,4,11,12,181,101
+"1214","sterilisation biological kits",23,12,53,44,18,59,85,17
+"1215","ground support test or maintenance systems",20,16,71,47,52,39,212,151
+"1216","anti foaming agents",23,12,53,41,87,20,12,20
+"1217","systems integration design",17,27,100,13,92,150,241,220
+"1218","airport buildings",14,34,89,21,91,16,138,233
+"1219","sign holders or stands",23,12,53,41,87,20,115,20
+"1220","understanding community service instructional materials",15,8,40,18,65,18,120,79
+"1221","engine components and accessories",18,30,48,9,119,110,176,235
+"1222","mobile location based services software",15,8,40,18,65,18,120,40
+"1223","personal communication devices",23,12,53,96,109,20,185,93
+"1224","trade facilitation",14,36,85,21,91,3,127,205
+"1225","social welfare services",1,50,31,92,99,80,119,1
+"1226","theological seminaries",14,36,89,35,110,16,71,165
+"1227","cabbing equipment",14,10,86,81,75,148,200,195
+"1228","general purpose cleaners",23,12,53,41,87,20,12,20
+"1229","electronic magazines",14,36,66,21,91,16,55,199
+"1230","mobile internet services software",2,13,68,94,114,101,72,189
+"1231","electronic manufacturing machinery and equipment and accessories",16,16,76,6,69,26,101,52
+"1232","camera accessories",13,5,24,58,146,69,222,248
+"1233","food service dinnerware",1,50,31,92,99,80,119,1
+"1234","schools",7,2,8,86,137,15,34,150
+"1235","offset printing presses",23,12,53,41,87,136,24,98
+"1236","engine oil",14,42,84,21,95,64,66,31
+"1237","electric lead wires or cables",25,20,35,62,64,14,128,26
+"1238","conveyor flights or links",23,12,53,41,87,20,12,20
+"1239","temporary sourcing and logistics services",2,13,68,94,63,101,221,189
+"1240","range research",14,36,58,86,137,117,71,150
+"1241","engine or engine parts teaching aids or materials",5,18,41,32,68,42,23,244
+"1242","network connectivity terminal emulation software",3,16,45,39,77,9,110,8
+"1243","women staff associations",23,12,53,41,87,20,12,20
+"1244","asbestos decontamination or removal",23,12,53,41,87,20,12,20
+"1245","computer data input devices",25,20,35,1,44,129,50,222
+"1246","video networking equipment",19,6,87,20,33,17,3,241
+"1247","cats",7,2,8,35,110,15,34,165
+"1248","individual health assessment",23,12,53,41,87,20,12,118
+"1249","personal accommodation item dispensers",25,20,35,96,109,32,210,93
+"1250","computer printout paper",23,12,78,30,98,111,92,132
+"1251","system installation",13,5,16,53,82,86,175,161
+"1252","fax software",14,39,95,73,79,62,197,38
+"1253","internet directory services software",2,13,68,94,114,101,72,189
+"1254","funds transfer and clearance and exchange services",15,8,40,18,65,18,120,157
+"1255","manufacturing equipment repair services",8,13,97,10,139,124,13,209
+"1256","radio frequency data communication equipment",16,16,76,6,1,19,78,25
+"1257","computer support storage accessories",25,20,92,50,113,137,177,72
+"1258","geology and earth science",23,12,53,21,91,20,12,205
+"1259","audio visual instruments for well inspection",16,16,42,47,66,57,231,62
+"1260","practical teen advice guides",25,20,35,41,87,32,210,20
+"1261","maintenance of international peace and security",25,20,35,96,87,129,187,175
+"1262","medical imaging processing equipment and supplies",16,16,76,6,2,26,101,28
+"1263","analogue telephones",14,36,89,86,137,16,71,150
+"1264","special interest newsletter services",2,13,68,92,99,101,221,1
+"1265","power cable installation and supply",25,20,96,23,50,147,25,215
+"1266","oil and gas engineering",23,12,26,17,111,25,208,227
+"1267","other domestic household appliances",23,12,53,21,91,20,58,41
+"1268","magazine advertising",14,41,89,21,136,121,206,202
+"1269","students travelling organisations",23,12,53,21,91,33,80,205
+"1270","mine development",14,36,89,21,91,16,141,84
+"1271","medical gas products",23,12,46,36,150,119,198,42
+"1272","compliance software",14,39,95,91,126,62,197,126
+"1273","plumbing or sewer inspection service",2,13,68,94,63,101,221,189
+"1274","office administration or secretarial services",2,13,68,15,84,101,221,14
+"1275","newspaper or advertising material delivery services",15,8,40,18,65,18,120,79
+"1276","private or business jet aircraft",25,20,35,62,46,32,186,190
+"1277","report covers",14,36,89,21,91,16,71,218
+"1278","supply of water",14,36,37,65,128,6,246,206
+"1279","combination digital video disc dvd video cassette disc vcd compact disc cd player",9,1,43,52,27,73,174,71
+"1280","service water",10,46,59,92,99,81,226,83
+"1281","photoconductor or imaging units",23,12,53,21,83,20,207,41
+"1282","fire fighting equipment",19,6,87,20,3,17,47,247
+"1283","third party warranty",23,12,53,21,91,20,12,205
+"1284","application server software",23,14,51,71,105,82,205,179
+"1285","aids for medical training",23,12,53,89,38,123,94,237
+"1286","program testing software",23,14,51,71,105,82,205,179
+"1287","knotted carpeting",14,36,89,86,137,16,71,99
+"1288","art design services",1,50,31,98,149,80,88,12
+"1289","impoundment or storage of water services",2,40,68,98,141,142,153,106
+"1290","cellular telephone services",1,50,31,92,99,80,119,1
+"1291","utility service vehicles",1,50,28,98,149,80,119,160
+"1292","sports and health structures",23,12,53,41,87,20,12,118
+"1293","integrated services digital network isdn testers",12,43,72,67,29,23,93,94
+"1294","profiles",7,2,8,35,110,15,34,165
+"1295","exploration and development systems",17,27,100,13,92,150,241,220
+"1296","infant or child daycare services",2,13,68,92,99,101,221,1
+"1297","service area building",1,50,31,98,55,80,158,168
+"1298","multipurpose business book",23,12,53,21,100,20,199,205
+"1299","funds clearance services",1,50,31,98,149,80,119,106
+"1300","vehicle parking services",1,50,28,98,149,80,119,160
+"1301","electronic learning aids",23,12,53,41,31,20,214,105
+"1302","emergency and field medical services kits",15,8,40,18,65,125,52,140
+"1303","crossconnection functionality",14,36,89,86,137,16,71,150
+"1304","primary care physicians emergency medical services",12,43,72,18,65,23,93,140
+"1305","directional survey services",1,50,31,98,149,80,119,106
+"1306","coffee brewing equipment or supplies",11,32,34,82,3,102,180,56
+"1307","garden planting or maintenance services",8,13,13,94,7,101,89,69
+"1308","temporary drivers",14,36,89,21,91,16,71,205
+"1309","point of purchase signs",23,12,53,86,137,20,115,150
+"1310","scrap and waste materials",23,35,94,90,81,144,44,185
+"1311","powered fixed wing aircraft",25,20,35,62,46,14,186,190
+"1312","computer data input device accessories",16,16,81,47,20,45,70,142
+"1313","fishing boats",14,36,89,21,91,16,71,205
+"1314","exterior painting services",1,50,31,98,149,80,119,106
+"1315","patent or trademark or copyright law",25,20,35,86,137,32,210,150
+"1316","tuition reimbursement programs",23,12,53,86,137,20,228,163
+"1317","market research telephone surveys",25,20,35,62,64,143,2,127
+"1318","public health administration",23,12,53,41,87,97,79,118
+"1319","police uniforms",14,36,89,21,91,16,71,205
+"1320","multi function upgrades",23,12,53,41,87,20,12,20
+"1321","flat files",14,36,89,21,91,16,71,205
+"1322","research or testing facilities",23,12,53,89,116,134,149,116
+"1323","impurity removal services",1,50,31,92,99,80,119,1
+"1324","business facilities oversight",23,12,53,41,87,20,199,20
+"1325","building component cleaning services",2,13,68,94,63,101,221,189
+"1326","water or gas control services",2,40,68,94,47,142,153,88
+"1327","diesel freight locomotives",23,12,53,41,87,20,12,20
+"1328","chemistry vocational training services",2,13,11,87,63,50,160,148
+"1329","ferry terminal building",23,12,93,21,91,54,144,233
+"1330","civil case court expenses",25,20,35,41,87,32,210,20
+"1331","political systems and institutions",17,27,100,13,92,150,241,220
+"1332","digital printing",14,26,70,3,140,109,183,59
+"1333","speech specialists services",1,50,31,98,149,80,119,106
+"1334","occupational therapy services",1,50,31,98,149,80,119,106
+"1335","healthcare provider support persons",25,20,35,1,64,129,210,222
+"1336","pharmacists",7,2,8,35,110,15,34,165
+"1337","energy conservation",14,36,89,21,91,16,157,205
+"1338","ophthalmologists services",10,46,54,72,58,51,109,60
+"1339","primary care practitioners services",2,13,68,98,149,101,221,106
+"1340","computer support furniture",23,12,6,96,74,21,125,122
+"1341","translation labelling accessories",18,30,48,9,119,11,176,235
+"1342","marketing analysis",14,36,58,48,138,117,118,144
+"1343","hardware and fittings",14,36,89,21,91,16,71,205
+"1344","video creation and editing software",25,3,91,39,77,49,86,8
+"1345","securing and protecting supplies",23,30,19,63,145,36,248,162
+"1346","gateway software",14,39,95,91,126,62,197,126
+"1347","isdn integrated services digital network services",5,18,83,29,51,40,137,80
+"1348","web search engine providers",25,20,35,62,64,32,210,127
+"1349","sap",7,2,8,35,110,15,34,165
+"1350","vehicle driving schools services",2,13,68,94,63,101,221,189
+"1351","video conferencing software",23,14,51,91,126,82,205,126
+"1352","storage and handling equipment and supplies",11,32,34,23,54,102,180,226
+"1353","marketing plans",14,36,58,48,86,117,118,144
+"1354","building cable",14,34,37,21,91,146,138,233
+"1355","database information retrieval",23,12,53,41,87,20,115,238
+"1356","trade expansion",14,36,85,86,137,3,127,150
+"1357","wlan wireless access network equipment and components",4,48,32,6,26,75,74,97
+"1358","corporate finance",14,36,89,21,91,16,71,205
+"1359","university and colleges",14,36,89,86,137,16,71,150
+"1360","non scientific vocational training services",15,8,40,18,65,18,120,172
+"1361","local area network communications design",16,16,42,47,66,57,15,30
+"1362","electronic publications and music",23,12,53,41,31,20,214,105
+"1363","electric power systems installation or service",15,15,40,18,65,41,132,109
+"1364","product testing",14,21,77,38,21,43,247,171
+"1365","test equipment refurbishment",19,6,87,20,3,17,47,247
+"1366","telephony equipment",14,10,86,81,75,148,200,195
+"1367","database analysis",14,36,89,21,138,16,118,205
+"1368","data management and query software",25,3,91,39,77,49,86,10
+"1369","power supply units",23,30,19,63,145,36,248,162
+"1370","requirements analysis and system architecture software",3,16,71,47,52,39,42,214
+"1371","economic analysis",14,36,89,21,138,16,118,205
+"1372","teacher resource materials",23,35,94,90,81,144,44,185
+"1373","information retrieval or search software",25,3,91,39,77,49,86,8
+"1374","vertical blinds",14,36,89,86,137,16,71,150
+"1375","content management software",23,14,56,99,105,22,162,179
+"1376","interior plant landscaping services",2,13,68,94,63,101,221,189
+"1377","financial accounting",14,36,89,21,127,78,188,176
+"1378","product and material transport vehicles",25,20,2,62,34,98,173,34
+"1379","evening courses",14,36,89,35,110,16,71,165
+"1380","communication wiring harness",23,12,53,41,87,20,185,20
+"1381","guarantee agreements",14,36,89,35,110,16,71,165
+"1382","switch boxes",14,36,89,21,91,78,57,205
+"1383","security cameras",14,36,89,21,91,118,26,6
+"1384","civilian and commercial rotary wing aircraft",16,16,42,62,46,57,224,190
+"1385","scanners",7,2,8,86,137,15,34,150
+"1386","tool attachments and accessories",18,30,48,58,146,11,176,9
+"1387","manufacture of machinery",14,36,63,43,59,61,202,87
+"1388","black and white copy or collating services",15,8,40,98,149,18,120,106
+"1389","mobile healthcare centres or services",2,13,68,94,63,101,221,189
+"1390","customs uniforms",14,36,89,21,91,16,71,205
+"1391","marine craft communications systems",25,47,7,4,11,12,181,101
+"1392","fishing ship or boat building services",15,8,40,18,65,18,120,157
+"1393","career education or planning or decision making skills instructional materials",5,18,41,57,14,42,23,51
+"1394","roller conveyors",14,36,89,86,137,16,71,150
+"1395","public finance",14,36,89,21,91,16,71,205
+"1396","fire alarm systems",17,27,100,13,92,150,241,220
+"1397","oil and gas extraction and production enhancement services",12,43,72,67,29,23,93,61
+"1398","trade information services",1,50,36,98,149,80,164,181
+"1399","network service equipment",1,33,27,77,17,53,170,35
+"1400","recycling services",10,46,54,72,58,51,109,60
+"1401","machinery dust covers",23,45,93,43,59,1,215,87
+"1402","mounting hardware",14,36,89,21,91,16,71,205
+"1403","temporary engineering services",1,50,36,98,57,80,164,145
+"1404","fitness equipment",14,10,86,81,75,148,200,195
+"1405","engines",7,2,8,86,137,5,105,95
+"1406","political legislature services",1,50,31,92,99,80,119,1
+"1407","desk supplies",14,36,37,65,128,6,246,206
+"1408","government departments services",1,50,31,92,99,80,119,1
+"1409","world wide web www site operation host services",5,18,83,29,51,100,137,80
+"1410","graphite pencils",14,36,89,35,110,16,71,165
+"1411","labels",7,2,8,86,137,15,154,150
+"1412","public sector manpower development services",15,8,40,18,65,18,120,157
+"1413","charts or maps or atlases",23,12,53,86,137,20,12,150
+"1414","projectors and supplies",14,36,37,65,128,6,246,206
+"1415","addressing service",10,46,54,92,99,51,109,1
+"1416","surface data logging units",25,20,35,62,64,32,210,127
+"1417","humanitarian aid and relief",23,12,53,21,91,20,12,205
+"1418","photographic or filming or video equipment",11,32,20,75,36,88,33,58
+"1419","apparel and luggage and personal care products",16,16,42,51,104,57,31,65
+"1420","civic organisations and associations and movements",25,20,35,62,64,32,210,127
+"1421","animal containment and habitats",23,12,53,21,91,20,12,205
+"1422","assessment resource books",23,12,53,64,87,20,29,44
+"1423","viewing and observing instruments and accessories",25,20,92,9,119,137,177,235
+"1424","two way radios",23,12,53,41,87,20,12,20
+"1425","portable toilettes",14,36,89,35,110,16,71,165
+"1426","janitorial equipment",14,10,86,81,75,148,200,195
+"1427","market research paper surveys",25,20,35,62,64,143,2,127
+"1428","biotechnology and bio chemistry and genetics and microbiology and related materials",5,18,80,62,34,71,150,139
+"1429","cost accounting",14,36,89,86,137,78,188,150
+"1430","exchange datacom modules",23,12,53,21,91,20,12,205
+"1431","transceivers and media converters",23,12,53,86,137,20,207,150
+"1432","pharmaceutical research services",1,50,36,98,149,47,53,106
+"1433","aid financing",14,36,89,21,91,16,71,205
+"1434","non motorised cycles",23,12,53,41,87,20,80,86
+"1435","photographic filmmaking supplies",23,30,19,65,128,36,248,206
+"1436","industrial production and manufacturing services",2,13,47,94,114,101,134,154
+"1437","roads and landscape",14,36,89,21,91,16,71,205
+"1438","exterior finishing materials",23,35,94,90,81,144,44,185
+"1439","x ray radiography examination equipment",11,32,20,20,3,88,33,247
+"1440","houses",7,2,8,86,137,15,34,150
+"1441","business associations",14,36,1,21,100,78,239,205
+"1442","employee education",14,36,67,21,148,135,83,196
+"1443","pension funds",14,36,89,21,91,16,71,205
+"1444","electrical hardware and supplies",23,30,19,63,145,36,248,162
+"1445","fishery research or experimentation services",2,13,68,94,63,101,221,189
+"1446","fishery resources protection or conservation",25,20,35,62,64,116,244,127
+"1447","fishery data collection or distribution",25,20,35,62,64,32,210,127
+"1448","read only digital versatile disc dvd",16,16,42,47,66,57,224,62
+"1449","paintings",7,17,64,86,137,104,135,27
+"1450","resources for learning to speak english",25,20,35,21,91,116,244,205
+"1451","character education resource materials",25,20,2,62,34,65,67,139
+"1452","promotion of human rights services",2,13,68,98,149,101,221,181
+"1453","desks",7,2,8,86,137,15,34,150
+"1454","computer switch boxes",23,12,6,96,74,21,92,122
+"1455","internet browser software",23,14,51,91,126,82,205,126
+"1456","gasoline or petrol",14,36,89,35,110,16,71,165
+"1457","software coding",14,39,95,91,126,62,197,126
+"1458","subway transport",14,7,84,86,137,77,178,74
+"1459","accounting software",14,39,95,91,126,62,197,126
+"1460","roll up shades",14,36,89,21,91,16,71,205
+"1461","furniture tops or work surfaces",25,20,35,62,64,32,210,127
+"1462","network switches",14,36,89,21,91,135,107,67
+"1463","tables",7,2,8,86,137,15,34,150
+"1464","sofas",7,2,8,35,110,15,34,165
+"1465","data binder racks",23,12,17,41,87,20,35,20
+"1466","art gallery",14,36,89,86,137,16,37,150
+"1467","educational exchanges",14,36,67,21,148,135,83,196
+"1468","computer displays",14,36,10,30,98,35,20,132
+"1469","network management software",23,14,56,99,105,22,162,179
+"1470","broadcast advertising",14,41,89,21,136,121,206,202
+"1471","operating environment software",23,14,51,71,105,82,205,179
+"1472","laboratory vials",14,36,89,86,137,16,71,150
+"1473","nuclear reactor equipment",19,6,87,20,3,17,47,247
+"1474","fuel for nuclear reactors",23,12,53,41,87,20,12,20
+"1475","pneumatic vacuum equipment",19,6,87,20,3,17,47,247
+"1476","trade or service directory or yellow page advertising",12,43,72,18,65,23,93,157
+"1477","art related services",1,50,75,98,125,80,88,103
+"1478","touch screen monitors",23,12,53,21,91,20,12,205
+"1479","film badges",14,36,89,21,91,16,71,205
+"1480","spectrometers",7,2,8,35,110,15,34,165
+"1481","network security or virtual private network vpn management software",9,37,69,69,12,122,30,183
+"1482","camping and outdoor equipment",19,6,87,20,3,17,47,247
+"1483","scanning probe microscopes",23,12,53,86,137,20,12,150
+"1484","monochromators",7,2,8,35,110,15,34,165
+"1485","medical radioisotope scanners",23,12,53,89,87,123,94,237
+"1486","tamper proof or security seals",25,20,35,96,87,32,244,175
+"1487","radiation detectors",14,36,89,21,91,16,71,205
+"1488","detectors",7,2,8,86,137,15,34,150
+"1489","medical linear accelerator intensity modulated radiation therapy imrt products",9,37,41,57,14,42,122,51
+"1490","map creation software",23,14,51,71,105,82,205,179
+"1491","gamma counters",14,36,89,86,137,16,71,150
+"1492","dosimetry equipment",14,10,86,84,70,148,200,213
+"1493","switches and controls and relays and accessories",25,20,92,50,113,137,177,45
+"1494","washers",7,2,8,86,137,15,34,150
+"1495","multi gas monitors",23,12,26,17,111,25,208,76
+"1496","ionisation chambers",14,36,89,35,110,16,71,165
+"1497","frame relay telecommunications service",2,13,68,94,63,101,221,189
+"1498","phantom dosimeters",14,36,89,35,110,16,71,165
+"1499","health legislation or regulations",23,12,53,41,87,20,12,118
+"1500","controller switches",14,36,89,16,90,8,37,100
+"1501","quality control",14,36,89,16,90,8,37,100
+"1502","network security and virtual private network vpn equipment software",9,37,69,69,12,122,30,183
+"1503","radiotherapy teletherapy products",23,12,46,74,79,119,198,107
+"1504","thin client computers",23,12,6,30,98,21,92,132
+"1505","suits",7,2,8,86,137,15,34,150
+"1506","firewall network security equipment",11,32,20,20,33,88,245,241
+"1507","customs administration and compliance",23,12,53,41,87,97,79,118
+"1508","x ray microanalysers",14,36,89,86,137,16,71,150
+"1509","electrical power sensors",23,12,22,41,147,20,59,169
+"1510","hoists",7,2,8,35,110,15,34,165
+"1511","diagnostic radiopharmaceutical",14,36,89,21,91,16,71,205
+"1512","laboratory hotplates",14,36,89,86,137,16,71,150
+"1513","gardens",7,2,8,86,137,15,34,150
+"1514","dirt and soil",14,36,89,86,137,16,71,150
+"1515","interior painting services",1,50,31,98,149,80,119,106
+"1516","financial analysis software",23,14,51,71,105,82,205,179
+"1517","liquidation law services",1,50,31,98,149,80,119,106
+"1518","procurement software",14,39,95,91,126,62,197,126
+"1519","floral plants",14,36,89,86,137,16,71,150
+"1520","building environmental control systems",25,47,7,66,11,31,181,101
+"1521","foreign languages resources",23,12,53,64,87,20,29,44
+"1522","cable television services",1,50,31,98,149,80,119,106
+"1523","ip phones",7,2,8,86,137,15,18,102
+"1524","eating and drinking establishments",23,12,53,21,91,20,12,205
+"1525","picture framing",14,36,89,21,91,16,71,205
+"1526","vaccination services",10,46,54,92,99,51,109,1
+"1527","paper cutting machines or accessories",25,20,92,50,113,137,177,45
+"1528","business credit gathering or reporting services",15,8,40,94,63,18,120,189
+"1529","securities and commodities markets services",2,13,68,94,63,101,221,189
+"1530","actuators",7,2,8,86,137,15,34,150
+"1531","energy conservation programs",23,12,53,79,109,20,228,20
+"1532","postgraduate programs",14,36,58,86,137,16,146,163
+"1533","removal services or ornamental plant or bush or tree",12,43,72,67,29,23,93,94
+"1534","office kitchens",14,36,89,21,93,16,163,147
+"1535","entertainment centres",14,36,89,21,91,16,71,205
+"1536","market research mail surveys",25,20,35,62,64,143,2,127
+"1537","educational incentives",14,36,67,86,137,135,83,150
+"1538","scientific or research satellites",23,12,53,89,116,134,149,116
+"1539","multimedia kits",14,36,60,44,18,64,73,17
+"1540","thermal transfer printer for commercial printing applications",4,48,55,47,66,126,17,112
+"1541","timepieces and jewellery and gemstone products",25,20,35,36,150,98,173,42
+"1542","mailing supplies",14,36,37,65,128,6,246,206
+"1543","court system",13,5,16,53,82,86,175,161
+"1544","television advertising",14,41,89,21,136,121,206,202
+"1545","operating system programming services",2,13,38,94,63,128,123,155
+"1546","telecommunications remote access unit",25,20,35,62,64,32,210,127
+"1547","temperature or humidity surface observing apparatus",16,16,42,47,66,57,224,62
+"1548","anemometers",7,2,8,35,110,15,34,165
+"1549","meteorology instrument accessories",18,30,48,9,119,10,176,235
+"1550","weather stations",14,36,89,86,137,16,71,150
+"1551","meteorological instruments",14,44,89,83,45,16,114,15
+"1552","wind surface observing apparatus",25,20,35,41,87,32,210,20
+"1553","barometers",7,2,8,35,110,15,34,165
+"1554","radiosonde apparatus",14,36,89,86,137,16,71,150
+"1555","printed circuits and integrated circuits and microassemblies",5,18,80,5,94,71,54,90
+"1556","rainfall recorders",14,36,89,86,137,16,71,150
+"1557","hydrometeorology",7,2,8,35,110,15,34,165
+"1558","copywriting",7,2,8,35,110,15,34,165
+"1559","energy work",14,36,89,21,91,16,157,205
+"1560","job search skills instructional materials",16,4,42,47,107,114,11,49
+"1561","wheelchairs",7,2,8,86,137,15,34,150
+"1562","personal appearance",14,36,89,86,137,16,71,150
+"1563","fire services",10,46,54,92,99,51,109,1
+"1564","laboratory building",14,34,89,21,91,16,138,233
+"1565","secretariat services",10,46,54,72,58,51,109,60
+"1566","health administration services",21,50,23,15,84,80,84,14
+"1567","smart cards",14,36,89,86,137,16,127,150
+"1568","government budgeting services",1,50,31,98,149,80,119,106
+"1569","data conversion service",1,50,31,98,149,80,119,106
+"1570","taxation issues and preparation",23,12,17,41,87,20,12,20
+"1571","telephone call sequencers",23,12,53,21,91,20,167,205
+"1572","influenza virus vaccine",23,12,53,21,124,105,12,131
+"1573","content authoring and editing software",25,3,91,39,77,49,86,8
+"1574","modular technical office packages",25,20,35,62,64,32,210,127
+"1575","washroom sanitation services",1,50,31,72,58,80,119,60
+"1576","telephone entry systems",17,27,100,53,82,150,241,161
+"1577","telephone line sharing devices",25,20,35,41,87,13,210,93
+"1578","telephone aids for the physically challenged",25,20,35,62,88,52,210,2
+"1579","mail machines",14,36,88,24,48,113,21,113
+"1580","production systems equipment",19,6,87,20,60,17,142,228
+"1581","electronic software documentation or user manuals",3,16,45,47,85,9,110,62
+"1582","multimedia service centre",1,50,31,98,149,80,119,106
+"1583","hand held camcorders or video cameras",16,16,42,41,87,57,224,20
+"1584","government antitrust or regulations law services",15,8,40,94,63,18,120,189
+"1585","data base user interface and query software",4,48,55,5,94,126,17,90
+"1586","population census services",1,50,31,92,99,80,119,1
+"1587","control cable",14,21,37,16,90,8,193,100
+"1588","standard newsprint",14,36,89,21,91,16,71,205
+"1589","central processing unit coolers",25,20,35,41,87,32,210,175
+"1590","electrical control panels for generators",25,20,35,62,64,14,128,26
+"1591","offset printing consumables",23,12,53,41,87,136,24,98
+"1592","disaster preparedness and relief",23,12,53,41,87,20,12,20
+"1593","governmental credit agencies",23,12,53,41,87,20,12,20
+"1594","switch ports or cards",23,12,53,41,87,20,12,20
+"1595","dry or storage battery manufacture services",15,8,40,18,65,18,120,157
+"1596","universal joints",14,36,89,86,137,16,71,150
+"1597","anti submarine helicopters",23,12,53,41,87,20,12,20
+"1598","mirror assemblies",14,36,89,21,91,16,225,205
+"1599","electrical fixture brackets",23,12,22,41,147,20,59,169
+"1600","fibres",7,2,8,86,137,15,34,150
+"1601","electrocardiography ekg monitor accessory kits",16,16,81,9,119,45,70,235
+"1602","jacks",7,2,8,35,110,15,34,165
+"1603","moulded boxes",14,36,89,21,91,78,57,205
+"1604","mens boots",14,36,89,88,73,83,71,177
+"1605","clevis",7,2,8,35,110,15,34,165
+"1606","face and head protection",23,12,53,41,23,20,65,175
+"1607","engraving machines",14,36,88,24,48,113,21,113
+"1608","electrician kits",14,36,60,100,137,64,73,173
+"1609","harnesses or its accessories",13,5,24,58,146,69,222,248
+"1610","connecting leads or wires",23,12,53,41,87,20,185,20
+"1611","tie down anchors",14,36,89,86,137,16,71,150
+"1612","protective knee pads",23,12,53,19,118,20,65,6
+"1613","belts or suspenders",14,36,89,86,137,16,71,150
+"1614","sawing machines",14,36,88,24,48,113,21,113
+"1615","parachutes",7,2,8,86,137,15,34,150
+"1616","military seaplanes",14,36,89,86,137,74,130,234
+"1617","hydraulic cylinders",14,36,89,21,80,16,71,53
+"1618","axle repair kits",23,12,53,41,8,59,48,231
+"1619","telescoping poles",14,36,89,35,110,16,71,165
+"1620","aviation fuel",14,36,82,86,39,132,49,163
+"1621","emergency or rescue blankets",23,12,53,41,87,4,12,20
+"1622","adjustable fence",14,36,89,86,137,16,71,150
+"1623","circuit assemblies and radio frequency rf components",16,16,42,47,66,57,224,212
+"1624","saws",7,2,8,86,137,15,34,150
+"1625","gels",7,2,8,35,110,15,34,165
+"1626","tensiometers",7,2,8,35,110,15,34,165
+"1627","hats",7,2,8,35,110,15,34,165
+"1628","rope and chain and cable and wire and strap",16,16,42,47,66,57,224,62
+"1629","womens shoes",14,36,89,21,91,16,71,205
+"1630","guy cables",14,21,37,93,137,146,193,173
+"1631","bridge construction",14,36,89,21,91,16,71,205
+"1632","reel",7,2,8,35,110,15,34,165
+"1633","medals",7,2,8,35,110,15,34,165
+"1634","fire hoses or nozzles",23,12,53,41,87,20,12,136
+"1635","snap fastener",14,36,89,86,137,16,71,150
+"1636","aircraft harness restraints",23,25,3,33,4,59,230,158
+"1637","forklift or elevator accessories or supplies",25,20,92,50,78,137,238,230
+"1638","aircraft wings",14,23,60,97,6,91,223,114
+"1639","resuscitation masks or accessories",18,30,48,9,119,11,176,235
+"1640","leather luggage or handbags manufacturing services",15,8,40,18,65,18,120,157
+"1641","blocks or pulleys",14,36,89,35,110,16,71,165
+"1642","anti submarine aircraft",23,25,3,33,4,59,97,158
+"1643","personal safety devices or weapons",25,20,35,1,64,13,50,222
+"1644","twill weave cotton fabrics",25,20,35,28,28,32,169,3
+"1645","laundry nets or bags",23,12,53,41,87,20,12,20
+"1646","examination booklets or forms",23,12,53,41,87,20,12,20
+"1647","inventory forms or inventory books",4,48,55,5,94,126,17,90
+"1648","log books or pads",23,12,53,41,87,20,12,44
+"1649","multichannel intravenous infusion pumps",25,20,35,41,87,32,210,20
+"1650","automated external defibrillators aed or hard paddles",16,16,42,86,137,57,224,150
+"1651","transport or mobile multiparameter vital sign units or accessories",5,18,80,47,20,44,54,142
+"1652","oxygen monitors or supplies",23,30,19,63,145,36,248,162
+"1653","water hoses",14,36,89,45,122,132,104,78
+"1654","cutting and crimping and punching tools",25,20,35,21,134,32,210,82
+"1655","ball valves",14,36,89,86,137,16,71,150
+"1656","cultures and fluids",14,36,89,21,91,16,71,205
+"1657","dental associations",14,36,1,21,91,16,239,205
+"1658","heavy construction machinery and equipment",6,32,29,75,36,88,250,203
+"1659","machinery for working wood and stone and ceramic and the like",4,48,55,47,66,126,17,62
+"1660","refrigerant compressors",14,36,89,21,91,133,71,205
+"1661","battery adapter or accessories",18,30,48,9,119,110,176,235
+"1662","plastic bags",14,36,89,21,91,78,36,204
+"1663","endoscopic dilators or inflation devices or related products",4,48,55,51,104,126,17,65
+"1664","buoyancy compensators",14,36,89,86,137,16,71,150
+"1665","deionisation or demineralisation equipment",19,6,87,84,70,17,47,213
+"1666","permeability testing apparatus",23,12,53,21,91,20,12,205
+"1667","weight measuring instruments",23,12,53,83,45,20,12,15
+"1668","aircraft antennas",14,23,60,97,6,91,223,114
+"1669","protein chemifluorescent detection reagents or kits or substrates",4,48,55,41,8,126,17,231
+"1670","shear pins",14,36,89,86,137,16,71,150
+"1671","desiccants",7,2,8,35,110,15,34,165
+"1672","disinsectisation services",10,46,54,72,58,51,109,60
+"1673","aircraft horizontal stabilisers",23,25,3,27,71,59,97,156
+"1674","hexamines",7,2,8,35,110,15,34,165
+"1675","set screws",14,36,89,86,137,16,71,150
+"1676","harness goods",14,36,89,21,91,16,71,205
+"1677","tool handles",14,36,60,21,134,89,108,82
+"1678","emergency medical services first aid kit cases or bags or accessories",9,37,41,32,24,100,19,217
+"1679","mens shirts",14,36,89,46,137,83,71,119
+"1680","spring pins",14,36,89,21,91,16,71,205
+"1681","fluorescent tubes",14,36,89,21,91,16,71,205
+"1682","lead acid batteries",23,12,53,21,16,20,12,205
+"1683","lifelines or lifeline equipment",16,16,76,84,70,19,78,213
+"1684","self adhesive labels",23,12,53,41,87,20,115,20
+"1685","drive shafts",14,36,89,21,91,108,121,205
+"1686","ammunition handling systems",17,27,100,13,92,150,241,220
+"1687","grinding and polishing and smoothing materials",25,20,2,21,129,65,67,91
+"1688","aircraft fuselage and components",23,25,3,97,6,87,97,114
+"1689","guided missiles",14,36,89,21,91,16,71,205
+"1690","truck tractors",14,36,89,21,91,16,71,205
+"1691","vehicle safety and security systems and components",20,16,71,47,52,39,212,151
+"1692","resin and rosin and rubber and foam and film and elastomeric materials",5,18,80,11,40,71,150,90
+"1693","aircraft environmental control systems and components",20,16,71,47,52,39,212,151
+"1694","fabricated plate assemblies",23,12,12,28,28,107,14,141
+"1695","industrial filtering and purification",23,38,52,41,142,27,236,178
+"1696","missile subsystems",14,36,89,21,91,16,71,205
+"1697","aircraft master control systems",25,47,7,66,11,34,181,37
+"1698","location and navigation systems and components",25,47,7,4,11,12,181,101
+"1699","launch vehicles and rockets",23,12,79,21,122,95,45,137
+"1700","recreational aircraft",14,23,60,97,6,91,223,114
+"1701","taxation",7,2,8,86,137,15,34,150
+"1702","naval weapons",14,36,89,86,137,16,71,150
+"1703","rockets and subsystems",14,36,89,21,91,16,71,205
+"1704","lamps and lightbulbs and lamp components",4,48,55,47,66,126,17,212
+"1705","master control systems",17,27,100,13,92,150,117,220
+"1706","gun systems",13,5,16,53,82,86,175,161
+"1707","aircraft power systems",17,27,100,13,42,150,1,220
+"1708","hydraulic machinery and equipment",19,6,73,20,3,60,166,75
+"1709","specialised and recreational vehicles",23,12,79,41,43,95,45,55
+"1710","explosive materials",14,28,77,21,129,90,82,91
+"1711","aircraft landing and braking systems",25,47,7,66,11,34,181,37
+"1712","detective services",10,46,54,92,99,51,109,1
+"1713","missiles",7,2,8,86,137,15,34,150
+"1714","wheels and wheel trims",16,16,42,47,66,57,224,62
+"1715","safety and rescue vehicles",23,12,79,96,43,95,45,55
+"1716","space transportation support systems and equipment",20,16,76,75,36,19,78,125
+"1717","jams and jellies and nut and sweet spreads and fruit conserves",5,18,80,62,64,71,54,127
+"1718","bread and biscuits and cookies",23,12,53,86,137,20,12,150
+"1719","fuel tanks and systems",17,27,100,13,92,150,241,220
+"1720","firearms",7,2,8,35,110,15,34,165
+"1721","vehicle servicing equipment",1,33,27,77,17,53,170,35
+"1722","military services and national defence",2,13,68,94,63,101,221,189
+"1723","sawmilling and lumber processing machinery and equipment",16,16,76,20,3,19,78,246
+"1724","industrial pumps and compressors",23,38,52,41,142,27,236,178
+"1725","environmental control systems",17,27,100,13,92,150,117,220
+"1726","aircraft passenger restraints",23,25,3,33,4,59,230,158
+"1727","flight communications related systems",25,47,7,4,11,12,181,101
+"1728","decontamination aids and safety cleaning equipment",16,16,76,6,1,19,78,159
+"1729","alloys",7,2,8,86,137,15,34,150
+"1730","waxes and oils",14,36,89,21,112,64,66,50
+"1731","suspension system components",17,27,100,13,133,150,1,220
+"1732","water safety",14,36,21,45,122,72,104,78
+"1733","aerospace location and navigation systems and components",20,16,71,47,52,39,212,151
+"1734","engine coolant system",17,27,100,53,82,150,111,161
+"1735","sports equipment and accessories",19,6,87,8,144,28,64,43
+"1736","fabricated structural assemblies",23,12,12,28,28,107,14,141
+"1737","hand tools",14,36,60,21,134,89,108,82
+"1738","barrier guarding",14,36,89,21,91,16,71,205
+"1739","decorative ribbons",14,36,89,21,91,16,71,33
+"1740","attenuators",7,2,8,35,110,15,34,165
+"1741","canvas bags",14,36,89,54,137,78,36,27
+"1742","markers",7,2,8,35,110,15,34,165
+"1743","fuel storage tanks",23,12,57,40,87,55,103,153
+"1744","plain weave cotton fabrics",25,20,35,28,28,32,169,3
+"1745","meningococcal vaccine",14,36,89,86,137,16,71,150
+"1746","measles and mumps and rubella virus vaccine",16,16,42,21,124,57,224,131
+"1747","diptheria and tetanus toxoids and acellular pertussis vaccine",4,48,55,21,124,126,17,131
+"1748","camping or outdoor stoves",23,12,53,41,87,20,12,20
+"1749","spice or salt or pepper shakers",25,20,35,86,137,32,210,150
+"1750","folders",7,2,8,86,137,15,34,150
+"1751","heat resistant clothing",23,12,53,41,87,20,12,20
+"1752","hepatitis b virus vaccine",23,12,53,21,124,105,12,131
+"1753","hose fitting",14,36,89,21,91,16,71,205
+"1754","elevating platform vehicles or scissor lifts",16,16,42,47,66,57,224,62
+"1755","hoses",7,2,8,86,137,15,34,150
+"1756","fuel filters",14,36,82,21,56,132,49,41
+"1757","reconnaissance helicopters",14,36,89,21,91,16,71,205
+"1758","infrared ir sensors",14,36,89,21,91,16,71,205
+"1759","flight instrumentation",14,44,89,83,45,16,114,15
+"1760","military science and research",23,12,53,89,116,134,149,116
+"1761","wood and paper industries",23,38,52,41,142,27,236,178
+"1762","fibres and textiles and fabric industries",25,20,35,62,64,32,143,182
+"1763","bombs and grenades",14,36,89,86,137,16,71,150
+"1764","mines",7,2,8,86,137,15,34,150
+"1765","slacks and trousers and shorts",23,12,53,41,87,20,12,20
+"1766","poliovirus vaccine",14,36,89,86,137,16,71,150
+"1767","fog or mist generators",23,12,53,86,137,20,167,150
+"1768","head or face protective helmets or devices or accessories for the physically challenged",5,18,41,32,68,42,23,244
+"1769","rocket launchers",14,36,89,21,91,16,71,205
+"1770","aquatic invertebrates",14,36,89,35,110,16,71,165
+"1771","missile and rocket launchers",23,12,53,41,87,20,12,20
+"1772","postmortem and mortuary equipment and supplies",11,32,34,81,75,102,180,195
+"1773","spaceships",7,2,8,35,110,15,34,165
+"1774","cereals",7,2,8,86,137,15,34,150
+"1775","fabricated sheet assemblies",23,12,12,28,28,107,14,141
+"1776","aircraft emergency systems",17,27,100,13,42,150,1,220
+"1777","launchers",7,2,8,86,137,15,34,150
+"1778","safety and rescue water craft",25,20,15,1,64,116,196,120
+"1779","automotive hydraulic systems",17,27,100,13,92,150,241,220
+"1780","connector assemblies",14,36,89,21,91,16,225,205
+"1781","signalling components",14,36,89,21,32,16,106,186
+"1782","emergency medical services search and rescue kits",12,43,72,67,29,23,93,94
+"1783","retaining clips",14,36,89,86,137,16,71,150
+"1784","drink coolers",14,36,89,21,91,16,71,205
+"1785","protective rainwear or wet environment apparel",16,16,42,41,23,57,224,175
+"1786","fixturing and test equipment",19,6,87,20,3,17,47,247
+"1787","restraints",7,2,8,86,137,15,34,150
+"1788","makeup kits",14,36,60,100,137,64,73,173
+"1789","pillows",7,2,8,86,137,15,34,150
+"1790","aerial cable",14,21,37,21,91,146,193,216
+"1791","pins or tacks",14,36,89,86,137,16,71,150
+"1792","machine mounts or vibration isolators",25,20,35,41,87,32,210,219
+"1793","earth moving machinery",23,45,93,43,59,1,215,87
+"1794","electrical insulating tape",23,12,22,41,147,20,59,169
+"1795","flat belts",14,36,89,21,91,16,71,205
+"1796","chicken processing machinery and equipment",6,32,29,20,3,88,250,246
+"1797","vision protection and accessories",18,30,48,9,119,11,176,235
+"1798","spacecraft",7,2,8,35,110,15,34,165
+"1799","product and material trailers",23,35,46,36,22,130,198,96
+"1800","emergency response litters or stretchers or accessories",16,16,81,50,113,45,70,45
+"1801","mirrors",7,2,8,86,137,15,34,150
+"1802","through tubing perforation gun accessories",25,20,92,9,119,137,177,235
+"1803","gaskets and seals",14,36,89,86,137,16,71,150
+"1804","machine guns",14,36,88,24,48,113,21,113
+"1805","ear muffs",14,36,89,86,137,16,71,150
+"1806","trailer hitches",14,36,89,86,137,16,71,150
+"1807","endoscopic diaphragms",14,36,89,86,137,16,71,150
+"1808","girls slacks or trousers or shorts",25,20,35,41,87,32,210,20
+"1809","anatomical human mannequins for medical education or training",4,48,55,47,66,126,17,62
+"1810","zinc plate",14,36,89,86,137,16,71,150
+"1811","wrapping machinery",14,36,63,43,59,61,202,87
+"1812","cardstock papers",14,36,77,86,137,96,32,150
+"1813","machining and processing services",1,50,31,98,149,80,119,106
+"1814","vehicle windows and windshields",23,12,79,41,43,95,45,55
+"1815","vehicle maintenance and repair services",8,13,13,94,7,101,89,69
+"1816","sauces and spreads and condiments",23,12,53,86,137,20,12,150
+"1817","undergarments",7,2,8,35,110,15,34,165
+"1818","electronic batteries",14,36,66,21,16,16,55,199
+"1819","hazardous waste disposal",23,12,53,7,67,37,98,143
+"1820","welders",7,2,8,35,110,15,34,165
+"1821","helical springs",14,36,89,86,137,16,71,150
+"1822","label papers",14,36,77,21,129,96,32,91
+"1823","pressure or steam cleaners",23,12,53,41,87,20,12,20
+"1824","calfskin leather",14,36,89,86,137,16,71,150
+"1825","correspondence forms or correspondence books",4,48,55,21,91,126,17,205
+"1826","automobile or light truck tyres",25,20,35,62,64,32,210,127
+"1827","liquid scintillation counters",23,12,53,21,91,20,12,205
+"1828","electrical wire",14,36,37,2,91,16,141,186
+"1829","pathology dissection instruments and supplies",25,20,96,65,128,147,25,206
+"1830","irradiation testing capsules",23,12,53,86,137,20,12,150
+"1831","binocular vision test sets or accessories",16,16,81,50,113,45,70,45
+"1832","aircraft propellers",14,23,60,97,6,91,223,114
+"1833","linear motion guides",23,12,53,41,87,20,12,20
+"1834","bedclothes and table and kitchen linen and towels",16,16,42,62,64,57,224,127
+"1835","industrial laundry and dry cleaning equipment",16,16,76,6,1,19,78,159
+"1836","optical mounts",14,36,89,21,91,16,71,205
+"1837","pneumatic and hydraulic and electric control systems",20,16,71,47,52,39,212,151
+"1838","fabricated pipe assemblies",23,12,12,28,28,107,14,141
+"1839","instrument panels",14,44,89,83,45,16,114,15
+"1840","chemical test strips or papers",25,20,35,62,64,32,244,32
+"1841","marine goosenecks",14,36,89,86,137,16,71,150
+"1842","folders and binders and indexes",23,12,53,41,87,20,12,20
+"1843","petroleum processing machinery",23,45,93,78,35,1,215,124
+"1844","adventure games",14,36,89,86,137,16,71,150
+"1845","emergency medical services disaster body pouches",12,43,72,67,29,23,93,94
+"1846","tissue culture incubators",23,12,53,21,91,20,12,205
+"1847","sand",7,2,8,35,110,15,34,165
+"1848","lathes",7,2,8,35,110,15,34,165
+"1849","search and rescue teams",23,12,53,21,91,4,12,205
+"1850","dehumidifiers",7,2,8,35,110,15,34,165
+"1851","rubber seals",14,36,89,21,91,16,71,205
+"1852","aircraft cargo handling equipment",11,32,20,75,36,88,33,58
+"1853","industrial optics",14,36,89,21,83,133,124,249
+"1854","colourants",7,2,8,86,137,15,34,150
+"1855","oxygen o",7,2,8,86,137,15,34,150
+"1856","strobe or warning lights",23,12,53,21,91,76,40,205
+"1857","hearing protectors",14,36,89,21,91,16,71,205
+"1858","insulation",7,2,8,86,137,15,34,150
+"1859","respiratory protection",14,36,65,19,118,16,243,6
+"1860","housings and cabinets and casings",23,12,53,41,87,20,12,20
+"1861","fire retardant apparel",23,12,53,21,91,20,12,205
+"1862","drilling and operation machinery",23,45,93,78,35,1,215,124
+"1863","ropes",7,2,8,86,137,15,34,150
+"1864","grenades",7,2,8,86,137,15,34,150
+"1865","aircraft accumulators",14,23,60,97,6,91,223,114
+"1866","electronic actuators",14,36,66,21,91,16,55,199
+"1867","shim washers",14,36,89,21,91,16,71,205
+"1868","mobile and fixed floodlighting",23,12,53,21,91,20,12,205
+"1869","tool holder",14,36,60,21,134,89,108,82
+"1870","fan",7,2,8,86,137,103,171,150
+"1871","specialty wiring harness",23,12,53,41,87,20,185,20
+"1872","coats and jackets",14,36,89,21,91,16,71,205
+"1873","pneumatic machinery and equipment",19,6,73,20,3,60,166,75
+"1874","fabricated tube assemblies",23,12,12,28,28,107,14,141
+"1875","parachute cloth",14,36,89,60,91,16,71,205
+"1876","industrial electric power distribution",25,20,35,62,64,14,128,26
+"1877","cleaning rags and cloths and wipes",25,20,35,60,91,32,210,110
+"1878","floats",7,2,8,35,110,15,34,165
+"1879","resins and rosins and other resin derived materials",5,18,80,11,40,71,150,90
+"1880","plastic straps",14,36,89,21,91,16,71,204
+"1881","exterior trim materials",23,35,94,90,81,144,44,185
+"1882","plastic bottles",14,36,89,21,91,16,71,204
+"1883","miscellaneous fasteners",14,36,89,21,91,16,71,205
+"1884","water filters",14,36,89,45,122,132,104,78
+"1885","pneumatic valves",14,36,89,21,91,16,71,205
+"1886","polyamide nylons pa",14,36,89,86,137,16,71,150
+"1887","heavy equipment components",19,6,87,20,3,17,47,247
+"1888","fuel injectors",14,36,82,86,39,132,49,163
+"1889","nylon thread",14,36,89,21,91,16,71,205
+"1890","antiballistic missiles",14,36,89,86,137,16,71,150
+"1891","construction machinery conversion kits",25,20,35,62,64,115,203,152
+"1892","metal posts",24,29,89,26,41,16,71,205
+"1893","general tool kits",22,12,53,78,8,59,85,231
+"1894","camping chairs or stools",23,12,53,21,91,20,12,205
+"1895","electrical receptacles",14,36,37,2,91,16,141,186
+"1896","suture buttons or bridges or related accessories",16,16,81,47,20,45,70,142
+"1897","pneumatic mattresses",14,36,89,21,91,16,71,205
+"1898","orthopaedic target devices or accessories",25,20,92,50,113,137,177,45
+"1899","electronics kits",14,36,66,44,18,64,73,17
+"1900","safety hoods",14,36,21,86,137,72,96,150
+"1901","prepared and preserved foods",23,12,17,41,101,20,12,20
+"1902","driving axles",14,36,89,21,91,108,121,205
+"1903","cutting tools",14,36,60,21,134,89,108,82
+"1904","mortars",7,2,8,86,137,15,34,150
+"1905","metal detectors",24,29,89,26,41,16,71,205
+"1906","machinery cutting knives or knife assemblies",16,16,42,62,64,57,224,170
+"1907","panel assemblies or sections",23,12,12,83,45,107,14,205
+"1908","medical ultrasound or doppler or pulse echo or echography units for general diagnostic use",9,37,69,5,94,122,30,243
+"1909","wheel balancing equipment",19,6,87,81,75,17,47,195
+"1910","holding and clamping tools",22,12,53,21,134,20,218,82
+"1911","hazardous material decontamination",23,35,94,90,81,144,44,185
+"1912","air classification equipment or parts or screens",16,16,76,75,36,19,78,58
+"1913","circuit breakers",14,36,89,21,91,16,71,205
+"1914","aeronautical engineering",14,42,84,86,137,64,141,95
+"1915","fish",7,2,8,86,137,15,34,150
+"1916","mouthpieces",7,2,8,35,110,15,34,165
+"1917","tarpaulins",7,2,8,35,110,15,34,165
+"1918","tool belts",14,36,60,21,134,89,108,82
+"1919","sealing machines",14,36,88,24,48,113,21,113
+"1920","adult or paediatric intensive care ventilators",16,16,42,62,64,57,224,127
+"1921","steering wheels",14,36,89,21,91,16,71,205
+"1922","electrochemical measuring instruments and accessories",25,20,92,9,119,137,177,235
+"1923","printed circuit assemblies pcas",25,20,35,28,28,32,169,98
+"1924","cushioning supplies",14,36,37,65,128,6,246,206
+"1925","castings",7,2,8,86,137,15,34,150
+"1926","vehicle trim and exterior covering",25,20,35,62,64,32,210,127
+"1927","borescope inspection equipment",19,6,87,81,75,17,47,195
+"1928","special tooling fixtures",22,12,53,78,87,20,218,231
+"1929","paper pads or notebooks",23,12,78,41,87,111,126,20
+"1930","hydraulic aircraft accumulators",23,25,3,33,4,59,97,158
+"1931","tilt rotor wing aircraft",25,20,35,97,6,32,186,114
+"1932","soldering and brazing and welding machinery and supplies",16,16,9,63,145,57,112,162
+"1933","manufacturing tables and stands",23,12,53,41,87,20,12,20
+"1934","protective aprons",14,36,65,86,137,16,243,150
+"1935","petroleum testing equipment",19,6,87,20,3,17,47,247
+"1936","hose or pipe clamps",23,12,53,41,87,20,12,20
+"1937","sampling equipment",14,10,86,81,75,148,200,195
+"1938","target and table games and equipment",11,32,20,75,36,88,33,58
+"1939","plastic seals",14,36,89,21,91,16,71,204
+"1940","anatomical human models for medical education or training",4,48,55,5,94,126,17,243
+"1941","incandescent lamps",14,36,89,86,137,16,71,150
+"1942","composite metal sheet",23,12,53,26,41,20,38,205
+"1943","electron tube devices and accessories",25,20,92,50,113,137,177,45
+"1944","safety vests",14,36,21,21,91,72,96,135
+"1945","trailer connector",14,36,89,21,91,16,71,205
+"1946","binders",7,2,8,86,137,15,34,150
+"1947","hazardous material protective apparel",25,20,2,62,34,65,67,139
+"1948","well drilling and operation equipment",11,32,20,75,36,88,33,58
+"1949","audiometers or accessories",13,5,24,80,131,69,222,73
+"1950","application specific circuit assemblies",25,20,35,62,64,32,169,170
+"1951","hand or extension light",23,12,53,41,87,76,40,20
+"1952","buttons",7,2,8,86,137,15,34,150
+"1953","radio frequency rf cable",23,12,53,41,87,131,199,245
+"1954","airport signalling systems",17,27,100,13,92,150,241,220
+"1955","womens sweaters",14,36,89,21,91,16,71,205
+"1956","reverse osmosis pumps",23,12,53,46,137,20,12,123
+"1957","beams",7,2,8,35,110,15,34,165
+"1958","tube and tubing",25,20,35,62,64,32,210,127
+"1959","medical thermometers and accessories",18,30,48,58,146,11,176,248
+"1960","ostomy skin barriers or protective care kits",4,48,55,47,66,126,17,62
+"1961","stethoscope headsets",14,36,89,86,137,16,71,150
+"1962","tabletop and serving equipment",19,6,87,84,70,17,47,213
+"1963","towels",7,2,8,86,137,15,34,150
+"1964","ladders",7,2,8,35,110,15,34,165
+"1965","mens sweaters",14,36,89,88,73,83,71,177
+"1966","aircraft hydraulic systems",17,27,100,13,42,150,1,220
+"1967","mens coats or jackets",23,12,53,41,87,20,12,20
+"1968","permanent information technology staffing needs",3,16,45,47,85,9,155,89
+"1969","chartering services",10,46,54,92,99,51,109,1
+"1970","temporary creative services",1,50,36,92,99,80,164,1
+"1971","painting",7,17,64,86,137,104,135,27
+"1972","gearmotors",7,2,8,35,110,15,34,165
+"1973","oil or gas workboat",23,12,26,21,112,25,208,188
+"1974","orthopaedic and prosthetic and sports medicine products",16,16,42,62,64,57,31,184
+"1975","loading equipment",14,10,86,81,75,148,200,195
+"1976","wood",7,2,8,86,137,15,34,150
+"1977","crane vehicles",14,7,62,21,122,84,81,137
+"1978","vessel stores services",1,50,31,98,149,80,119,106
+"1979","military satellites",14,36,89,21,106,74,130,4
+"1980","drilling rig ships",23,12,53,21,91,20,12,205
+"1981","intercom systems",13,5,16,25,53,86,175,225
+"1982","food and beverage industries",23,38,52,41,101,27,236,178
+"1983","vessel docking services",1,50,31,98,149,80,119,106
+"1984","earthmoving buckets or its parts or accessories",25,20,92,9,96,137,177,235
+"1985","warehouse casers",14,36,89,86,137,16,71,150
+"1986","gymnastics equipment",14,10,86,81,75,148,200,195
+"1987","utility landing watercraft",23,12,53,41,87,20,12,20
+"1988","safety footwear",14,36,21,21,91,72,96,135
+"1989","domestic kitchenware",14,36,89,86,137,16,71,150
+"1990","underground mining service vehicles",2,13,68,98,149,101,221,160
+"1991","vehicle batteries",14,7,62,21,16,84,81,137
+"1992","pillow cases",14,36,89,21,91,16,71,205
+"1993","soft timber",14,36,89,35,110,16,71,165
+"1994","chromatographic measuring instruments and accessories",25,20,92,9,119,137,177,235
+"1995","brassieres",7,2,8,35,110,15,34,165
+"1996","timepieces",7,2,8,86,137,15,34,150
+"1997","window treatments",14,36,89,21,91,16,71,205
+"1998","medical facility products",23,12,46,36,150,119,198,42
+"1999","saddlery and harness goods",23,12,53,21,91,20,185,205
+"2000","recreation and playground and swimming and spa equipment and supplies",4,48,32,6,2,75,74,28
+"2001","forestry",7,2,8,86,137,15,34,150
+"2002","meat and poultry",14,36,89,21,91,16,71,205
+"2003","packaged combination meals",23,12,53,41,87,20,126,20
+"2004","leatherworking repairing machinery and equipment",6,32,29,20,3,88,250,75
+"2005","milk and butter products",23,12,46,74,79,119,198,107
+"2006","railway and tramway cars",23,12,53,41,87,20,12,20
+"2007","gymnastics and boxing equipment",19,6,87,20,3,17,47,247
+"2008","infant foods and beverages",23,12,53,41,101,20,12,20
+"2009","herbs and spices and extracts",23,12,53,21,91,20,12,205
+"2010","mixers and their parts and accessories",18,30,48,9,96,11,176,235
+"2011","non alcoholic beverages",23,12,53,41,87,20,80,86
+"2012","confectionary products",14,21,77,38,21,43,247,171
+"2013","patient exam and monitoring products",25,20,35,36,150,98,173,42
+"2014","seeds and bulbs and seedlings and cuttings",25,20,35,21,91,32,210,205
+"2015","processed and prepared meats",23,12,17,41,87,20,35,175
+"2016","additives",7,2,8,86,137,15,34,150
+"2017","desserts and dessert toppings",16,16,42,86,137,57,224,150
+"2018","veterinary equipment and supplies",19,6,87,82,3,17,16,56
+"2019","defrosting and defogging systems",17,27,100,25,53,150,241,225
+"2020","collectibles and awards",14,36,89,21,91,16,71,205
+"2021","forensic equipment and supplies and accessories",11,32,34,23,54,102,75,128
+"2022","recreational watercraft",14,36,89,21,91,16,71,205
+"2023","seasonings and preservatives",14,36,89,86,137,16,71,150
+"2024","vegetables",7,2,8,86,137,15,34,150
+"2025","vehicle doors",14,7,62,21,122,84,81,137
+"2026","rechargeable batteries",14,36,89,54,137,16,71,85
+"2027","classroom decoratives and supplies",23,30,19,63,145,36,248,162
+"2028","arts and crafts equipment and accessories and supplies",16,16,76,6,2,26,101,52
+"2029","field and court sports equipment",11,32,20,75,36,88,33,58
+"2030","wildlife and flora",14,36,89,86,137,16,71,150
+"2031","ergonomic support aids",23,12,6,21,91,21,125,205
+"2032","environmental protection",14,36,65,19,118,78,243,6
+"2033","metal waste and scrap",23,12,53,7,67,37,98,143
+"2034","chocolate and sugars and sweeteners and confectionary products",16,16,42,38,21,57,31,171
+"2035","baking mixes and supplies",23,30,19,65,128,36,248,206
+"2036","oil and gas drilling and operation materials",16,4,42,47,107,114,11,49
+"2037","preserved  drupe or stone fruits",25,20,35,62,64,32,210,127
+"2038","instant mixes and supplies",23,30,19,65,128,36,248,206
+"2039","storage vessels and tanks",23,12,57,40,87,55,103,153
+"2040","mining and well drilling machinery and accessories",16,16,81,47,69,45,70,142
+"2041","intravenous and arterial administration products",25,20,35,62,64,98,173,184
+"2042","robot components",14,36,89,21,32,16,106,186
+"2043","insurance services for structures and property and possessions",15,8,40,94,63,18,120,189
+"2044","drum cradles",14,36,89,21,91,16,71,205
+"2045","computer cradles",14,36,10,30,98,35,20,132
+"2046","disease prevention and control",23,12,53,41,87,67,211,175
+"2047","railroad support equipment and systems",11,32,90,20,60,88,10,228
+"2048","military tactics",14,36,89,86,137,74,130,234
+"2049","snack foods",14,36,89,86,137,16,71,150
+"2050","locomotives and electric trolleys",23,12,22,2,91,20,59,186
+"2051","pest control products",23,12,46,36,150,119,198,42
+"2052","fishing and hunting equipment",19,6,87,81,75,17,47,195
+"2053","prepared side dishes",23,12,17,21,91,20,12,205
+"2054","institutional food services equipment",8,13,97,10,139,124,13,209
+"2055","crowd control equipment",19,6,87,81,75,17,213,195
+"2056","hospital robes",14,36,89,86,137,16,71,150
+"2057","tool chests or boxes or cabinets",25,20,35,62,64,13,232,198
+"2058","medical lamps",14,36,58,21,83,16,216,111
+"2059","tankers",7,2,8,35,110,15,34,165
+"2060","fuel tanks",14,36,82,21,56,132,49,41
+"2061","cargo trucks",14,36,89,21,91,16,71,205
+"2062","veterinary nutritional supplement",23,12,53,21,91,20,12,205
+"2063","sale of property and building",23,12,93,41,108,54,144,133
+"2064","aircraft fire control or extinguishing systems",20,16,71,47,52,39,212,151
+"2065","railway and tramway machinery and equipment",6,32,29,75,36,88,250,203
+"2066","plaster or mortar mixers",23,12,53,41,87,20,12,20
+"2067","diesel engines",14,42,84,21,95,64,141,31
+"2068","slickline equipment",14,10,86,84,70,148,200,213
+"2069","tillers",7,2,8,35,110,15,34,165
+"2070","dump trucks",14,36,89,86,137,16,71,150
+"2071","tow trucks",14,36,89,86,137,16,71,150
+"2072","oil and gas operating and production equipment",16,16,76,6,1,19,78,25
+"2073","fresh citrus juice or concentrate",25,20,35,41,87,32,210,20
+"2074","eggs and egg substitutes",16,16,42,47,66,57,224,62
+"2075","shellfish",7,2,8,35,110,15,34,165
+"2076","commercial or industrial construction",23,38,52,41,142,27,236,178
+"2077","drug abuse prevention or control programs",16,16,42,62,64,57,224,127
+"2078","coffee and tea",14,36,89,21,91,16,71,205
+"2079","fire or rescue trucks",23,12,53,41,87,4,12,136
+"2080","metal oxide",24,29,89,26,41,16,71,205
+"2081","roof systems",13,5,16,53,82,86,175,161
+"2082","performing arts",14,36,89,21,91,16,37,205
+"2083","watersports equipment",14,10,86,84,70,148,200,213
+"2084","military bases",14,36,89,21,106,74,130,4
+"2085","cakes and pies and pastries",23,12,53,35,110,20,12,165
+"2086","religious organisations",14,36,89,21,91,16,71,205
+"2087","nozzles",7,2,8,86,137,15,34,150
+"2088","field medical or laboratory medical equipment kits or related products",9,37,69,69,12,122,30,183
+"2089","respiratory and anaesthesia and resuscitation products",25,20,35,36,150,98,173,42
+"2090","surgical products",14,21,77,38,21,43,247,171
+"2091","rescue services",10,46,54,92,99,51,109,1
+"2092","toys and games",14,36,89,21,91,16,71,205
+"2093","passive discrete components",23,12,53,21,32,87,167,186
+"2094","foundry  machines and equipment and supplies",11,32,34,82,3,102,180,56
+"2095","cages or its accessories",13,5,24,80,131,69,222,73
+"2096","tape",7,2,8,86,137,15,154,150
+"2097","cargo handling equipment",19,6,87,20,3,17,47,247
+"2098","painting and paper hanging",23,12,78,21,129,111,161,91
+"2099","torque wrenches",14,36,89,86,137,16,71,150
+"2100","mens slacks or trousers or shorts",25,20,35,62,64,32,210,127
+"2101","marine propellers",14,36,89,21,91,16,71,205
+"2102","wetsuits",7,2,8,35,110,15,34,165
+"2103","water trucks",14,36,89,45,122,132,104,78
+"2104","sewing supplies and accessories",18,30,48,9,103,110,176,21
+"2105","cookware and kitchen tools",22,12,53,21,134,20,218,82
+"2106","commercial water heaters",23,38,53,45,122,54,63,78
+"2107","packaging pouches or bags",23,12,53,41,87,20,126,20
+"2108","forklifts",7,2,8,86,137,15,34,150
+"2109","employment promotion or planning services",2,13,5,94,63,2,9,68
+"2110","debt management",14,36,44,86,137,24,237,57
+"2111","agents affecting water and electrolytes",25,20,15,45,122,116,196,78
+"2112","socio political conditions",23,12,53,41,87,20,12,20
+"2113","property law services",1,50,31,98,149,80,119,106
+"2114","planning systems",13,5,16,53,82,86,175,161
+"2115","residential homes",14,36,89,21,91,16,71,205
+"2116","fact checking services",1,50,31,92,99,80,119,1
+"2117","meeting planning services",1,50,99,98,149,80,164,54
+"2118","part time adult education services",15,8,40,18,65,18,120,157
+"2119","national council services",1,50,31,92,99,80,119,1
+"2120","youth movements or organisations services",2,13,68,98,149,101,221,106
+"2121","international relations and cooperation",23,12,53,41,87,20,12,20
+"2122","programming for java",14,36,58,86,137,16,146,163
+"2123","displaced persons assistance services",2,13,68,98,37,101,221,146
+"2124","personal safety instructional materials",25,20,2,1,34,65,67,139
+"2125","interview skills instructional materials",25,20,2,62,34,65,67,139
+"2126","regional or location studies for projects",25,20,35,41,87,32,210,20
+"2127","community religious home residences",25,20,35,41,87,32,210,20
+"2128","refugee resettlements or repatriation services",2,13,68,92,99,101,221,1
+"2129","market intelligence or competitive analysis",25,20,35,41,87,32,210,20
+"2130","investment advice",14,36,89,21,91,16,71,205
+"2131","immigration analysis or services",1,50,31,92,99,80,119,1
+"2132","security chains or accessories",18,30,48,9,119,11,176,235
+"2133","handyman services",10,46,54,72,58,51,109,60
+"2134","passport services",10,46,54,72,58,51,109,60
+"2135","civil liability services",1,50,31,98,149,80,119,106
+"2136","confinement surveillance systems maintenance or monitoring",20,16,71,4,11,39,212,101
+"2137","inventory accounting",14,36,89,21,127,78,188,176
+"2138","printer or copier paper",23,12,78,21,129,111,126,91
+"2139","domestic air cargo transport",25,20,35,62,64,32,210,198
+"2140","prefabricated commercial and industrial structures",25,20,35,62,64,32,143,182
+"2141","art design or graphics",23,12,53,41,87,20,12,20
+"2142","human resources productivity audits",25,20,35,62,64,98,173,184
+"2143","study abroad advisory services",2,13,68,98,149,101,221,5
+"2144","self elevating workover platforms",25,20,35,62,64,32,210,127
+"2145","nursery services",10,46,54,72,58,51,109,60
+"2146","portraits",7,2,8,35,110,15,34,165
+"2147","photographs",7,2,8,86,137,15,184,150
+"2148","news agency wire services",2,13,68,94,63,101,221,189
+"2149","supply of three phase electricity",25,20,96,63,145,7,25,162
+"2150","scanner accessories",13,5,24,58,146,69,222,248
+"2151","warehouses",7,2,8,86,137,15,34,150
+"2152","agricultural tractors",14,36,89,21,91,16,71,205
+"2153","warehousing equipment and supplies",19,6,87,82,3,17,16,56
+"2154","rack systems for rack mount electronic equipment",5,18,41,32,68,42,23,244
+"2155","stenotype machines",14,36,88,95,102,113,21,250
+"2156","lamps",7,2,8,86,137,15,34,150
+"2157","magnetic stripe readers and encoders",25,20,35,86,137,32,210,150
+"2158","fridge bar",14,36,89,86,137,16,71,150
+"2159","printer ribbon",14,36,89,21,91,16,71,33
+"2160","remedy consultations",14,36,89,86,137,16,71,150
+"2161","remote database information retrieval services",15,8,40,18,65,18,120,157
+"2162","soil testing kits",23,12,53,41,8,59,85,231
+"2163","glass waste or scrap",23,12,53,7,67,37,98,143
+"2164","security uniforms",14,36,89,21,91,118,26,6
+"2165","commercial use coffee or iced tea makers",4,48,55,47,66,126,17,62
+"2166","plants and ornamental trees",23,12,53,41,87,20,12,20
+"2167","water treatment and supply equipment",11,32,34,23,54,102,180,226
+"2168","cooking machinery",14,36,63,86,137,61,202,102
+"2169","waste containers and accessories",18,30,48,9,119,11,176,235
+"2170","ducts",7,2,8,35,110,15,34,165
+"2171","audio presentation and composing equipment and hardware and controllers",4,48,32,85,123,75,74,201
+"2172","kitchen equivalents or kitchen math instructional aids",5,18,41,57,14,42,23,51
+"2173","chemical fertilisers and plant nutrients",25,20,35,62,64,32,210,127
+"2174","irrigation",7,2,8,86,137,15,34,150
+"2175","infrastructure construction",14,36,89,21,91,16,71,205
+"2176","carpet cleaning equipment",19,6,87,20,3,17,47,247
+"2177","absorbent mats",14,36,89,21,91,16,71,205
+"2178","soil",7,2,8,86,137,15,34,150
+"2179","sub assemblies for electronic devices",25,20,35,28,31,13,169,105
+"2180","architect associations",14,36,1,86,137,16,239,150
+"2181","security tags",14,36,89,21,91,118,26,6
+"2182","paint applicators and painting accessories",4,48,55,5,94,126,242,191
+"2183","fire prevention services",1,50,31,98,149,80,119,106
+"2184","clocks",7,2,8,35,110,15,34,165
+"2185","energy use reduction measures",25,20,35,41,87,32,210,20
+"2186","reading development materials or kits",25,20,2,62,34,65,67,139
+"2187","pollutants tracking and monitoring and rehabilitation services",15,8,40,18,65,18,120,157
+"2188","fishing and aquaculture equipment",19,6,87,20,3,17,47,247
+"2189","art exhibitions",14,36,89,21,91,16,37,205
+"2190","extrusions",7,2,8,86,137,15,34,150
+"2191","machined castings",14,36,88,24,48,113,21,113
+"2192","bookbinding",7,2,8,35,110,15,34,165
+"2193","furniture storage",14,22,61,22,89,93,168,115
+"2194","corporate environmental auditing services",2,13,68,94,63,101,221,189
+"2195","lecterns and sound systems and accessories",25,47,7,13,10,12,233,211
+"2196","web handling and control machinery and equipment and supplies",4,48,32,85,123,75,74,201
+"2197","packing",7,2,8,86,137,15,34,150
+"2198","television broadcasting station management",25,20,35,62,64,32,210,127
+"2199","national planning services",1,50,99,98,149,80,164,54
+"2200","funeral services",10,46,54,72,58,51,109,60
+"2201","stage or studio lighting systems",25,47,7,13,92,12,181,220
+"2202","health systems evaluation services",2,13,38,94,63,128,123,155
+"2203","disaster preparedness response services",2,13,68,94,63,101,221,189
+"2204","electronic software reference material",25,3,91,39,77,49,86,24
+"2205","social structure studies or related services",15,8,40,18,65,18,120,157
+"2206","cut flowers",14,36,89,21,91,16,71,205
+"2207","mobiles",7,2,8,86,137,15,18,150
+"2208","audio visual equipment accessories",11,32,34,75,36,102,182,128
+"2209","court building",14,34,89,21,91,16,138,233
+"2210","carpet or rug manufacturing services",2,13,68,98,149,101,221,168
+"2211","engineering equipment maintenance services",8,13,97,10,139,124,13,209
+"2212","sheriffs services",10,46,54,72,58,51,109,60
+"2213","appeals process or judicial review",25,20,35,21,91,32,210,205
+"2214","wall fixtures",14,36,89,21,91,16,71,205
+"2215","parking lot",14,36,89,21,91,16,71,205
+"2216","seismic vessel",14,36,89,86,137,16,71,150
+"2217","ground or surface water surveying",25,20,15,1,64,116,196,120
+"2218","stuffed animals or puppets",23,12,53,86,137,20,12,150
+"2219","biochemicals",7,2,8,35,110,15,34,165
+"2220","taxes other than income tax",16,16,42,62,64,57,224,127
+"2221","oil wastes",14,36,89,21,112,64,66,50
+"2222","switched dial up and leased dedicated line circuit telecommunications services",5,18,83,67,29,100,137,94
+"2223","transaction security and virus protection software",3,16,45,39,77,9,110,8
+"2224","retirement funds",14,36,89,21,91,16,71,205
+"2225","footpath",7,2,8,35,110,15,34,165
+"2226","dam maintenance or management services",8,13,13,14,97,30,89,208
+"2227","windows",7,2,8,86,137,15,184,150
+"2228","ring road",14,36,89,21,91,16,71,205
+"2229","geophysical and geotechnical instruments",23,12,53,86,137,20,12,102
+"2230","cultural heritage preservation or promotion services",15,8,40,94,63,18,120,189
+"2231","paving breakers",14,36,89,86,137,16,71,150
+"2232","library or documentation training",23,12,53,79,38,29,172,20
+"2233","transport infrastructure",14,7,84,56,30,77,178,197
+"2234","urban development planning services",2,13,5,94,63,2,9,68
+"2235","pavement marking services",1,50,31,72,58,80,119,60
+"2236","land administration services",21,50,23,15,84,80,84,14
+"2237","traffic signals",14,36,89,21,91,16,71,205
+"2238","landform models",14,36,89,86,137,16,71,150
+"2239","extension services",10,46,54,92,99,51,109,1
+"2240","strip lights",14,36,89,21,91,16,71,205
+"2241","fencing",7,2,8,86,137,15,34,150
+"2242","circuses",7,2,8,35,110,15,34,165
+"2243","cement and ceramics and glass industry machinery and equipment and supplies",5,18,50,57,14,44,54,51
+"2244","pedestrian ways",14,36,89,86,137,16,71,150
+"2245","programming for visual basic",23,12,53,79,109,20,228,20
+"2246","telephone call accounting systems",25,47,7,4,11,12,181,101
+"2247","bulk material carriers",23,35,94,90,81,144,44,185
+"2248","mail sorters or organisers",23,12,53,21,91,33,80,205
+"2249","electronic newspapers",14,36,66,21,91,16,55,199
+"2250","automated storage or retrieval systems",25,47,7,4,11,12,181,101
+"2251","doors",7,2,8,86,137,15,34,150
+"2252","water policy advisory services",2,40,68,94,47,142,153,88
+"2253","environmental technology advisory services",2,40,68,94,63,101,221,189
+"2254","environmental sciences advisory services",2,40,68,94,63,101,221,189
+"2255","bill drafting services",1,50,31,92,99,80,119,1
+"2256","office suite software",23,14,51,71,105,82,205,179
+"2257","art",7,2,8,86,137,15,147,150
+"2258","interior lighting and fixtures",23,12,53,41,87,76,40,20
+"2259","water resource management",23,12,56,64,9,54,209,134
+"2260","greeting or note or post cards",25,20,35,21,91,32,210,205
+"2261","venetian blinds",14,36,89,86,137,16,71,150
+"2262","pruning services or ornamental plant or bush",15,8,40,94,63,18,120,189
+"2263","stone or tile flooring",23,12,53,41,87,20,12,20
+"2264","crating services",10,46,54,72,58,51,109,60
+"2265","plumbing system maintenance or repair",25,47,7,4,11,12,181,101
+"2266","auto shows or other exhibits",23,12,53,21,91,20,12,205
+"2267","library book or borrowers cards",25,20,35,41,87,32,210,44
+"2268","toys",7,2,8,86,137,15,34,150
+"2269","self adhesive signs",23,12,53,41,87,20,115,20
+"2270","temporary marketing staff needs",25,20,35,62,72,32,22,127
+"2271","coating machines",14,36,88,24,48,113,21,113
+"2272","metal housings or cabinets",23,12,53,41,87,20,38,20
+"2273","nickel based super alloys",25,20,35,21,91,32,210,205
+"2274","packaging tubes and cores and labels and accessories",16,16,81,50,113,45,70,45
+"2275","pallets",7,2,8,35,110,15,34,165
+"2276","machine tools",14,36,88,24,13,113,21,113
+"2277","permanent marketing staff needs",25,20,35,62,72,32,22,127
+"2278","air compressors",14,36,89,21,91,133,71,205
+"2279","display systems or its accessories",18,27,48,13,10,10,91,211
+"2280","carded packaging",14,36,89,21,91,78,127,205
+"2281","filing cabinets or accessories",18,30,48,9,119,11,176,235
+"2282","steel",7,2,8,86,137,15,34,150
+"2283","polytechnic",7,2,8,35,110,15,34,165
+"2284","inventory management software",23,14,56,99,105,22,162,179
+"2285","sewage treatment services",1,50,31,92,99,80,119,1
+"2286","newsprint and offset papers",23,12,78,41,87,111,126,20
+"2287","studio photography services or still photographs",15,8,40,94,63,18,120,189
+"2288","animal hides and skins and animal textile materials",5,18,41,57,14,42,23,51
+"2289","poster advertising",14,41,89,21,136,121,206,202
+"2290","surface water treatment services",2,40,68,94,47,142,153,88
+"2291","customs brokerage services",1,50,31,92,99,80,119,1
+"2292","booths",7,2,8,86,137,15,34,150
+"2293","elevator maintenance services.",1,50,31,14,149,80,119,129
+"2294","furnaces",7,2,8,86,137,15,34,150
+"2295","hazardous waste or scrap",23,12,53,7,67,37,98,143
+"2296","precious metals",24,29,89,26,41,16,71,205
+"2297","metal solids",24,29,89,86,137,16,71,150
+"2298","franchise operations",14,36,89,86,137,16,71,150
+"2299","re financing services",10,46,54,92,99,51,109,1
+"2300","health service planning",1,50,99,98,149,80,164,54
+"2301","personal assistance service unions",2,13,68,98,37,101,221,146
+"2302","teleconferencing console",14,36,89,86,137,16,71,150
+"2303","switch or router software",23,14,51,91,126,82,205,126
+"2304","export development",14,36,89,46,137,16,141,173
+"2305","culture promotional services",1,50,31,98,149,80,119,181
+"2306","health or hospitalisation insurance",23,12,53,21,91,20,12,205
+"2307","professional schools",14,36,89,21,91,16,71,205
+"2308","camera kits",14,36,60,44,18,64,73,17
+"2309","investment analysis",14,36,89,21,138,16,118,205
+"2310","development of small scale industries",25,20,35,41,142,32,143,178
+"2311","personal computer pc application design",25,20,35,1,44,129,50,222
+"2312","market data",14,36,58,48,127,117,118,144
+"2313","information retrieval systems",17,27,100,13,92,150,241,220
+"2314","trade promotion services",1,50,36,98,149,80,164,181
+"2315","microfilm production equipment and supplies",11,32,34,23,54,102,180,226
+"2316","conversational foreign language instruction",25,20,35,62,64,32,210,127
+"2317","clean rooms",14,36,89,60,91,16,71,110
+"2318","curriculum based electronic learning aids",16,16,42,62,64,57,224,127
+"2319","graphical user interface development software",3,16,45,47,85,9,110,62
+"2320","radiographic equipment",14,10,86,81,75,148,200,195
+"2321","identification documents",14,36,89,21,91,16,71,205
+"2322","counterterrorism",7,2,8,35,110,15,34,165
+"2323","templates",7,2,8,35,110,15,34,165
+"2324","scientific instruments or measuring equipment manufacture services",12,43,72,67,29,99,93,223
+"2325","personal assistance services",1,50,31,98,37,80,119,146
+"2326","manual test kits and quality controls and calibrators and standards",5,18,80,57,14,71,54,51
+"2327","printing machinery and equipment",19,6,73,20,3,60,166,75
+"2328","modems",7,2,8,86,137,15,34,150
+"2329","conversation recording units",23,12,53,41,87,20,207,20
+"2330","videoscopes",7,2,8,35,110,15,34,165
+"2331","autoclave and steriliser equipment and accessories",11,32,34,8,144,102,182,43
+"2332","ultrasonic cleaning equipment",19,6,87,81,75,17,47,195
+"2333","solar collecting devices",23,12,53,41,87,20,12,93
+"2334","microwave antennas",14,36,89,21,91,16,71,205
+"2335","rehabilitation exercise devices and equipment",11,32,20,20,3,88,33,247
+"2336","distributive or service trade statistics",2,13,68,94,63,101,221,189
+"2337","shelters",7,2,8,86,137,15,34,150
+"2338","manufacturing equipment maintenance and repair services",15,8,40,42,76,92,220,180
+"2339","manufacturing equipment maintenance services",8,13,97,10,139,124,13,209
+"2340","automotive or aircraft wire",23,25,3,33,4,59,97,158
+"2341","sirens",7,2,8,35,110,15,34,165
+"2342","x ray diffraction equipment",19,6,87,81,75,17,47,195
+"2343","legislative bodies and practice",23,12,53,41,87,20,12,20
+"2344","mail sealing machines",23,12,74,41,87,66,129,219
+"2345","money counting machines",23,12,74,24,48,66,129,113
+"2346","poster boards",14,36,89,21,91,16,71,205
+"2347","wrap or tag or label or seal or bag printing",4,48,55,5,94,126,17,90
+"2348","rulers",7,2,8,35,110,15,34,165
+"2349","writing instruments",14,44,89,83,45,16,114,15
+"2350","lobbying services",10,46,54,72,58,51,109,60
+"2351","satellite or earth communication systems services",15,15,40,18,65,41,132,109
+"2352","sanitary waste receptacles",23,12,53,21,91,37,98,205
+"2353","post office box services",2,13,68,94,63,101,221,189
+"2354","fisheries operations",14,36,89,21,91,16,71,187
+"2355","fishery commercial management",23,38,56,64,9,54,209,134
+"2356","fishery information or documentation services",2,13,68,94,63,101,221,189
+"2357","fisheries oversight",14,36,89,21,91,16,71,187
+"2358","films",7,2,8,86,137,15,184,150
+"2359","network operating system enhancement software",3,16,71,47,52,39,42,214
+"2360","interface bus switches",23,12,53,41,87,20,12,20
+"2361","tape arrays",14,36,89,86,137,108,121,150
+"2362","colour copy or collating services",2,13,68,94,63,101,221,189
+"2363","sale of commercial building",23,38,93,41,108,54,144,133
+"2364","signage characters",14,36,89,21,91,16,71,205
+"2365","electrical fittings",14,36,37,2,91,16,141,186
+"2366","cabinetry",7,2,8,86,137,15,34,150
+"2367","utility and device driver software",25,3,91,39,77,49,86,8
+"2368","digital mobile network infrastructure equipment and components",4,48,32,85,123,75,74,201
+"2369","computerised information retrieval systems",25,47,7,13,92,12,233,220
+"2370","presses",7,2,8,86,137,15,34,150
+"2371","crystallography equipment",14,10,86,84,70,148,200,213
+"2372","digital analyser controllers",23,12,53,41,87,67,211,175
+"2373","chromatography pumps",14,36,89,46,137,16,71,123
+"2374","cryogenic pumps",14,36,89,46,137,16,71,123
+"2375","power monitoring or control systems",25,47,7,66,11,31,181,101
+"2376","radioisotope sources",14,36,89,21,91,16,71,205
+"2377","spectrophotometers",7,2,8,35,110,15,34,165
+"2378","cross curricular projects",23,12,53,21,91,20,12,205
+"2379","radiation protection services",1,50,31,98,149,80,119,106
+"2380","alpha counters",14,36,89,86,137,16,71,150
+"2381","live performances",14,36,89,21,91,16,71,205
+"2382","photographic or picture mounting or framing services",15,8,40,18,65,18,120,157
+"2383","basic job skills instructional materials",16,4,42,47,107,114,11,49
+"2384","charity organisations",14,36,89,86,137,16,71,150
+"2385","internet advertising",14,41,89,21,136,121,206,202
+"2386","air conditioning or ventilating or refrigeration equipment manufacture services",5,18,50,29,51,40,56,80
+"2387","tax collection services",1,50,31,98,149,80,119,106
+"2388","multi function printers",23,12,53,41,87,20,12,20
+"2389","contagious disease prevention and control",25,20,35,41,87,32,210,175
+"2390","housekeeping services",10,46,54,72,58,51,109,60
+"2391","desktop publishing software",23,14,51,71,105,82,205,179
+"2392","springs",7,2,8,86,137,15,34,150
+"2393","calculators or accessories",13,5,24,80,131,69,222,73
+"2394","conference calling services",1,50,31,98,149,80,119,106
+"2395","surface data logging equipment",11,32,20,75,36,88,33,58
+"2396","forensic it services",10,46,54,92,99,51,109,1
+"2397","cassette disposal equipment and accessories",11,32,34,75,36,102,182,128
+"2398","print servers",14,26,70,3,140,109,183,59
+"2399","antistatic maintenance kits",23,12,53,41,8,59,85,231
+"2400","taxation policy",14,36,89,21,91,16,71,205
+"2401","magazine or book covers",23,12,53,41,87,20,12,44
+"2402","visual presenters",14,36,89,21,91,16,71,205
+"2403","speech writing",14,36,89,21,91,16,5,205
+"2404","solar radiation surface observing apparatus",16,16,42,47,66,57,224,62
+"2405","radar antennas",14,36,89,21,91,16,71,205
+"2406","hydrological instruments",14,44,89,86,137,16,114,102
+"2407","climatology",7,2,8,35,110,15,34,165
+"2408","briefcases",7,2,8,35,110,15,34,165
+"2409","goniometers",7,2,8,35,110,15,34,165
+"2410","cognitive and dexterity and perceptual and sensory evaluation and therapy products",5,18,80,36,150,71,54,42
+"2411","steaming machinery",14,36,63,43,59,61,202,87
+"2412","ventilation",7,2,8,86,137,15,34,150
+"2413","partitions",7,2,8,35,110,15,34,165
+"2414","water models",14,36,89,45,122,132,104,78
+"2415","radio related services",1,50,75,98,125,80,88,103
+"2416","smoke detectors",14,36,89,86,137,16,71,150
+"2417","drug or alcohol screening",23,12,53,41,87,20,12,20
+"2418","garbage collection or destruction or processing or disposal",16,16,42,62,64,57,224,127
+"2419","private or business propeller aircraft",25,20,35,62,46,32,186,190
+"2420","identification cards or bands or similar products",16,16,42,36,150,57,31,42
+"2421","hardware or telephony adapters",23,12,53,41,87,20,12,20
+"2422","titanium bars",14,36,89,86,137,16,71,150
+"2423","hydraulic cylinders and pistons",23,12,53,21,80,20,12,53
+"2424","weapons destruction",14,36,89,21,91,16,71,205
+"2425","milling machines",14,36,88,95,102,113,21,250
+"2426","fiberscopes",7,2,8,35,110,15,34,165
+"2427","athletic footwear",14,36,89,21,91,16,71,205
+"2428","blanket frames or lifters",23,12,53,21,91,20,12,205
+"2429","integrated tool carriers",22,12,53,78,87,20,218,231
+"2430","grinding machines",14,36,88,24,48,113,21,113
+"2431","quilts",7,2,8,35,110,15,34,165
+"2432","decorative buttons",14,36,89,21,91,16,71,205
+"2433","emergency resuscitator or aspirator kits",25,20,35,41,8,115,203,231
+"2434","womens dresses or skirts or saris or kimonos",16,16,42,21,91,57,224,205
+"2435","miscellaneous assembly machines",23,12,74,28,28,66,129,219
+"2436","disaster warning services",1,50,31,98,149,80,119,106
+"2437","cutting dies or tooling",22,12,53,78,87,20,218,231
+"2438","resistors",7,2,8,35,110,15,34,165
+"2439","measuring and layout tools",22,12,53,78,87,20,218,231
+"2440","name plates or tags",23,12,53,41,87,20,12,20
+"2441","hammer drills",14,36,89,86,137,16,71,150
+"2442","interior vehicle lighting",23,12,79,41,43,95,69,55
+"2443","wrenches and drivers",14,36,89,21,91,16,71,205
+"2444","combined refrigerator freezers",23,12,53,41,87,20,12,20
+"2445","polystyrene ps",7,2,8,35,110,15,34,165
+"2446","drivetrain systems",13,5,16,25,53,86,175,225
+"2447","fire breathing apparatus",23,12,53,41,87,20,12,136
+"2448","scaffolding",7,2,8,35,110,15,34,165
+"2449","aircraft windshields",14,23,60,97,6,91,223,114
+"2450","absorbent socks",14,36,89,21,91,16,71,205
+"2451","acrylate or methacrylate intermediates",23,12,53,35,110,20,12,165
+"2452","caps",7,2,8,35,110,15,34,165
+"2453","self propelled artillery",23,12,53,21,91,20,115,205
+"2454","pulling tools",14,36,60,21,134,89,108,46
+"2455","bandsaws and accessories",13,5,24,80,131,69,222,73
+"2456","folding machines",14,36,88,24,48,113,21,113
+"2457","disc brake",14,36,89,21,91,16,71,205
+"2458","folding chairs",14,36,89,21,91,16,71,205
+"2459","carbon dioxide gas co2",23,12,26,86,137,25,208,174
+"2460","stopper pad",14,36,89,21,91,16,71,205
+"2461","mens overalls or coveralls",23,12,53,41,87,20,12,20
+"2462","plastic injection moulds",23,12,53,21,91,20,12,204
+"2463","airway pressure gages",23,12,53,21,91,20,12,205
+"2464","coaxial cable",14,21,37,93,137,146,193,173
+"2465","heat resistant cables",23,12,53,41,87,131,199,245
+"2466","packer pulling tools",22,12,53,21,134,20,218,46
+"2467","aircraft canopies",14,23,60,27,71,91,223,156
+"2468","drink holders for the physically challenged",25,20,35,62,88,52,210,2
+"2469","commercial use cutlery",23,38,53,41,87,54,63,20
+"2470","multimeters",7,2,8,35,110,15,34,165
+"2471","encephalitis virus vaccine",23,12,53,21,124,105,12,131
+"2472","hydraulic hose and tube fittings",25,20,35,62,64,32,210,127
+"2473","satellite antennas",14,36,89,21,91,16,71,205
+"2474","relay boards or multiple relay modules",5,18,80,5,94,71,54,90
+"2475","anchor retrievers",14,36,89,21,91,16,71,205
+"2476","sweaters",7,2,8,86,137,15,34,150
+"2477","windshield wipers",14,36,89,86,137,16,71,150
+"2478","hydrogen compound gases",23,12,53,21,91,20,12,205
+"2479","landing gear assemblies",23,12,12,28,28,107,14,141
+"2480","magnets and magnetic materials",16,4,42,47,107,114,11,49
+"2481","clutches",7,2,8,35,110,15,34,165
+"2482","detection apparatus for non metallic objects",16,16,42,47,66,57,224,62
+"2483","handcuffs",7,2,8,35,110,15,34,165
+"2484","die castings",14,36,89,21,91,16,71,205
+"2485","fibreglass thread",14,36,89,86,137,16,71,150
+"2486","valves",7,2,8,86,137,15,34,150
+"2487","adaptors or linkers",14,36,89,35,110,16,71,165
+"2488","power generation monitoring or detecting equipment",16,16,76,6,1,19,78,25
+"2489","running track",14,36,89,86,137,16,71,150
+"2490","certificate ribbons",14,36,89,21,91,16,71,33
+"2491","bath towels",14,36,89,86,137,16,71,150
+"2492","marine signalling systems",17,27,100,13,92,150,241,220
+"2493","load binders",14,36,89,21,91,16,71,205
+"2494","mast boots",14,36,89,86,137,16,71,99
+"2495","anti seize or anti stain compounds",5,18,80,47,66,71,54,62
+"2496","food service ice buckets or wine coolers",12,43,72,18,65,23,93,157
+"2497","identification panels",14,36,89,83,45,16,71,205
+"2498","shoulder boards or epaulettes",23,12,53,86,137,20,12,150
+"2499","corrosion inhibitors",14,36,89,86,137,16,71,150
+"2500","patient stretchers or stretcher accessories",4,48,55,5,94,126,242,191
+"2501","optical device accessories",18,30,48,9,119,11,176,235
+"2502","hydraulic truck cranes",23,12,53,41,87,20,12,136
+"2503","traps and strainers",14,36,89,35,110,16,71,165
+"2504","door interlocking systems",17,27,100,53,82,150,241,161
+"2505","handles or knobs",14,36,89,86,137,16,71,150
+"2506","undershirts",7,2,8,35,110,15,34,165
+"2507","telephone ring generators",23,12,53,41,87,20,167,20
+"2508","heating stoves",14,36,89,21,91,16,71,205
+"2509","oil and gas drilling and exploration equipment",16,16,76,6,1,19,78,25
+"2510","digital testers",14,36,89,21,91,16,62,67
+"2511","battery cabinets or covers or doors",25,20,35,62,64,32,210,127
+"2512","corrosion control equipment",19,6,87,20,3,17,213,11
+"2513","cotton fabrics",14,36,89,60,91,16,60,205
+"2514","domestic drinking glasses",23,12,53,41,87,20,58,20
+"2515","tshirts",7,2,8,86,137,15,34,150
+"2516","mens tshirts",14,36,89,88,73,83,71,177
+"2517","mens athletic wear",23,12,53,88,73,20,12,177
+"2518","floor sweepers",14,36,89,86,137,16,240,18
+"2519","lace",7,2,8,35,110,15,34,165
+"2520","fabricated bar stock assemblies",25,20,35,62,64,32,169,170
+"2521","colorimeters",7,2,8,35,110,15,34,165
+"2522","tool bags",14,36,60,21,134,89,108,82
+"2523","cotton oxford cloths",23,12,53,60,91,20,12,205
+"2524","notebook filler paper",23,12,78,21,129,111,126,91
+"2525","picture card wallets",23,12,53,21,91,20,12,205
+"2526","chains",7,2,8,86,137,15,34,150
+"2527","surface mount device",23,12,53,41,87,20,12,93
+"2528","nuclear tools",14,36,60,21,134,89,108,82
+"2529","neutron generators",14,36,89,86,137,138,95,150
+"2530","domestic flatware and cutlery",23,12,53,21,91,20,58,41
+"2531","robotics",7,2,8,86,137,15,34,150
+"2532","link arms",14,36,89,21,91,16,71,205
+"2533","dyeing and tanning extracts",23,12,53,21,91,20,12,205
+"2534","emergency dye signals",23,12,53,41,87,20,12,20
+"2535","headbands",7,2,8,35,110,15,34,165
+"2536","packaging machinery",14,36,63,43,59,61,202,87
+"2537","mercury oxide battery",23,12,53,21,16,20,12,205
+"2538","sputtering targets",14,36,89,86,137,16,71,150
+"2539","workshop cranes",14,36,89,21,91,16,71,205
+"2540","engine repair kit",23,12,53,41,8,59,48,231
+"2541","tanks",7,2,8,86,137,103,102,150
+"2542","pipeline services",10,46,54,72,58,51,109,60
+"2543","motor starter controls",23,12,53,16,90,67,211,100
+"2544","steel bridges",14,36,89,21,91,16,71,205
+"2545","air inflators",14,36,89,21,91,133,71,205
+"2546","seals",7,2,8,86,137,15,191,150
+"2547","paint or varnish removers",23,12,53,21,91,20,161,205
+"2548","safety chains",14,36,21,21,91,72,96,135
+"2549","measurement math kits",23,12,53,41,8,59,85,231
+"2550","mounting bars",14,36,89,21,91,16,71,205
+"2551","toxic gas detection services",2,13,68,94,63,101,221,88
+"2552","military shelter",14,36,89,21,106,74,130,4
+"2553","tube adapters",14,36,89,21,91,16,71,205
+"2554","particleboard",7,2,8,35,110,15,34,165
+"2555","shelf brackets",14,36,89,86,137,16,71,150
+"2556","engine ignition systems",17,27,100,53,82,150,111,161
+"2557","urinal or toilet accessories",18,30,48,58,146,11,176,248
+"2558","military personnel and discipline",23,12,53,21,106,20,12,4
+"2559","vending machines",14,36,88,95,102,113,21,250
+"2560","straps",7,2,8,86,137,15,34,150
+"2561","elbow protectors",14,36,89,86,137,16,71,150
+"2562","eating and drinking and food preparation aids for the physically challenged",5,18,80,57,14,71,54,51
+"2563","hessian or hemp or jute cloth",25,20,35,68,137,32,210,242
+"2564","explosive loading machinery spare parts or accessories",4,48,55,5,94,126,242,191
+"2565","ear protectors or shields",23,12,53,21,91,20,12,205
+"2566","target games and equipment",19,6,87,20,3,17,47,247
+"2567","display board",14,36,89,21,91,16,71,205
+"2568","cosmetics",7,2,8,35,110,15,34,165
+"2569","personnel carriers",14,36,89,21,91,16,71,205
+"2570","non edible animal products",25,20,35,62,64,98,173,184
+"2571","safety slings",14,36,21,21,91,72,96,135
+"2572","fresh drupe or stone fruit juice or concentrate",4,48,55,5,94,126,17,90
+"2573","bedclothes",7,2,8,86,137,15,34,150
+"2574","tamper parts or repair kits",25,20,35,62,64,115,203,152
+"2575","exterior aircraft lighting",23,25,3,33,4,76,97,158
+"2576","pressure gauge",14,36,89,86,137,16,71,150
+"2577","bushings",7,2,8,86,137,15,34,150
+"2578","exhaust and emission controls",23,12,53,86,137,67,211,102
+"2579","vehicle interior systems",17,27,100,34,92,150,241,164
+"2580","battery kits",14,36,60,44,18,64,73,17
+"2581","nylon rope",14,36,89,21,91,16,71,205
+"2582","safety glasses",14,36,21,21,91,72,96,135
+"2583","barbed wire",14,36,89,86,137,16,71,150
+"2584","tyre valves",14,36,89,21,91,16,71,205
+"2585","water treatment services",1,50,31,98,141,80,119,106
+"2586","operation or instruction manuals",23,12,53,79,87,20,12,239
+"2587","gas masks",14,36,89,21,112,16,66,188
+"2588","sound generating and measuring equipment",11,32,20,75,36,88,33,58
+"2589","machined forgings",14,36,88,24,48,113,21,113
+"2590","vehicle side panels",23,12,79,41,43,95,45,55
+"2591","batons",7,2,8,35,110,15,34,165
+"2592","motors",7,2,8,86,137,15,34,150
+"2593","sprayers",7,2,8,35,110,15,34,165
+"2594","specialty assembly",14,36,89,21,91,16,225,205
+"2595","alcohols or its substitutes",14,36,89,21,91,16,71,205
+"2596","spill kits",14,36,60,44,18,64,73,17
+"2597","detonators",7,2,8,35,110,15,34,165
+"2598","food and beverage dispensing equipment",11,32,20,75,36,88,159,58
+"2599","refuse collection and disposal",23,12,53,41,87,37,12,20
+"2600","reconnaissance or surveillance aircraft",23,25,3,33,4,59,97,158
+"2601","natural resources management or conservation strategy planning services",5,18,83,29,51,40,56,80
+"2602","atomic and nuclear energy machinery and equipment",16,16,76,75,36,19,78,203
+"2603","truck rims or wheels",23,12,53,21,91,20,12,205
+"2604","telephony equipment alarm units",11,32,20,75,36,88,33,58
+"2605","lapidary machinery and equipment",19,6,73,81,75,60,166,195
+"2606","military policy",14,36,89,21,106,74,130,4
+"2607","watches",7,2,8,86,137,15,34,150
+"2608","temperature calibrator or simulator",23,12,53,41,87,20,12,20
+"2609","sheets",7,2,8,86,137,38,100,150
+"2610","domestic disposable food containers",25,20,35,62,64,32,210,198
+"2611","commercial sports",14,36,89,21,91,16,71,205
+"2612","fresh melon juice or concentrates",25,20,35,41,87,32,210,20
+"2613","material handling hoses",23,35,94,90,81,144,44,185
+"2614","water purification reagents",23,12,53,64,9,54,12,39
+"2615","braking systems and components",17,27,100,13,133,150,1,220
+"2616","wood flooring",14,36,89,21,91,16,240,218
+"2617","general shop tool storage cabinets or cabinets with tools",9,37,69,69,12,122,192,183
+"2618","mining services",10,46,54,92,99,51,109,1
+"2619","vehicle body repair or painting services",15,8,40,18,65,18,120,157
+"2620","paint application system",17,27,100,13,92,150,241,220
+"2621","fresh tropical fruits",23,12,53,21,91,20,12,205
+"2622","backhoes",7,2,8,35,110,15,34,165
+"2623","medical gloves and accessories",18,30,48,9,119,11,176,235
+"2624","domestic wall treatments",23,12,53,41,87,20,58,20
+"2625","dry dock",14,36,89,21,91,16,71,205
+"2626","international trade services",1,50,36,98,149,80,164,181
+"2627","gambling or wagering equipment",19,6,87,84,70,17,47,213
+"2628","inorganic chemical mixtures",23,12,53,21,91,20,12,205
+"2629","handkerchiefs",7,2,8,35,110,15,34,165
+"2630","master jig",14,36,89,21,91,16,71,205
+"2631","sandwiches and filled rolls",23,12,53,86,137,20,12,150
+"2632","sheet",7,2,8,86,137,38,100,150
+"2633","dry cell batteries",23,12,53,41,87,20,12,20
+"2634","bottled water dispensers or accessories",25,20,92,50,113,137,177,45
+"2635","utility boxes",14,36,89,21,91,78,57,205
+"2636","differentials",7,2,8,35,110,15,34,165
+"2637","suspensions",7,2,8,86,137,15,34,150
+"2638","light trucks or sport utility vehicles",16,16,42,47,66,57,224,62
+"2639","social policy services",1,50,31,98,149,80,119,106
+"2640","asbestos",7,2,8,86,137,15,34,150
+"2641","printing presses",14,26,70,3,140,109,183,59
+"2642","alternative and holistic medicine",23,12,53,21,91,20,12,205
+"2643","system usability services",1,50,99,49,120,63,90,29
+"2644","wall racks",14,36,89,21,91,16,71,205
+"2645","guest seating",14,36,89,86,137,16,71,150
+"2646","refugee programs",14,36,58,21,143,16,146,63
+"2647","educational guidance services",1,50,23,92,99,63,27,1
+"2648","forensic magnifiers",14,36,89,86,137,16,71,150
+"2649","political participation",14,36,89,86,137,16,71,150
+"2650","shop buildings",14,34,89,21,91,16,138,233
+"2651","domestic pet training kits",25,20,35,62,64,115,203,152
+"2652","site preparation services",1,50,31,98,149,80,119,106
+"2653","clinical nutrition",14,36,89,21,91,16,71,205
+"2654","inkjet printers",14,36,89,86,137,16,71,150
+"2655","industrial trucks",14,36,89,21,83,133,124,249
+"2656","drafting or design teaching aids or materials",16,4,42,47,107,114,11,49
+"2657","agricultural machinery for soil preparation",25,20,35,62,64,32,210,170
+"2658","furniture cleaners",14,22,84,21,91,141,99,147
+"2659","lighting control systems",17,27,100,13,92,150,117,220
+"2660","fabrics and leather production",23,12,46,36,150,119,198,42
+"2661","corporate uniforms",14,36,89,21,91,16,71,205
+"2662","technical assistance non governmental services",15,8,40,18,65,18,120,157
+"2663","gas liquid contacting systems",25,47,7,13,92,12,181,220
+"2664","dry cleaning",14,36,89,60,91,16,71,110
+"2665","commercial use dishwashers",23,38,53,21,91,54,63,205
+"2666","electronic flash cards",23,12,53,41,31,20,214,105
+"2667","book returns",14,36,89,86,137,16,71,150
+"2668","mowers",7,2,8,35,110,15,34,165
+"2669","hub adapters",14,36,89,21,91,16,71,205
+"2670","mouldings",7,2,8,86,137,15,34,150
+"2671","trading cards",14,36,85,21,91,3,127,205
+"2672","drafting papers",14,36,77,21,129,96,32,91
+"2673","employment law services",1,50,31,98,149,80,119,106
+"2674","planning or layout of graphic production",25,20,35,62,64,98,173,184
+"2675","compact disks cds",23,12,53,21,91,20,12,205
+"2676","file storage boxes or containers",25,20,35,62,64,13,232,198
+"2677","delivered meals services",1,50,31,92,99,80,119,1
+"2678","passenger marine transportation",23,12,33,12,5,149,51,200
+"2679","ombudsman services",10,46,54,72,58,51,109,60
+"2680","cruisers",7,2,8,35,110,15,34,165
+"2681","computer tool kits",22,12,6,78,8,21,85,231
+"2682","hearing aids for the physically challenged",25,20,35,62,88,52,210,2
+"2683","lodges or resorts",14,36,89,86,137,16,71,150
+"2684","air cargo transport",23,12,33,12,5,149,51,200
+"2685","libraries",7,17,64,86,137,94,4,102
+"2686","wide area network communications design",16,16,42,47,66,57,15,30
+"2687","broadband or narrowband digital cross connect dcx equipment",5,18,50,75,36,44,54,58
+"2688","industrial cabinets or drawers or shelving",25,20,35,41,142,32,143,178
+"2689","console extenders",14,36,89,86,137,16,71,150
+"2690","industrial lighting or power or data components",16,16,42,47,19,145,61,212
+"2691","storage cabinets",14,22,61,22,89,93,168,115
+"2692","office machine accessories",18,30,48,9,103,11,176,210
+"2693","certificated distance learning services",2,13,68,94,63,101,221,189
+"2694","technology teaching aids and materials",25,20,2,62,34,65,67,139
+"2695","office time recording machines and accessories",16,16,81,47,20,45,70,142
+"2696","bar code labels",23,12,53,41,87,20,115,20
+"2697","protocol analysers",14,36,89,86,137,16,71,150
+"2698","storage area network san switch",16,16,42,62,64,57,15,198
+"2699","coastal patrol watercraft",23,12,53,86,137,20,12,150
+"2700","chilling units or cold water circulators",16,16,42,1,64,57,224,120
+"2701","non metallic bins",23,12,53,26,41,20,38,205
+"2702","heat exchangers",14,36,89,21,91,16,71,205
+"2703","aerial photography services",1,50,31,98,149,80,119,106
+"2704","water quality management",23,12,56,64,9,54,209,134
+"2705","concrete spreaders",14,36,89,86,137,16,71,150
+"2706","urban development control or regulations services",15,8,40,18,65,18,120,224
+"2707","road pavers",14,36,89,86,137,16,71,150
+"2708","stone",7,2,8,86,137,15,34,150
+"2709","trees and shrubs",14,36,89,86,137,16,71,150
+"2710","sculpture accessories",13,5,24,58,146,69,222,248
+"2711","asphalt",7,2,8,35,110,15,34,165
+"2712","replacement rubbers",14,36,89,86,137,16,71,102
+"2713","market research one on one interviews",5,18,80,89,116,71,54,116
+"2714","oilfield consultancy services",1,50,31,92,99,80,119,1
+"2715","service recognition programs",1,50,31,92,99,80,119,1
+"2716","flash memory storage devices",25,20,35,40,87,13,232,153
+"2717","meeting planners",14,36,89,86,137,16,204,150
+"2718","area or tour guides",23,12,53,21,91,20,12,205
+"2719","seawall",7,2,8,35,110,15,34,165
+"2720","roofing accessories",13,5,24,58,146,69,222,248
+"2721","substation",7,2,8,35,110,15,34,165
+"2722","heating equipment and parts and accessories",11,32,34,75,36,102,182,128
+"2723","heating systems installation repair or maintenance",20,16,71,47,52,39,212,151
+"2724","land evaluation",14,36,89,21,91,16,152,23
+"2725","showcases",7,2,8,35,110,15,34,165
+"2726","billboards",7,2,8,86,137,15,34,150
+"2727","analytical or scientific software",23,14,51,91,126,82,205,126
+"2728","transport arrangements",14,7,84,86,137,77,178,74
+"2729","wheelchair accessories",13,5,24,58,146,69,222,248
+"2730","hot air balloons",23,12,53,86,137,20,12,57
+"2731","coating or glazing of metal or wood or concrete structural materials",5,18,80,11,40,71,150,90
+"2732","multimedia projectors",14,36,89,21,91,16,71,205
+"2733","plasma display panels pdp",25,20,35,83,45,32,210,205
+"2734","restaurant furniture",14,22,84,21,91,141,99,147
+"2735","educational advisory services",1,50,23,70,15,63,27,5
+"2736","manufacturing teaching aids or materials",25,20,2,62,34,65,67,139
+"2737","rubber flooring",14,36,89,21,91,16,240,218
+"2738","childrens science kits",23,12,53,44,18,59,85,17
+"2739","video editors",14,36,89,86,137,16,71,150
+"2740","video projectors",14,36,89,21,91,16,71,205
+"2741","digital cameras",14,36,89,21,91,16,62,67
+"2742","televisions",7,2,8,86,137,15,34,150
+"2743","customs bonded storage services",2,13,68,98,141,101,221,106
+"2744","non ferrous alloy extrusion ingots",16,16,42,41,87,57,224,86
+"2745","furnaces or ovens manufacture services",2,13,68,98,149,101,221,168
+"2746","plumbing system construction",17,27,100,13,92,150,241,220
+"2747","raw materials",14,28,77,21,129,90,82,91
+"2748","electronic controls installation",23,12,53,41,31,67,211,105
+"2749","cabbing accessories",13,5,24,58,146,69,222,248
+"2750","water gas or producer gas",4,48,55,5,94,126,17,90
+"2751","drill collars",14,36,89,21,91,16,71,205
+"2752","charms",7,2,8,35,110,15,34,165
+"2753","fair organisation or management services",2,13,68,94,25,30,221,68
+"2754","antistatic boxes",14,36,89,21,91,78,57,205
+"2755","shim",7,2,8,86,137,15,34,150
+"2756","vinyl flooring",14,36,89,86,137,16,240,18
+"2757","processed and synthetic rubber",23,12,17,41,87,20,35,175
+"2758","holograms",7,2,8,35,110,15,34,165
+"2759","precious metal billets",23,12,53,26,41,20,38,205
+"2760","sales forms or sales books",4,48,55,5,94,126,17,90
+"2761","gate barrier systems",17,27,100,53,82,150,241,161
+"2762","electrical or power regulators",23,12,22,41,147,20,59,169
+"2763","informational signs",14,36,89,21,91,16,71,205
+"2764","regrind or reclaim or coating services for cutting tools",12,43,72,94,63,23,93,189
+"2765","strip",7,2,8,86,137,15,34,150
+"2766","plating services",10,46,54,92,99,51,109,1
+"2767","stack stands",14,36,89,86,137,16,71,150
+"2768","metal smelting and refining and forming processes",16,16,42,62,64,57,224,127
+"2769","high vacuum equipment",19,6,87,20,3,17,47,247
+"2770","enclosure plates or covers",23,12,53,21,91,20,12,218
+"2771","driven plate",14,36,89,86,137,16,71,150
+"2772","nu gold sheets plates",23,12,53,41,87,20,12,239
+"2773","shaft collar",14,36,89,21,91,16,71,205
+"2774","microwave access equipment",19,6,87,20,3,17,47,247
+"2775","industrial use papers",23,38,52,41,142,27,236,178
+"2776","flooring service",10,46,54,92,99,51,109,1
+"2777","masonry and stonework and tile setting",25,20,35,21,91,32,210,205
+"2778","concrete work",14,36,89,21,91,16,157,205
+"2779","teletype equipment",14,10,86,84,70,148,200,213
+"2780","clinical forensics equipment and supplies",11,32,34,23,54,102,180,226
+"2781","general furniture parts and accessories",25,20,92,50,113,137,177,45
+"2782","investment advisers",14,36,89,86,137,16,71,150
+"2783","lubricating preparations",14,36,89,21,91,16,71,205
+"2784","tent bag",14,36,89,54,137,78,36,27
+"2785","ice making machines",23,12,74,41,87,66,129,219
+"2786","sport mats or padding",23,12,53,41,87,20,12,20
+"2787","box",7,2,8,86,137,15,227,150
+"2788","step drive or stepper drive or step indexer",9,37,69,47,66,122,30,62
+"2789","electrical receptacle multipliers",23,12,22,2,91,20,59,186
+"2790","torso and belt restraints",23,12,53,21,91,20,12,205
+"2791","gas burners",14,36,89,86,137,16,66,174
+"2792","discrete semiconductor devices",23,12,53,21,91,20,12,205
+"2793","refractories",7,2,8,35,110,15,34,165
+"2794","machined extrusions",14,36,88,24,48,113,21,113
+"2795","clubs",7,2,8,86,137,15,34,150
+"2796","mining and oil and gas integrated services",15,8,40,18,65,125,120,224
+"2797","airfield",7,2,8,35,110,15,34,165
+"2798","runway",7,2,8,35,110,15,34,165
+"2799","cafeteria services",10,46,54,72,58,51,109,60
+"2800","stampings and sheet components",23,12,53,41,87,87,167,239
+"2801","oil and gas restoration and reclamation services",15,8,40,94,63,125,120,88
+"2802","passenger railway transportation",23,12,33,12,5,149,51,200
+"2803","forgings",7,2,8,86,137,15,34,150
+"2804","automotive doors",14,36,89,21,91,16,71,205
+"2805","consular services",10,46,54,72,58,51,109,60
+"2806","portal server software",23,14,51,91,126,82,205,126
+"2807","laundering services",10,46,54,72,58,51,109,60
+"2808","well drilling and construction services",2,13,68,94,63,101,221,189
+"2809","banner advertising services",1,50,31,98,149,80,219,106
+"2810","water resources mapping services",2,40,68,94,47,142,153,88
+"2811","organo metallic compounds",23,12,53,26,41,20,38,205
+"2812","oil and gas well project management services",12,43,72,67,29,23,93,61
+"2813","independent living aids for the physically challenged",16,16,42,62,88,57,224,2
+"2814","engraving",7,2,8,86,137,15,34,150
+"2815","aircraft maintenance and repair services",8,13,13,94,7,101,89,69
+"2816","winter sports equipment",19,6,87,81,75,17,47,195
+"2817","office equipment rental or leasing services",15,8,40,42,76,92,220,180
+"2818","monetary systems and issues",17,27,100,53,82,150,241,161
+"2819","machined raw stock",23,12,74,41,87,66,129,219
+"2820","job evaluation services",1,50,31,98,149,80,119,106
+"2821","risk management consultation services",2,13,68,94,25,30,221,68
+"2822","ecological advisory services",1,50,31,98,149,80,119,5
+"2823","health programs",14,36,58,21,143,16,146,63
+"2824","anti tobacco campaigns",23,12,53,21,91,20,12,205
+"2825","airport control tower",23,12,53,16,90,67,211,100
+"2826","oil and gas data management and processing services",12,43,72,67,29,23,93,61
+"2827","oil and gas exploration services",2,13,68,94,63,101,221,88
+"2828","provision of relocations services for museum exhibition",15,8,40,94,63,18,120,189
+"2829","software maintenance or support",23,14,51,71,105,82,205,36
+"2830","credit card service providers",2,13,68,94,63,101,221,189
+"2831","platform as a service (paas - cloud)",2,13,68,98,149,101,221,106
+"2832","software as a service (saas - cloud)",2,13,68,98,149,101,72,129
+"2833","infrastructure as a service (iaas - cloud)",2,13,68,98,149,101,221,106
+"2834","provision of hotels and lodging and meeting facilities",16,16,42,47,66,57,224,62
+"2835","data services",10,46,54,92,130,112,7,138
